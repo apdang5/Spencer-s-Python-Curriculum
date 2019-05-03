@@ -1,0 +1,19 @@
+origin,airport_id,carrier,passengers,airline
+MSN,ATL,DL,6620.0,Delta Air Lines
+MSN,CLT,AA,2880.0,American Airlines
+MSN,DCA,DL,3810.0,Delta Air Lines
+MSN,DEN,F9,5490.0,Frontier Airlines
+MSN,DEN,UA,5540.0,United Airlines
+MSN,DFW,AA,5810.0,American Airlines
+MSN,DTW,DL,5090.0,Delta Air Lines
+MSN,EWR,UA,4940.0,United Airlines
+MSN,LAS,F9,4880.0,Frontier Airlines
+MSN,LGA,DL,7040.0,Delta Air Lines
+MSN,MCO,F9,200.0,Frontier Airlines
+MSN,MSP,DL,4300.0,Delta Air Lines
+MSN,ORD,AA,750.0,American Airlines
+MSN,ORD,UA,730.0,United Airlines
+MSN,PHL,AA,2110.0,American Airlines
+MSN,PHL,F9,3810.0,Frontier Airlines
+MSN,SFO,UA,1330.0,United Airlines
+MSN,SLC,DL,1660.0,Delta Air Lines

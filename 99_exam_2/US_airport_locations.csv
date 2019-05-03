@@ -1,0 +1,2776 @@
+airport_id,airport_name,city_name,latitude,longitude
+01A,Afognak Lake Airport,"Afognak Lake, AK",58.10944444,-152.9066667
+03A,Bear Creek Mining Strip,"Granite Mountain, AK",65.54805556,-161.07166669999998
+04A,Lik Mining Camp,"Lik, AK",68.08333333,-163.16666669999998
+05A,Little Squaw Airport,"Little Squaw, AK",67.57,-148.1838889
+06A,Kizhuyak Bay,"Kizhuyak, AK",57.74527778,-152.8827778
+07A,Klawock Seaplane Base,"Klawock, AK",55.55472222,-133.1016667
+08A,Elizabeth Island Airport,"Elizabeth Island, AK",59.15694444,-151.8291667
+09A,Augustin Island,"Homer, AK",59.36277778,-153.4305556
+1B1,Columbia County,"Hudson, NY",42.29138889,-73.71027778
+1G4,Grand Canyon West,"Peach Springs, AZ",35.98611111,-113.81694440000001
+1N7,Blairstown Airport,"Blairstown, NJ",40.97111111,-74.9975
+8F3,Crosbyton Municipal,"Crosbyton, TX",33.62388889,-101.24083329999999
+A01,Blair Lake,"Fairbanks/Ft. Wainwright, AK",64.36361111,-147.3638889
+A02,Deadmans Bay Airport,"Deadmans Bay, AK",57.06666667,-153.93777780000002
+A03,Hallo Bay Airport,"Hallo Bay, AK",58.4575,-154.02333330000002
+A04,Red Lake Airport,"Red Lake, AK",57.27722222,-154.34222219999998
+A05,Shell Lake Airport,"Shell Lake, AK",61.96388889,-151.55583330000002
+A06,Navigator Airstrip,"Kougarok, AK",65.65555556,-165.35638889999998
+A07,Roland Norton Memorial,"Selawik, AK",66.76611111,-160.15277780000002
+A08,Pillar Bay Airport,"Pillar Bay, AK",56.59805556,-134.24277780000003
+A09,Johnstone Point Airport,"Johnstone Point, AK",60.48166667,-146.5841667
+KTH,Tikchik Lodge Airport,"Tikchik Lodge, AK",59.95555556,-158.48055559999997
+A11,Bell Creek Airport,"Bell Creek, AK",60.78388889,-159.5402778
+A12,Cinnabar Airport,"Cinnabar, AK",60.78527778,-158.86444440000002
+A13,Mountaintop Mine Airport,"Mountaintop Mine, AK",61.39027778,-157.9955556
+A14,Whitebear Airport,"Whitebear, AK",61.18888889,-159.8583333
+A15,Puviaq Airport,"Puviaq, AK",70.71555556,-154.40694440000001
+A16,Arley Lake Airport,"Arley Lake, AK",70.74694444,-155.3608333
+A17,Port Vita Airport,"Port Vita, AK",58.06555556,-153.0725
+A18,Kantishna Airport,"Kantishna, AK",63.54111111,-150.995
+A20,Alpine Airstrip,"Alpine, AK",70.34416667,-150.94472219999997
+A21,Serpentine Airport,"Serpentine, AK",65.85138889,-164.7027778
+A22,Driftwood Bay Airport,"Driftwood Bay, AK",53.97277778,-166.8569444
+A23,Bradley Lake Airport,"Bradley Lake, AK",59.77611111,-151.9636111
+A24,Chilkat Lake Airport,"Chilkat Lake, AK",59.33166667,-135.8966667
+A25,Nugget Creek Airport,"Nugget Creek, AK",59.28833333,-136.1738889
+A26,Ivotuk Airstrip,"Ivotuk, AK",68.48333333,-155.7333333
+A27,Pogo Mines Airport,"Pogo Mines, AK",64.44,-144.9363889
+A28,Ayakulik River Airport,"Ayakulik River, AK",57.25388889,-154.4222222
+A29,Kiluda Bay Airport,"Kiluda Bay, AK",57.32305556,-153.14944440000002
+A30,Terror Lake Airport,"Terror Lake, AK",57.96388889,-153.05833330000002
+A31,Selief Bay Airport,"Selief Bay, AK",58.98277778,-153.18333330000002
+A34,Laura Lake Airport,"Laura Lake, AK",58.36194444,-152.31222219999998
+A36,Deep Bay Airport,"Deep Bay, AK",55.56027778,-131.65555559999999
+A37,Kako Airport,"Kako, AK",61.89888889,-161.43972219999998
+A38,Molly Creek Airport,"Molly Creek, AK",64.09722222,-143.2666667
+A39,Ptarmigan Lake Airport,"Ptarmigan Lake, AK",61.86611111,-141.15972219999998
+A40,Cape Simpson Airport,"Cape Simpson, AK",71.05694444,-154.7283333
+A41,Kogru River Airport,"Kogru River, AK",70.57472222,-152.2588889
+A42,Teshepkuk Lake Airport,"Teshepkuk Lake, AK",70.35833333,-153.19666669999998
+A43,Trident Basin Seaplane Base,"Kodiak Island, AK",57.78083333,-152.3911111
+A45,Lake Florence Airport,"Lake Florence, AK",57.81666667,-134.58333330000002
+A46,Lake Hasselborg Airport,"Lake Hasselborg, AK",57.7,-134.2666667
+A47,Distin Lake Airport,"Distin Lake, AK",57.61666667,-134.3666667
+A48,Port Hobron Airport,"Port Hobron, AK",57.15,-153.15
+A49,Mooseville Airstrip Airport,"Mooseville Airstrip, AK",70.28444444,-152.21194440000002
+A50,Big Bay Airport,"Big Bay, AK",58.5625,-152.5961111
+A51,Wien Lake Airport,"Wien Lake, AK",64.35277778,-151.275
+A52,Silver Salmon Creek Airport,"Silver Salmon Creek, AK",59.96388889,-152.68222219999998
+A53,Blear Lake Airport,"Blear Lake, AK",64.33333333,-147.5
+A54,Cannery Bay Airport,"Cannery Bay, AK",53.68333333,-166.75
+A56,Johnsons Landing,"Bear Lake, AK",56.03666667,-160.2661111
+A57,International Seafoods Airport,"International Seafoods, AK",58.26666667,-157.5333333
+A58,Cosna River Airport,"Cosna River, AK",64.5,-151.66666669999998
+A59,Ivatuk Airport,"Ivatuk, AK",68.48777778,-155.7575
+A61,Cape Sarichef Airport,"Cape Sarichef, AK",54.5825,-164.9144444
+A62,Taylor Mountain,"Taylor Mountain Mine, AK",60.86777778,-157.3919444
+A63,Coal Creek,"Yukon Charley Rivvers, AK",65.31166667,-143.13416669999998
+A65,Karluk Portage Airport,"Karluk Portage, AK",57.53833333,-154.1644444
+A66,Hope Airport,"Hope, AK",60.90722222,-149.62277780000002
+A67,Viekoda Bay Airport,"Viekoda Bay, AK",57.84944444,-153.11527780000003
+A69,Cathedral Strip,"Cold Bay, AK",55.74,-162.12527780000002
+A70,Village Islands Airport,"Village Islands, AK",57.77416667,-153.5447222
+A71,Bear Cove Farm,"Homer, AK",59.73833333,-151.03
+A72,Chinitna Bay Airport,"Chinitna Bay, AK",59.83333333,-152.5847222
+A73,McKinley National Park,"McKinley Park, AK",63.7325,-148.91055559999998
+A74,Dog Fish Bay,"Nanwalek, AK",59.24111111,-151.87722219999998
+A75,Malina Bay Airport,"Malina Bay, AK",58.17194444,-152.8941667
+A76,Red Fox Bay Airport,"Red Fox Bay, AK",58.46444444,-152.59305559999999
+A77,Shearwater Airport,"Shearwater, AK",57.34333333,-152.8972222
+A78,Lake,"Cape Simpson, AK",71.03,-154.4436111
+A79,Cape Simpson No. 1,"Cape Simpson, AK",71.50166667,-154.0338889
+A80,Cape Simpson No. 7,"Cape Simpson, AK",70.57388889,-155.3213889
+A81,Cape Simpson #1,"Aglaq, AK",70.66277778,-154.8366667
+A82,Nikiski Private Airstrip,"Nikiski, AK",60.69027778,-151.2888889
+A83,Petrof Point Airport,"Petrof Point, AK",59.37638889,-150.765
+A84,Denali West Lodge Private,"Denali, AK",63.75555556,-147.93
+A85,Big River Airport,"Big River, AK",61.85944444,-154.2766667
+A87,Carry Inlet Airport,"Carry Inlet, AK",58.58305556,-152.4458333
+A89,Montague Island Airport,"Montague Island, AK",59.925,-147.5166667
+A90,Shannon Pond Airport,"Shannon Pond, AK",59.03916667,-158.4638889
+A91,Omalik Lagoon Airport,"Omalik Lagoon, AK",69.15555556,-163.49722219999998
+A92,Omolik Lagoon Airport,"Omolik Lagoon, AK",69.14805556,-163.5102778
+A93,Bradley Lake Project Airport,"Bradley Lake Project, AK",59.79166667,-151.2666667
+A94,Ice Strip,"Barrow, AK",70.57416667,-155.31805559999998
+A95,Ice Strip,"Barrow, AK",70.31194444,-153.2491667
+A96,Ice Strip,"Barrow, AK",70.98083333,-157.095
+A97,Akulik Air Strip,"Akulik, AK",68.98555556,-163.47972219999997
+A98,Deadfall Air Strip,"Deadfall, AK",69.17083333,-163.2563889
+A99,Eagle Creek Airport,"Eagle Creek, AK",68.67666667,-162.64694440000002
+AA1,Ice Kong,"Bethel, AK",59.95277778,-162.61694440000002
+AA4,Glacier Split,"Kachemak Bay, AK",59.63333333,-151.20833330000002
+AA5,Selby Lake Airport,"Selby Lake, AK",66.95583333,-155.615
+AAF,Apalachicola Regional Cleve Randolph Field,"Apalachicola, FL",29.7275,-85.0275
+ABE,Lehigh Valley International,"Allentown/Bethlehem/Easton, PA",40.65222222,-75.44055556
+ABI,Abilene Regional,"Abilene, TX",32.41138889,-99.68194444
+ABL,Ambler River,"Ambler, AK",67.0875,-157.8458333
+ABQ,Albuquerque International Sunport,"Albuquerque, NM",35.03888889,-106.60833329999998
+ABR,Aberdeen Regional,"Aberdeen, SD",45.44666667,-98.4225
+ABY,Southwest Georgia Regional,"Albany, GA",31.53555556,-84.19444444
+ACB,Antrim County,"Bellaire, MI",44.98861111,-85.19833333
+ACK,Nantucket Memorial,"Nantucket, MA",41.25305556,-70.06
+ACT,Waco Regional,"Waco, TX",31.61222222,-97.23027778
+ACV,California Redwood Coast Humboldt County,"Arcata/Eureka, CA",40.97777778,-124.10833329999998
+ACY,Atlantic City International,"Atlantic City, NJ",39.4575,-74.57722222
+ADK,Adak,"Adak Island, AK",51.88361111,-176.6425
+ADM,Ardmore Municipal,"Ardmore, OK",34.30388889,-97.02055556
+ADQ,Kodiak Airport,"Kodiak, AK",57.74972222,-152.4938889
+ADS,Addison,"Dallas, TX",32.96861111,-96.83638889
+ADW,Joint Base Andrews,"Camp Springs, MD",38.81083333,-76.86694444
+AED,Aleneva Airport,"Aleneva, AK",58.03333333,-152.9
+AET,Allakaket Airport,"Allakaket, AK",66.55194444,-152.62222219999998
+AEX,Alexandria International,"Alexandria, LA",31.3275,-92.54861111
+AFF,USAF Academy Airfield,"Colorado Springs, CO",38.97416667,-104.81777779999999
+AFK,Nebraska City Municipal,"Nebraska, NE",40.60666667,-95.86666667
+AFO,Afton Municipal,"Afton, WY",42.70888889,-110.9422222
+AFP,Anson County Jeff Cloud Field,"Wadesboro, NC",35.02055556,-80.07722222
+AFW,Fort Worth Alliance,"Dallas/Fort Worth, TX",32.99027778,-97.31944444
+AGC,Allegheny County,"Pittsburgh, PA",40.35444444,-79.92916667
+AGN,Angoon Seaplane Base,"Angoon, AK",57.50388889,-134.58333330000002
+AGS,Augusta Regional at Bush Field,"Augusta, GA",33.37,-81.96444444
+AHD,Ardmore Downtown Executive,"Ardmore, OK",34.14694444,-97.12277778
+AHN,Athens/Ben Epps,"Athens, GA",33.94861111,-83.32583333
+AHT,Amchitka,"Amchitka Island, AK",51.37861111,179.2586111
+AIA,Alliance Municipal,"Alliance, NE",42.05333333,-102.8036111
+AIB,Anita Bay Airport,"Anita Bay, AK",56.19,-132.44583329999998
+AID,Anderson Municipal-Darlington Field,"Anderson, IN",40.10861111,-85.61305556
+AIK,Aiken Municipal,"Aiken, SC",33.64944444,-81.685
+AIN,Wainwright Airport,"Wainwright, AK",70.63805556,-159.99472219999998
+AIY,Bader Field,"Atlantic City, NJ",39.36,-74.45722222
+AIZ,Lee C Fine Memorial,"Lake of the Ozarks, MO",38.09611111,-92.54944444
+AKB,Atka Airport,"Atka, AK",52.22055556,-174.20611110000002
+AKC,Akron Fulton International,"Akron, OH",41.0375,-81.46694444
+AKI,Akiak Airport,"Akiak, AK",60.90277778,-161.23055559999997
+AKK,Akhiok Airport,"Akhiok, AK",56.93861111,-154.1825
+AKN,King Salmon Airport,"King Salmon, AK",58.67638889,-156.6486111
+AKO,Colorado Plains Regional,"Akron, CO",40.17555556,-103.2219444
+AKP,Anaktuvuk Pass Airport,"Anaktuvuk Pass, AK",68.13361111,-151.74333330000002
+AL1,Albertville Regional-Thomas J Brumlik Field,"Albertville, AL",34.22916667,-86.25583333
+AL2,Shelby County,"Alabaster, AL",33.17777778,-86.78333333
+AL3,Huntsville Executive Airport Tom Sharp Jr,"Huntsville, AL",34.85944444,-86.5575
+ALB,Albany International,"Albany, NY",42.74916667,-73.80194444
+ALE,Alpine Casparis Municipal,"Alpine, TX",30.38416667,-103.6836111
+ALI,Alice International,"Alice, TX",27.74083333,-98.02694444
+ALM,Alamogordo White Sands Regional,"Alamogordo, NM",32.83944444,-105.9911111
+ALN,St. Louis Regional,"Alton, IL",38.89,-90.04611111
+ALO,Waterloo Regional,"Waterloo, IA",42.55694444,-92.40027778
+ALS,San Luis Valley Regional/Bergman Field,"Alamosa, CO",37.435,-105.8677778
+ALW,Walla Walla Regional,"Walla Walla, WA",46.09527778,-118.2858333
+ALX,Thomas C. Russell Field,"Alexander City, AL",32.91472222,-85.96305556
+ALZ,Alitak Seaplane Base,"Lazy Bay, AK",56.89583333,-154.24583330000002
+AMA,Rick Husband Amarillo International,"Amarillo, TX",35.21944444,-101.7058333
+AMK,Animas Air Park,"Durango, CO",37.20305556,-107.86916670000001
+AMN,Gratiot Community,"Alma, MI",43.32222222,-84.68805556
+AMW,Ames Municipal,"Ames, IA",41.99194444,-93.62194444
+ANA,Anaheim-Disneyland HP,"Anaheim, CA",33.81666667,-117.93333329999999
+ANB,Anniston Regional,"Anniston, AL",33.58805556,-85.85805556
+ANC,Ted Stevens Anchorage International,"Anchorage, AK",61.17416667,-149.9980556
+AND,Anderson Regional,"Anderson, SC",34.49444444,-82.70944444
+ANI,Aniak Airport,"Aniak, AK",61.58166667,-159.54305559999997
+ANN,Annette Island,"Annette, AK",55.04222222,-131.57083329999998
+ANP,Lee,"Annapolis, MD",38.94277778,-76.56833333
+ANV,Anvik Airport,"Anvik, AK",62.64722222,-160.19
+AOH,Lima Allen County,"Lima, OH",40.70833333,-84.02694444
+AOO,Altoona-Blair County,"Altoona, PA",40.29638889,-78.32
+AOS,Amook Bay Airport,"Amook Bay, AK",57.45472222,-153.81305559999998
+APA,Centennial,"Denver, CO",39.57,-104.8494444
+APC,Napa County,"Napa, CA",38.21305556,-122.28055559999999
+APF,Naples Municipal,"Naples, FL",26.1525,-81.77555556
+APG,Phillips AAF,"Aberdeen, MD",39.46555556,-76.16833333
+APN,Alpena County Regional,"Alpena, MI",45.07805556,-83.56027778
+APT,Marion County Brown Field,"Jasper, TN",35.06055556,-85.58527778
+APV,Apple Valley Airport,"Apple Valley, CA",34.57527778,-117.1861111
+AQY,Girdwood Airport,"Girdwood, AK",60.96888889,-149.11944440000002
+AR1,Russellville Regional,"Russellville, AR",35.25916667,-93.09333333
+AR2,Dennis F Cantrell Field,"Conway, AR",35.08111111,-92.42444444
+ARA,Acadiana Regional,"New Iberia, LA",30.03777778,-91.88388889
+ARB,Ann Arbor Municipal,"Ann Arbor, MI",42.22305556,-83.74555556
+ARC,Arctic Village Airport,"Arctic Village, AK",68.11472222,-145.5794444
+ARE,Antonio/Nery/Juarbe Pol,"Arecibo, PR",18.45083333,-66.67555556
+ARG,Walnut Ridge Regional,"Walnut Ridge, AR",36.12472222,-90.925
+ART,Watertown International,"Watertown, NY",43.99194444,-76.01944444
+ARV,Lakeland/Noble F. Lee Memorial Field,"Minocqua/Woodruff, WI",45.92805556,-89.73083333
+ARX,Asbury Park/Monmouth County,"Asbury Park, NJ",40.18333333,-74.11666667
+ASE,Aspen Pitkin County Sardy Field,"Aspen, CO",39.22194444,-106.86833329999999
+ASH,Boire Field,"Nashua, NH",42.7825,-71.51416667
+ASL,Harrison County,"Marshall, TX",32.52055556,-94.30777778
+ASN,Talladega Municipal,"Talladega, AL",33.56944444,-86.05111111
+ASQ,Austin Airport,"Austin, NV",39.46805556,-117.1975
+AST,Astoria Regional,"Astoria/Seaside, OR",46.15805556,-123.8786111
+ASX,John F Kennedy Memorial,"Ashland, WI",46.54861111,-90.91888889
+ASY,Ashley Municipal,"Ashley, ND",46.02305556,-99.35277778
+ATE,Antlers Municipal,"Antlers, OK",34.1925,-95.64972222
+ATK,Atqasuk Edward Burnell Sr. Memorial,"Atqasuk, AK",70.46722222,-157.4355556
+ATL,Hartsfield-Jackson Atlanta International,"Atlanta, GA",33.63666667,-84.42777778
+ATO,Ohio University,"Athens, OH",39.21194444,-82.22916667
+ATS,Artesia Municipal,"Artesia, NM",32.85194444,-104.4675
+ATT,Atmautluak Airport,"Atmautluak, AK",60.86777778,-162.2741667
+ATU,Casco Cove CGS,"Attu, AK",52.8325,173.1755556
+ATW,Appleton International,"Appleton, WI",44.25805556,-88.51916667
+ATY,Watertown Regional,"Watertown, SD",44.91388889,-97.15472222
+AUG,Augusta State,"Augusta/Waterville, ME",44.32055556,-69.79722222
+AUK,Alakanuk Airport,"Alakanuk, AK",62.68305556,-164.72222219999998
+AUM,Austin Municipal,"Austin/Albert Lea, MN",43.66277778,-92.93305556
+AUN,Auburn Municipal,"Auburn, CA",38.95472222,-121.08166670000001
+AUO,Auburn University Regional,"Auburn, AL",32.615,-85.43388889
+AUS,Austin - Bergstrom International,"Austin, TX",30.19444444,-97.67
+AUW,Wausau Downtown,"Wausau, WI",44.92638889,-89.62666667
+AUZ,Aurora Municipal,"Aurora, IL",41.77194444,-88.47555556
+AVL,Asheville Regional,"Asheville, NC",35.43444444,-82.54277778
+AVO,Avon Park Executive,"Avon Park, FL",27.59138889,-81.52888889
+AVP,Wilkes Barre Scranton International,"Scranton/Wilkes-Barre, PA",41.33833333,-75.72333333
+AVW,Marana Regional,"Tucson, AZ",32.40944444,-111.21833329999998
+AVX,Catalina,"Avalon, CA",33.405,-118.41583329999999
+AWK,Wake Island Airfield,"Wake Island, TT",19.2825,166.63666669999998
+AWM,West Memphis Municipal,"West Memphis, AR",35.135,-90.23444444
+AWX,Andrews County,"Andrews, TX",32.33083333,-102.52972220000001
+AXB,Maxson Airfield,"Alexandria Bay, NY",44.31666667,-75.89972222
+AXN,Chandler Field,"Alexandria, MN",45.86638889,-95.39472222
+AXS,Altus/Quartz Mountain Regional,"Altus, OK",34.69888889,-99.33833333
+AXV,Neil Armstrong,"Wapakoneta, OH",40.49361111,-84.29805556
+AXX,Angel Fire,"Eagle Nest, NM",36.42194444,-105.29
+AYS,Waycross-Ware County,"Waycross, GA",31.24833333,-82.39527778
+AZ1,Valle,"Grand Canyon, AZ",35.65055556,-112.14805559999999
+AZ2,H. A. Clark Memorial Field,"Williams, AZ",35.30555556,-112.19444440000001
+AZ3,Glendale Municipal,"Glendale, AZ",33.52694444,-112.2952778
+AZA,Phoenix - Mesa Gateway,"Phoenix, AZ",33.30777778,-111.65555559999999
+AZO,Kalamazoo/Battle Creek International,"Kalamazoo, MI",42.23444444,-85.55166667
+B19,Biddeford Municipal,"Biddeford, ME",43.46416667,-70.4725
+B21,Sugarloaf Regional,"Carrabassett, ME",45.08555556,-70.21638889
+BAB,Beale AFB,"Marysville, CA",39.13611111,-121.43666670000002
+BAD,Barksdale AFB,"Shreveport, LA",32.50194444,-93.6625
+BAF,Westfield Barnes Regional,"Westfield, MA",42.15805556,-72.71583333
+BAM,Battle Mountain Airport,"Battle Mountain, NV",40.59916667,-116.87444440000002
+BAR,Baker AAF,"Baker Island, AK",55.36666667,-133.6
+BBC,Bay City Regional,"Bay City, TX",28.97333333,-95.86333333
+BBF,N Eng Heliport,"Burlington, MA",42.50833333,-71.18333333
+BBX,Wings Field,"Blue Bell, PA",40.1375,-75.26527778
+BCB,Virginia Tech/Montgomery Executive,"Blacksburg, VA",37.20777778,-80.40777778
+BCC,Bear Creek Airport,"Bear Creek, AK",57.6175,-155.8672222
+BCE,Bryce Canyon Airport,"Bryce Canyon, UT",37.70638889,-112.14583329999999
+BCJ,Baca Grande,"Crestone, CO",37.96666667,-105.76666670000002
+BCS,Southern Seaplane,"Belle Chasse, LA",29.86611111,-90.02222222
+BCT,Boca Raton Public,"Boca Raton, FL",26.37083333,-80.10833333
+BDE,Baudette International,"Baudette, MN",48.72833333,-94.61222222
+BDG,Blanding Municipal,"Blanding, UT",37.58333333,-109.48333329999998
+BDL,Bradley International,"Hartford, CT",41.93916667,-72.68333333
+BDR,Igor I Sikorsky Memorial,"Bridgeport, CT",41.16333333,-73.12611111
+BDY,Bandon State,"Bandon, OR",43.08638889,-124.40777779999999
+BED,Laurence G Hanscom Field,"Bedford, MA",42.47,-71.28888889
+BEH,Southwest Michigan Regional,"Benton Harbor/St. Joseph, MI",42.12861111,-86.42611111
+BET,Bethel Airport,"Bethel, AK",60.77861111,-161.83722219999999
+BFB,Blue Fox Bay Airport,"Blue Fox Bay, AK",58.18333333,-152.1333333
+BFD,Bradford Regional,"Bradford, PA",41.80305556,-78.64
+BFF,Western Neb. Regional/William B. Heilig Field,"Scottsbluff, NE",41.87416667,-103.5955556
+BFI,Boeing Field/King County International,"Seattle, WA",47.53,-122.30194440000001
+BFK,Buckley AFB,"Aurora, CO",39.70166667,-104.7516667
+BFL,Meadows Field,"Bakersfield, CA",35.43388889,-119.0577778
+BFM,Mobile Downtown,"Mobile, AL",30.62666667,-88.06805556
+BFP,Beaver County,"Beaver Falls, PA",40.7725,-80.39138889
+BFR,Virgil I Grissom Municipal,"Bedford, IN",38.84,-86.44527778
+BFT,Beaufort County,"Beaufort, SC",32.41222222,-80.63444444
+BGD,Hutchinson County,"Borger, TX",35.70083333,-101.39361109999999
+BGE,Decatur County Industrial Air Park,"Bainbridge, GA",30.97166667,-84.63694444
+BGM,Greater Binghamton/Edwin A. Link Field,"Binghamton, NY",42.20833333,-75.97972222
+BGQ,Big Lake Airport,"Big Lake, AK",61.53472222,-149.8125
+BGR,Bangor International,"Bangor, ME",44.8075,-68.82805556
+BGS,Big Spring McMahon-Wrinkle,"Big Spring, TX",32.2125,-101.5216667
+BGT,Bagdad Airport,"Bagdad, AZ",34.59277778,-113.17194440000002
+BHB,Hancock County-Bar Harbor,"Bar Harbor, ME",44.44972222,-68.36166667
+IFP,Laughlin/Bullhead International,"Bullhead City, AZ",35.15472222,-114.55944440000002
+BHM,Birmingham-Shuttlesworth International,"Birmingham, AL",33.56388889,-86.75222222
+BIC,Big Creek Airport,"Big Creek, AK",57.66666667,-157.58333330000002
+BID,Block Island State,"Block Island, RI",41.16805556,-71.57777778
+BIE,Beatrice Municipal,"Beatrice, NE",40.30138889,-96.75416667
+BIF,Biggs AAF,"El Paso, TX",31.84944444,-106.38
+BIG,Allen AAF,"Big Delta, AK",63.99472222,-145.72027780000002
+BIH,Bishop Airport,"Bishop, CA",37.37305556,-118.3636111
+BIL,Billings Logan International,"Billings, MT",45.80777778,-108.5436111
+BIS,Bismarck Municipal,"Bismarck/Mandan, ND",46.77277778,-100.7458333
+BIX,Keesler AFB,"Biloxi, MS",30.41055556,-88.92444444
+BJC,Rocky Mountain Metro,"Broomfield, CO",39.90888889,-105.1172222
+BJI,Bemidji Regional,"Bemidji, MN",47.51083333,-94.93472222
+BJJ,Wayne County,"Wooster, OH",40.87472222,-81.88833333
+BKC,Buckland Airport,"Buckland, AK",65.98166667,-161.1491667
+BKE,Baker City Municipal,"Baker, OR",44.83722222,-117.80916670000002
+BKF,Brooks Lake Airport,"Brooks Lake, AK",58.6,-156.2333333
+BKG,Branson Airport,"Branson, MO",36.53194444,-93.20055556
+BKH,Barking Sands PMRF,"Kekaha, Kauai, HI",22.02277778,-159.785
+BKL,Burke Lakefront,"Cleveland, OH",41.51777778,-81.68277778
+BKW,Raleigh County Memorial,"Beckley, WV",37.78722222,-81.12416667
+BKX,Brookings Regional,"Brookings, SD",44.30444444,-96.81888889
+BLD,Boulder City Municipal,"Boulder City, NV",35.9475,-114.8613889
+BLF,Mercer County,"Princeton/Bluefield, WV",37.29583333,-81.20777778
+BLH,Blythe Airport,"Blythe, CA",33.61916667,-114.71694440000002
+BLI,Bellingham International,"Bellingham, WA",48.79277778,-122.5375
+BLM,Monmouth Executive,"Belmar/Farmingdale, NJ",40.18666667,-74.12444444
+BLV,Scott AFB/MidAmerica,"Belleville, IL",38.54527778,-89.83527778
+BMC,Brigham City Airport,"Brigham City, UT",41.55444444,-112.06222220000001
+BMG,Monroe County,"Bloomington, IN",39.14611111,-86.61666667
+BMI,Central Illinois Regional,"Bloomington/Normal, IL",40.47722222,-88.91583333
+BML,Berlin Regional,"Berlin, NH",44.57527778,-71.17583333
+BMX,Big Mountain AFS,"Big Mountain, AK",59.36111111,-155.2588889
+BNA,Nashville International,"Nashville, TN",36.12444444,-86.67805556
+BNF,Warm Spring Bay Seaplane Base,"Baranof, AK",57.08916667,-134.8313889
+BNG,Banning Municipal,"Banning, CA",33.9225,-116.85083329999999
+BNL,Barnwell Regional,"Barnwell, SC",33.25777778,-81.38833333
+BNO,Burns Municipal,"Burns, OR",43.59194444,-118.95555559999998
+BOI,Boise Air Terminal,"Boise, ID",43.56444444,-116.22277779999999
+BOK,Brookings Airport,"Brookings, OR",42.07444444,-124.29
+BOS,Logan International,"Boston, MA",42.36305556,-71.00638889
+BOW,Bartow Municipal,"Bartow, FL",27.94333333,-81.78333333
+BPT,Jack Brooks Regional,"Beaumont/Port Arthur, TX",29.95083333,-94.02055556
+BQK,Brunswick Golden Isles,"Brunswick, GA",31.25916667,-81.46638889
+BQN,Rafael Hernandez,"Aguadilla, PR",18.49472222,-67.12944444
+BQV,Bartlett Cove Seaplane Base,"Bartlett Cove, AK",58.45527778,-135.8852778
+BRD,Brainerd Lakes Regional,"Brainerd, MN",46.40416667,-94.13361111
+BRG,Whitesburg Municipal,"Whitesburg, KY",37.11666667,-82.81666667
+BRL,Southeast Iowa Regional,"Burlington, IA",40.78333333,-91.12555556
+BRO,Brownsville South Padre Island International,"Brownsville, TX",25.91083333,-97.42888889
+BRW,Wiley Post/Will Rogers Memorial,"Barrow, AK",71.28472222,-156.76861110000002
+BRY,Samuels Field,"Bardstown, KY",37.81444444,-85.49972222
+BSM,Bergstrom AFB,"Austin, TX",30.19472222,-97.67666667
+BSQ,Bisbee Municipal,"Bisbee, AZ",31.36388889,-109.88305559999999
+BSW,Boswell Bay Airport,"Boswell Bay, AK",60.42305556,-146.14583330000002
+A2K,Bartletts Airport,"Bartletts, AK",58.23305556,-157.3663889
+BTI,Barter Island Airport,"Barter Island, AK",70.11305556,-143.6536111
+BTL,W K Kellogg,"Battle Creek, MI",42.30638889,-85.25
+BTM,Bert Mooney,"Butte, MT",45.95472222,-112.4975
+BTP,Pittsburgh Butler Regional,"Butler, PA",40.77666667,-79.95111111
+BTR,Baton Rouge Metropolitan/Ryan Field,"Baton Rouge, LA",30.53305556,-91.15
+BTT,Bettles Airport,"Bettles, AK",66.91388889,-151.5291667
+BTV,Burlington International,"Burlington, VT",44.47194444,-73.15333333
+BTY,Beatty Airport,"Beatty, NV",36.86111111,-116.78638889999999
+BUF,Buffalo Niagara International,"Buffalo, NY",42.94055556,-78.73055556
+BUM,Butler Memorial,"Butler, MO",38.28972222,-94.34027778
+BUR,Bob Hope,"Burbank, CA",34.20055556,-118.3586111
+BVD,Beaver Inlet Seaport,"Beaver Inlet, AK",53.8325,-166.3025
+BVO,Bartlesville Municipal,"Bartlesville, OK",36.76333333,-96.01111111
+BVR,Beaver Island,"St. James, MI",45.69222222,-85.56666667
+BVX,Batesville Regional,"Batesville, AR",35.72611111,-91.6475
+BVY,Beverly Regional,"Beverly, MA",42.58416667,-70.91611111
+BWD,Brownwood Regional,"Brownwood, TX",31.79361111,-98.95638889
+BWG,Bowling Green-Warren County Regional,"Bowling Green, KY",36.96444444,-86.41972222
+BWI,Baltimore/Washington International Thurgood Marshall,"Baltimore, MD",39.17583333,-76.66888889
+BWM,Bowman Municipal,"Bowman, ND",46.18694444,-103.4280556
+BWS,Blaine Municipal,"Blaine, WA",48.99,-122.7325
+BXC,Sheraton Inn Heliport,"Boxborough, MA",42.48472222,-71.54444444
+BXS,Borrego Valley,"Borrego Springs, CA",33.25916667,-116.32083329999999
+BYA,Boundary Airport,"Boundary, AK",64.07833333,-141.11333330000002
+RKH,Rock Hill/York County/Bryant Field,"Rock Hill, SC",34.98777778,-81.05722222
+BYG,Johnson County,"Buffalo, WY",44.38111111,-106.72166670000001
+BYH,Arkansas International,"Blytheville, AR",35.96444444,-89.94388889
+BYI,Burley Municipal,"Burley/Rupert, ID",42.5425,-113.77166670000001
+MI5,Boyne Mountain,"Boyne Falls, MI",45.16583333,-84.92416667
+BYW,Blakely Island Airport,"Blakely Island, WA",48.57888889,-122.8263889
+BZN,Bozeman Yellowstone International,"Bozeman, MT",45.77722222,-111.1502778
+BZS,Buzzards Point Seaplane Base,"Washington, DC",38.86333333,-77.01333333
+BZT,Eagle Air Park,"Brazoria, TX",28.98222222,-95.57972222
+C01,Camarillo Airport,"Camarillo, CA",34.21361111,-119.09444440000001
+C02,Bakersfield Municipal,"Bakersfield, CA",35.32472222,-118.99611110000001
+CAD,Wexford County,"Cadillac, MI",44.27527778,-85.41888889
+CAE,Columbia Metropolitan,"Columbia, SC",33.93888889,-81.11944444
+CAK,Akron-Canton Regional,"Akron, OH",40.915,-81.44361111
+CAR,Caribou Municipal,"Caribou, ME",46.87166667,-68.01805556
+CBA,Corner Bay Airport,"Corner Bay, AK",57.73777778,-135.12555559999998
+CBE,Greater Cumberland Regional,"Cumberland, MD",39.61527778,-78.76138889
+CBF,Council Bluffs Municipal,"Council Bluffs, IA",41.26,-95.75861111
+CBK,Murray,"Colby, KS",39.40388889,-101.0466667
+CBM,Columbus AFB,"Columbus, MS",33.64527778,-88.44583333
+CCR,Buchanan Field,"Concord, CA",37.98972222,-122.05694440000002
+CCY,Northeast Iowa Regional,"Charles City, IA",43.0725,-92.61083333
+CDB,Cold Bay Airport,"Cold Bay, AK",55.20583333,-162.7263889
+CDC,Cedar City Regional,"Cedar City, UT",37.70083333,-113.09888889999999
+CDH,Harrell Field,"Camden, AR",33.62277778,-92.76333333
+CDL,Candle 2,"Candle, AK",65.90777778,-161.9263889
+CDN,Woodward Field,"Camden, SC",34.28361111,-80.56472222
+CDR,Chadron Municipal,"Chadron, NE",42.8375,-103.09527779999999
+CDV,Merle K Mudhole Smith,"Cordova, AK",60.49166667,-145.4775
+CDW,Essex County,"Caldwell, NJ",40.87527778,-74.28138889
+CEA,Cessna Aircraft Field,"Wichita, KS",37.64861111,-97.25055556
+CEC,Jack McNamara Field,"Crescent City, CA",41.78027778,-124.23666670000001
+CEF,Westover ARB Metropolitan,"Chicopee Falls, MA",42.19388889,-72.53472222
+CEM,Central Airport,"Central, AK",65.57388889,-144.7808333
+CEU,Oconee County Regional,"Clemson, SC",34.67222222,-82.88583333
+CEV,Mettel Field,"Connersville, IN",39.69805556,-85.13111111
+CEW,Bob Sikes,"Crestview, FL",30.77888889,-86.52222222
+CEX,Chena Hot Springs Airport,"Chena Hot Springs, AK",65.05194444,-146.0475
+CEY,Kyle-Oakley Field,"Murray, KY",36.66444444,-88.37277778
+CEZ,Cortez Municipal,"Cortez, CO",37.30305556,-108.62805559999998
+CFA,Coffee Point Airport,"Coffee Point, AK",58.21666667,-157.5
+CFT,Greenlee County,"Clifton, AZ",32.95694444,-109.2111111
+CFV,Coffeyville Municipal,"Coffeyville, KS",37.09388889,-95.57194444
+CGA,Craig Seaplane Base,"Craig, AK",55.47916667,-133.1461111
+CGE,Cambridge Dorchester Regional,"Cambridge, MD",38.53944444,-76.03027778
+CGF,Cuyahoga County,"Cleveland, OH",41.565,-81.48638889
+CGI,Cape Girardeau Regional,"Cape Girardeau, MO",37.22527778,-89.57083333
+CGS,College Park Airport,"College Park, MD",38.98055556,-76.92222222
+CGX,Meigs Field,"Chicago, IL",41.85888889,-87.60833333
+CGZ,Casa Grande Municipal,"Casa Grande, AZ",32.955,-111.76694440000001
+CHA,Lovell Field,"Chattanooga, TN",35.03527778,-85.20361111
+CHD,Chandler Municipal,"Chandler, AZ",33.26916667,-111.8111111
+CHI,Chicago Metropolitan Area,"Chicago, IL",41.87388889,-87.75555556
+CHL,Challis Airport,"Challis, ID",44.52361111,-114.21805559999999
+CHO,Charlottesville Albemarle,"Charlottesville, VA",38.13972222,-78.45222222
+CHP,Circle Hot Springs Airport,"Circle Hot Springs, AK",65.48583333,-144.6116667
+CHS,Charleston AFB/International,"Charleston, SC",32.89861111,-80.04055556
+CHU,Chuathbaluk Airport,"Chuathbaluk, AK",61.57916667,-159.2155556
+CHZ,Chiloquin State,"Chiloquin, OR",42.57944444,-121.87888889999999
+CIB,Catalina,"Avalon, CA",33.405,-118.41583329999999
+CIC,Chico Municipal,"Chico, CA",39.79527778,-121.85833329999998
+CID,The Eastern Iowa,"Cedar Rapids/Iowa City, IA",41.88472222,-91.71083333
+CIG,Craig-Moffat,"Craig, CO",40.49527778,-107.52166670000001
+CIK,Chalkyitsik Airport,"Chalkyitsik, AK",66.645,-143.74
+CIL,Council Airport,"Council, AK",64.89666667,-163.7036111
+CIN,Arthur N Neu,"Carroll, IA",42.04666667,-94.78861111
+CIR,Cairo Regional,"Cairo, IL",37.06416667,-89.21944444
+CIU,Chippewa County International,"Sault Ste. Marie, MI",46.25083333,-84.4725
+CIV,Chomley Airport,"Chomley, AK",55.24777778,-132.3236111
+CJI,Crafton Island Airport,"Crafton Island, AK",60.50277778,-147.94027780000002
+CJW,Clay Center Municipal,"Clay Center, KS",39.38722222,-97.15722222
+CKB,North Central West Virginia,"Clarksburg/Fairmont, WV",39.29777778,-80.2275
+CKD,Crooked Creek Airport,"Crooked Creek, AK",61.86777778,-158.135
+CKE,Pearce Field,"Clear Lake, CA",38.93472222,-122.62222220000001
+CKM,Fletcher Field,"Clarksdale, MS",34.29972222,-90.51222222
+CKU,Cordova Municipal,"Cordova, AK",60.54361111,-145.7258333
+CKV,Outlaw Field,"Clarksville, TN",36.62194444,-87.415
+CKX,Chicken Airport,"Chicken, AK",64.06666667,-141.95138889999998
+CLC,Clear Lake Metroport,"Clear Lake City, TX",29.55694444,-95.1375
+CLD,McClellan-Palomar,"Carlsbad, CA",33.12833333,-117.28
+CLE,Cleveland-Hopkins International,"Cleveland, OH",41.40944444,-81.85472222
+CLF,Clear Mews,"Clear, AK",64.30166667,-149.11777780000003
+CLG,New Coalinga Municipal,"Coalinga, CA",36.16222222,-120.29472220000001
+CLI,Clintonville Municipal,"Clintonville, WI",44.61305556,-88.73083333
+CLK,Clinton Regional,"Clinton, OK",35.53833333,-98.93277778
+CLL,Easterwood Field,"College Station/Bryan, TX",30.58861111,-96.36388889
+CLM,William R. Fairchild International,"Port Angeles, WA",48.12027778,-123.49972220000001
+CLP,Clarks Point Airport,"Clarks Point, AK",58.83361111,-158.52944440000002
+CLR,Cliff Hatfield Memorial,"Calipatria, CA",33.13138889,-115.52138889999999
+CLS,Chehalis Centralia,"Chehalis, WA",46.67694444,-122.9827778
+CLT,Charlotte Douglas International,"Charlotte, NC",35.21361111,-80.94916667
+CLU,Columbus Municipal,"Columbus, IN",39.26194444,-85.89638889
+CMH,John Glenn Columbus International,"Columbus, OH",39.99694444,-82.89222222
+CMI,University of Illinois/Willard,"Champaign/Urbana, IL",40.03888889,-88.27777778
+CMX,Houghton County Memorial,"Hancock/Houghton, MI",47.16833333,-88.48916667
+CNE,Fremont County,"Canon City, CO",38.42861111,-105.10694440000002
+CNK,Blosser Municipal,"Concordia, KS",39.54916667,-97.65222222
+CNM,Cavern City Air Terminal,"Carlsbad, NM",32.3375,-104.2633333
+CNO,Chino Airport,"Chino, CA",33.97472222,-117.6363889
+CNW,TSTC Waco,"Waco, TX",31.63777778,-97.07416667
+CNY,Canyonlands Field,"Moab, UT",38.755,-109.7547222
+CO3,Marina Municipal,"Marina, CA",36.68166667,-121.7616667
+COA,Columbia Airport,"Columbia, CA",38.03055556,-120.41444440000001
+COD,Yellowstone Regional,"Cody, WY",44.52027778,-109.0238889
+COE,Coeur d'Alene - Pappy Boyington Field,"Coeur d'Alene, ID",47.77444444,-116.81944440000001
+COF,Patrick AFB,"Cocoa Beach, FL",28.235,-80.61
+COM,Coleman Municipal,"Coleman, TX",31.84111111,-99.40361111
+CON,Concord Municipal,"Concord, NH",43.20277778,-71.50222222
+COS,City of Colorado Springs Municipal,"Colorado Springs, CO",38.80583333,-104.7008333
+COT,Cotulla-La Salle County,"Cotulla, TX",28.45583333,-99.21722222
+COU,Columbia Regional,"Columbia, MO",38.81722222,-92.21805556
+CPR,Casper/Natrona County International,"Casper, WY",42.90583333,-106.46361110000001
+CPS,Bi-State Parks,"St. Louis, MO",38.57138889,-90.15722222
+CPX,Benjamin Rivera Noriega,"Culebra, PR",18.31305556,-65.30388889
+CQL,Glen-Aspen,"Carbondale, CO",39.38888889,-107.16
+HCW,Cheraw Municipal/Lynch Bellinger Field,"Cheraw, SC",34.71277778,-79.95694444
+CRE,Grand Strand,"Myrtle Beach, SC",33.81166667,-78.72388889
+CRG,Jacksonville Executive at Craig,"Jacksonville, FL",30.33638889,-81.51444444
+CRP,Corpus Christi International,"Corpus Christi, TX",27.77222222,-97.5025
+CRS,C David Campbell Field-Corsicana Municipal,"Corsicana, TX",32.02805556,-96.40055556
+CRW,Yeager,"Charleston/Dunbar, WV",38.37583333,-81.59305556
+CRX,Roscoe Turner,"Corinth, MS",34.915,-88.60361111
+CSE,Buckhorn Ranch,"Crested Butte, CO",38.85194444,-106.9327778
+CSG,Columbus Airport,"Columbus, GA",32.51638889,-84.93888889
+CSM,Clinton Sherman,"Clinton, OK",35.33972222,-99.20055556
+CSN,Carson,"Carson City, NV",39.19222222,-119.7325
+CSP,Cape Spencer C.G. Helipad,"Cape Spencer, AK",58.19916667,-136.63888889999998
+CSU,Cape Sabine Airport,"Cape Sabine, AK",69.02694444,-163.85416669999998
+CSV,Crossville Memorial-Whitson Field,"Crossville, TN",35.95138889,-85.085
+CTB,Cut Bank International,"Cut Bank, MT",48.60833333,-112.3761111
+CTH,Chester County G. O. Carlson,"Coatesville, PA",39.97888889,-75.86555556
+CTO,Calverton Executive Airpark,"Calverton, NY",40.915,-72.79194444
+CTW,Cottonwood Airport,"Cottonwood, AZ",34.73,-112.03527779999999
+CTX,Cortland County Chase Field,"Cortland, NY",42.59277778,-76.215
+CTY,Cross City Airport,"Cross City, FL",29.63555556,-83.10472222
+CUB,Jim Hamilton L. B. Owens,"Columbia, SC",33.97055556,-80.99527778
+CUW,Cube Cove Airport,"Cube Cove, AK",57.94166667,-134.75
+CVA,Civic Arena H/P,"Pittsburgh, PA",40.48333333,-80.21666667
+CVG,Cincinnati/Northern Kentucky International,"Cincinnati, OH",39.04888889,-84.66777778
+CVN,Clovis Municipal,"Clovis, NM",34.42666667,-103.0775
+CVO,Corvallis Municipal,"Corvallis, OR",44.49722222,-123.28944440000001
+CVS,Cannon AFB,"Clovis, NM",34.3825,-103.3225
+CVX,Charlevoix Municipal,"Charlevoix, MI",45.30472222,-85.27527778
+CWA,Central Wisconsin,"Mosinee, WI",44.7775,-89.66666667
+CWI,Clinton Municipal,"Clinton, IA",41.83083333,-90.32888889
+CWS,Center Island Airport,"Center Island, WA",48.49,-122.8322222
+CXC,Chitina Airport,"Chitina, AK",61.58333333,-144.4297222
+CXF,Coldfoot Airport,"Coldfoot, AK",67.25222222,-150.2038889
+CXL,Calexico International,"Calexico, CA",32.6675,-115.5175
+CXO,Conroe North Houston Regional,"Conroe, TX",30.35333333,-95.415
+CYF,Chefornak Airport,"Chefornak, AK",60.13694444,-164.2791667
+CYM,Chatham Airport,"Chatham, AK",57.51527778,-134.9444444
+CYS,Cheyenne Regional/Jerry Olson Field,"Cheyenne, WY",41.15555556,-104.8105556
+CYT,Yakataga,"Cape Yakataga, AK",60.08083333,-142.4955556
+CZC,Copper Center 2,"Copper Center, AK",61.94111111,-145.29416669999998
+CZF,Cape Romanzof LRRS,"Cape Romanzof, AK",61.78027778,-166.0386111
+CZN,Chisana Airport,"Chisana, AK",62.07166667,-142.04944440000003
+CZO,Chistochina Airport,"Chistochina, AK",62.56222222,-144.6725
+CZP,Cape Pole Airport,"Cape Pole, AK",55.965,-133.7933333
+DAB,Daytona Beach International,"Daytona Beach, FL",29.18,-81.05805556
+DAG,Barstow/Daggett,"Daggett, CA",34.85361111,-116.78666670000001
+DAL,Dallas Love Field,"Dallas, TX",32.84722222,-96.85166667
+DAN,Danville Regional,"Danville, VA",36.5725,-79.33638889
+DAY,James M Cox/Dayton International,"Dayton, OH",39.90222222,-84.21944444
+DBN,W H Bud Barron,"Dublin, GA",32.56472222,-82.985
+DBQ,Dubuque Regional,"Dubuque, IA",42.40194444,-90.70944444
+DCA,Ronald Reagan Washington National,"Washington, DC",38.85138889,-77.03777778
+DCK,Dahl Creek Airport,"Dahl Creek, AK",66.9425,-156.8913889
+DCU,Pryor Field Regional,"Decatur, AL",34.65416667,-86.94527778
+DDC,Dodge City Regional,"Dodge City, KS",37.76305556,-99.96555556
+DDP,Dorado Airport,"Dorado, PR",18.46388889,-66.29333333
+DEC,Decatur Airport,"Decatur, IL",39.83444444,-88.86555556
+DEH,Decorah Municipal,"Decorah, IA",43.27555556,-91.73944444
+DEN,Denver International,"Denver, CO",39.86166667,-104.6730556
+DET,Coleman A. Young Municipal,"Detroit, MI",42.40944444,-83.01027778
+DFI,Defiance Memorial,"Defiance, OH",41.3375,-84.42888889
+DFW,Dallas/Fort Worth International,"Dallas/Fort Worth, TX",32.89722222,-97.03777778
+DGB,Danger Bay Airport,"Danger Bay, AK",58.13333333,-152.55
+DGW,Converse County,"Douglas, WY",42.79722222,-105.38583329999999
+DHN,Dothan Regional,"Dothan, AL",31.32111111,-85.44944444
+DHT,Dalhart Municipal,"Dalhart, TX",36.0225,-102.5475
+DIK,Dickinson - Theodore Roosevelt Regional,"Dickinson, ND",46.79722222,-102.8019444
+DIO,Diomede Heliport,"Diomede Island, AK",65.75861111,-168.9530556
+DJN,Delta Junction Airport,"Delta Junction, AK",64.05,-145.7225
+DKK,Chautauqua County/Dunkirk,"Dunkirk, NY",42.49388889,-79.27111111
+DLF,Laughlin AFB,"Del Rio, TX",29.35944444,-100.7780556
+DLG,Dillingham Airport,"Dillingham, AK",59.04472222,-158.50555559999998
+DLH,Duluth International,"Duluth, MN",46.84194444,-92.19361111
+DLL,Dillon County,"Dillon, SC",34.44916667,-79.36861111
+DLO,Dolomi Airport,"Dolomi, AK",55.12222222,-132.05
+DLS,Columbia Gorge Regional/The Dalles Municipal,"The Dalles, OR",45.61944444,-121.16833329999999
+DMA,Davis Monthan AFB,"Tucson, AZ",32.16638889,-110.88305559999999
+DMN,Deming Municipal,"Deming, NM",32.2625,-107.7188889
+DMO,Sedalia Regional,"Sedalia, MO",38.7075,-93.17583333
+DNC,Duncan Canal Airport,"Duncan Canal, AK",56.75694444,-133.22166670000001
+DNE,Dallas North,"Dallas/Fort Worth, TX",33.07888889,-96.73833333
+DNL,Daniel Field,"Augusta, GA",33.46666667,-82.03944444
+DNN,Dalton Municipal,"Dalton, GA",34.72305556,-84.87027778
+DNV,Vermilion Regional,"Danville, IL",40.19972222,-87.59555556
+DOF,Dora Bay Airport,"Dora Bay, AK",55.23333333,-132.21666670000002
+DOV,Dover AFB,"Dover, DE",39.12944444,-75.46583333
+DPA,Du Page County,"Chicago, IL",41.91555556,-88.24666667
+DPG,Michael AAF,"Dugway, UT",40.1975,-112.935
+AA8,Badami,"Deadhorse, AK",70.1375,-147.03055559999999
+DQC,Sebastian Municipal,"Sebastian, FL",27.81333333,-80.49555556
+DQD,Allen H Tigert,"Soda Springs, ID",42.64861111,-111.58194440000001
+DQE,Holtville Airport,"Holtville, CA",32.845,-115.2686111
+DQG,Springfield Robertson County,"Springfield, TN",36.53666667,-86.92111111
+DQH,Alpine Airstrip,"Alpine, AK",70.34416667,-150.94472219999997
+DQI,Colusa County,"Colusa, CA",39.17888889,-121.99333329999999
+DQJ,Dunn County Weydahl Field,"Killdeer, ND",47.39138889,-102.7719444
+DQK,Wheeler-Sack AAF,"Fort Drum, NY",44.05583333,-75.71944444
+DQL,Lake Hood Strip,"Anchorage, AK",61.18666667,-149.96527780000002
+DQN,New Smyrna Beach Municipal,"New Smyrna Beach, FL",29.05555556,-80.94888889
+DQO,Delhi Municipal,"Delhi, LA",32.41083333,-91.49861111
+DQP,Marshall Field,"Georgetown, KY",38.23638889,-89.35861111
+DQQ,Cozad Municipal,"Cozad, NE",40.86972222,-100.0041667
+DQR,Grand Canyon West,"Peach Springs, AZ",35.98611111,-113.81694440000001
+DQS,Grand Canyon Bar Ten Airstrip,"Whitmore, AZ",36.25638889,-113.23083329999999
+DQU,Neets Bay,"Ketchikan, AK",55.77888889,-131.6013889
+DQV,Glacier Point,"Haines, AK",59.1025,-135.38222219999997
+DQW,Hualapai,"Peach Springs, AZ",35.57222222,-113.2925
+DQX,Tsui River Airport,"Tsui River, AK",60.07472222,-143.0866667
+DQY,Cape Canaveral AFS Skid Strip,"Cape Canaveral, FL",28.4675,-80.56666667
+DQZ,Platinum Mine,"Platinum, AK",58.91166667,-161.7138889
+DRA,Desert Rock,"Mercury, NV",36.62,-116.0322222
+DRE,Drummond Island Airport,"Drummond Island, MI",46.00944444,-83.74388889
+DRF,Drift River Airport,"Drift River, AK",60.58888889,-152.1619444
+DRG,Deering Airport,"Deering, AK",66.06916667,-162.7669444
+DRO,Durango La Plata County,"Durango, CO",37.16388889,-107.7422222
+DRT,Del Rio International,"Del Rio, TX",29.37416667,-100.9272222
+DRU,Drummond Airport,"Drummond, MT",46.62083333,-113.205
+DSI,Destin Executive,"Destin, FL",30.4,-86.47138889
+DSM,Des Moines International,"Des Moines, IA",41.53416667,-93.6575
+DTA,Delta Municipal,"Delta, UT",39.38361111,-112.5022222
+DTH,Furnace Creek,"Death Valley, CA",36.46055556,-116.8797222
+DTL,Detroit Lakes-Wething Field,"Detroit Lakes, MN",46.82527778,-95.88555556
+DTN,Shreveport Downtown,"Shreveport, LA",32.54027778,-93.745
+DTO,Denton Enterprise,"Denton, TX",33.20222222,-97.19805556
+DTR,Decatur,"Decatur Island, WA",48.51,-122.8030556
+DTT,Detroit Metropolitan Area,"Detroit, MI",42.31277778,-83.17861111
+DTW,Detroit Metro Wayne County,"Detroit, MI",42.2125,-83.35333333
+DUA,Eaker Field,"Durant, OK",33.93333333,-96.4
+DUC,Halliburton Field,"Duncan, OK",34.47138889,-97.95972222
+DUF,Pine Island,"Duck, NC",36.25361111,-75.78861111
+DUG,Bisbee Douglas International,"Douglas, AZ",31.46888889,-109.6038889
+DUJ,DuBois Regional,"DuBois, PA",41.17833333,-78.89861111
+DUT,Unalaska Airport,"Unalaska, AK",53.89888889,-166.545
+DVL,Devils Lake Regional,"Devils Lake, ND",48.11666667,-98.91
+DVN,Davenport Municipal,"Davenport, IA",41.61027778,-90.58833333
+DVT,Phoenix - Deer Valley,"Phoenix, AZ",33.68833333,-112.0825
+DWA,Yolo County,"Davis/Woodland/Winters, CA",38.57944444,-121.85694440000002
+DWH,David Wayne Hooks Memorial,"Houston, TX",30.06166667,-95.55277778
+DWS,Walt Disney World,"Orlando, FL",28.38361111,-81.55
+DXR,Danbury Municipal,"Danbury, CT",41.37166667,-73.48222222
+DYS,Dyess AFB,"Abilene, TX",32.42055556,-99.85472222
+EAA,Eagle Airport,"Eagle, AK",64.77805556,-141.14972219999999
+EAG,Eagle Creek Strip,"Noatak, AK",67.56222222,-162.97527780000001
+EAN,Phifer Airfield,"Wheatland, WY",42.05611111,-104.9386111
+EAR,Kearney Regional,"Kearney, NE",40.72694444,-99.00666667
+EAT,Pangborn Memorial,"Wenatchee, WA",47.39888889,-120.20694440000001
+EAU,Chippewa Valley Regional,"Eau Claire, WI",44.86583333,-91.48416667
+ECA,Iosco County,"East Tawas, MI",44.31277778,-83.42222222
+ECG,Elizabeth City CGAS/Regional,"Elizabeth City, NC",36.26055556,-76.17444444
+ECP,Northwest Florida Beaches International,"Panama City, FL",30.35833333,-85.79555556
+ECS,Mondell Field,"Newcastle, WY",43.88416667,-104.3144444
+ECU,Edwards County,"Rocksprings, TX",29.94694444,-100.17388890000001
+EDA,Edna Bay Airport,"Edna Bay, AK",55.93638889,-133.65555559999999
+EDE,Northeastern Regional,"Edenton, NC",36.02777778,-76.56722222
+EDF,Elmendorf AFB,"Anchorage, AK",61.25138889,-149.8063889
+EDW,Edwards AFB,"Edwards, CA",34.91805556,-117.87916670000001
+EED,Needles Airport,"Needles, CA",34.76638889,-114.62333329999998
+EEK,Eek Airport,"Eek, AK",60.21361111,-162.04388889999998
+EEN,Dillant Hopkins,"Keene, NH",42.89833333,-72.27083333
+EFB,Eight Fathom Bight Airport,"Eight Fathom Bight, AK",58.0,-135.7333333
+EFD,Ellington,"Houston, TX",29.60722222,-95.15861111
+EFK,Northeast Kingdom International,"Newport, VT",44.88805556,-72.22861111
+EGA,Chenega Airport,"Chenega, AK",60.28333333,-148.08333330000002
+EGE,Eagle County Regional,"Eagle, CO",39.64277778,-106.91583329999999
+EGI,Duke Field,"Crestview, FL",30.64861111,-86.52194444
+EGP,Eagle Pass Municipal,"Eagle Pass, TX",28.70222222,-100.4805556
+EGT,Wellington Municipal,"Wellington, KS",37.32361111,-97.38833333
+EGV,Eagle River Union,"Eagle River, WI",45.93222222,-89.26833333
+EGX,Egegik Airport,"Egegik, AK",58.18555556,-157.37555559999998
+EHM,Cape Newenham LRRS,"Cape Newenham, AK",58.64805556,-162.06305559999998
+EHR,Eagle Harbor Airport,"Eagle Harbor, AK",57.41666667,-152.7166667
+EHT,Rentschler Heliport,"East Hartford, CT",41.75333333,-72.62833333
+EIL,Eielson AFB,"Fairbanks, AK",64.66555556,-147.1013889
+EKA,Murray Field,"Eureka, CA",40.80333333,-124.11277779999999
+EKI,Elkhart Municipal,"Elkhart, IN",41.71944444,-86.00333333
+EKN,Elkins-Randolph County-Jennings Randolph Field,"Elkins, WV",38.88944444,-79.85722222
+EKO,Elko Regional,"Elko, NV",40.825,-115.7913889
+EKX,Addington Field,"Elizabethtown, KY",37.68611111,-85.925
+EKY,Bessemer Airport,"Bessemer, AL",33.3125,-86.92638889
+ELA,Eagle Lake Airport,"Eagle Lake, TX",29.60055556,-96.32194444
+ELD,South Arkansas Regional at Goodwin Field,"El Dorado, AR",33.22083333,-92.81333333
+ELI,Elim Airport,"Elim, AK",64.615,-162.2705556
+ELM,Elmira/Corning Regional,"Elmira/Corning, NY",42.15972222,-76.89194444
+ELN,Bowers Field,"Ellensburg, WA",47.03305556,-120.53055559999999
+ELP,El Paso International,"El Paso, TX",31.80722222,-106.3763889
+ELV,Elfin Cove Seaplane Base,"Elfin Cove, AK",58.2,-136.31666669999998
+ELW,Ellamar Seaplane Base,"Ellamar, AK",60.89333333,-146.70833330000002
+ELY,Ely Airport/Yelland Field,"Ely, NV",39.29972222,-114.84194440000002
+EMK,Emmonak Airport,"Emmonak, AK",62.78611111,-164.49083330000002
+EMM,Kemmerer Municipal,"Kemmerer, WY",41.82416667,-110.55694440000002
+EMP,Emporia Municipal,"Emporia, KS",38.33055556,-96.19
+EMT,San Gabriel Valley,"El Monte, CA",34.08611111,-118.0347222
+ENA,Kenai Municipal,"Kenai, AK",60.57333333,-151.24472219999998
+END,Vance AFB,"Enid, OK",36.33972222,-97.91722222
+ENL,Centralia Municipal,"Centralia, IL",38.515,-89.09111111
+ENN,Nenana Municipal,"Nenana, AK",64.54722222,-149.0738889
+ENV,Wendover Airport,"Wendover, UT",40.71861111,-114.0286111
+ENW,Kenosha Regional,"Kenosha, WI",42.59555556,-87.92777778
+EOK,Keokuk Municipal,"Keokuk, IA",40.46,-91.42861111
+EPH,Ephrata Municipal,"Ephrata/Moses Lake, WA",47.30805556,-119.51694440000001
+ERI,Erie International/Tom Ridge Field,"Erie, PA",42.08305556,-80.17388889
+ERV,Kerrville Municipal/Louis Schreiner Field,"Kerrville, TX",29.97666667,-99.08555556
+ESC,Delta County,"Escanaba, MI",45.72277778,-87.09361111
+ESD,Orcas Island,"Eastsound, WA",48.70833333,-122.91055559999998
+ESF,Esler Regional,"Alexandria, LA",31.395,-92.29583333
+ESN,Easton/Newnam Field,"Easton, MD",38.80416667,-76.06888889
+ESP,Stroudsburg Pocono,"Stroudsburg, PA",41.03583333,-75.16055556
+ETN,Eastland Municipal,"Eastland, TX",32.415,-98.80972222
+ETS,Enterprise Municipal,"Enterprise, AL",31.29972222,-85.89972222
+EUE,Eureka Airport,"Eureka, NV",39.60361111,-116.0036111
+EUF,Weedon Field,"Eufaula, AL",31.95138889,-85.12888889
+EUG,Mahlon Sweet Field,"Eugene, OR",44.12444444,-123.21194440000001
+EVC,Eva Creek Airport,"Eva Creek, AK",64.04194444,-148.8630556
+EVM,Eveleth Virginia Municipal,"Eveleth, MN",47.42416667,-92.49666667
+EVV,Evansville Regional,"Evansville, IN",38.04083333,-87.52861111
+EVW,Evanston-Uinta County Burns Field,"Evanston, WY",41.27472222,-111.0347222
+EWB,New Bedford Regional,"New Bedford/Fall River, MA",41.67666667,-70.95777778
+EWK,Newton City County,"Newton, KS",38.05694444,-97.27527778
+EWN,Coastal Carolina Regional,"New Bern/Morehead/Beaufort, NC",35.07277778,-77.04305556
+EWR,Newark Liberty International,"Newark, NJ",40.6925,-74.16861111
+EXI,Excursion Inlet Seaplane Base,"Excursion Inlet, AK",58.42083333,-135.44722219999997
+EYW,Key West International,"Key West, FL",24.55611111,-81.75944444
+F70,French Valley,"Murrieta/Temecula, CA",33.57416667,-117.12833329999998
+FAI,Fairbanks International,"Fairbanks, AK",64.815,-147.85638889999998
+FAJ,Diego Jimenez Torres,"Fajardo, PR",18.30888889,-65.66166667
+FAK,False Island Airport,"False Island, AK",57.51666667,-135.2166667
+FAL,Falcon State Park,"Roma, TX",26.58333333,-99.13333333
+FAM,Farmington Regional,"Farmington, MO",37.76111111,-90.42861111
+FAR,Hector International,"Fargo, ND",46.92055556,-96.81583333
+FAT,Fresno Yosemite International,"Fresno, CA",36.77666667,-119.7188889
+FAU,Fairmount Island Airport,"Fairmount Island, AK",60.89611111,-147.44666669999998
+FAY,Fayetteville Regional/Grannis Field,"Fayetteville, NC",34.99111111,-78.88027778
+FBG,Simmons AAF,"Fort Bragg, NC",35.13194444,-78.93611111
+FBK,Ladd AAF,"Fairbanks, AK",64.8375,-147.61444440000002
+FBR,Fort Bridger Airport,"Fort Bridger, WY",41.39333333,-110.40583329999998
+FBS,Friday Harbor Seaplane Base,"Friday Harbor, WA",48.5375,-123.00833329999999
+FCA,Glacier Park International,"Kalispell, MT",48.31055556,-114.2561111
+FCH,Fresno Chandler Executive,"Fresno, CA",36.73222222,-119.8202778
+FCM,Flying Cloud,"Minneapolis, MN",44.8275,-93.45861111
+FCS,Butts AAF,"Colorado Springs, CO",38.67972222,-104.7608333
+FDK,Frederick Municipal,"Frederick, MD",39.4175,-77.37444444
+FDR,Frederick Regional,"Frederick, OK",34.35222222,-98.98388889
+FDY,Findlay Airport,"Findlay, OH",41.01194444,-83.66861111
+FEP,Albertus,"Freeport, IL",42.24611111,-89.58194444
+FET,Fremont Municipal,"Fremont, NE",41.45,-96.52111111
+FEW,Francis E. Warren AFB Heliport,"Cheyenne, WY",41.13333333,-104.8672222
+FFM,Fergus Falls Municipal-Einar Mickelson Field,"Fergus Falls, MN",46.28444444,-96.15666667
+FFO,Wright-Patterson AFB,"Dayton, OH",39.82611111,-84.04833333
+FFT,Capital City,"Frankfort, KY",38.18166667,-84.90666667
+FHU,Sierra Vista Municipal-Libby AAF,"Fort Huachuca, AZ",31.58833333,-110.34444440000001
+FIC,Fire Cove Airport,"Fire Cove, AK",55.77777778,-131.5375
+FID,Elizabeth Field,"Fishers Island, NY",41.25138889,-72.03166667
+FIL,Fillmore Municipal,"Fillmore, UT",38.95805556,-112.36305559999998
+FKL,Venango Regional,"Franklin/Oil City, PA",41.3775,-79.86055556
+FL1,Zephyrhills Municipal,"Zephyrhills, FL",28.22805556,-82.15611111
+FL2,Valkaria Airport,"Valkaria, FL",27.96083333,-80.55833333
+FL3,Vosikas,"Chipley, FL",30.78,-85.59805556
+FL4,Flagler Executive,"Bunnell, FL",29.46527778,-81.20777778
+FL5,Williston Municipal,"Williston, FL",29.35555556,-82.47194444
+FLD,Fond Du Lac County,"Fond Du Lac, WI",43.77111111,-88.48833333
+FLG,Flagstaff Pulliam,"Flagstaff, AZ",35.14027778,-111.66916670000002
+FLJ,Falls Bay Airport,"Falls Bay, AK",60.51666667,-148.0
+FLL,Fort Lauderdale-Hollywood International,"Fort Lauderdale, FL",26.07166667,-80.14972222
+FLO,Florence Regional,"Florence, SC",34.18527778,-79.72388889
+FLT,Flat Airport,"Flat, AK",62.45277778,-157.9891667
+FLU,Flushing,"New York, NY",40.77916667,-73.83277778
+FLV,Sherman AAF,"Leavenworth, KS",39.36833333,-94.91472222
+FLX,Fallon Municipal,"Fallon, NV",39.49916667,-118.7488889
+FMC,Five Mile Camp Airport,"Five Mile Camp, AK",65.92694444,-149.84
+FMH,Cape Cod CGAS,"Falmouth, MA",41.65916667,-70.52277778
+FMN,Four Corners Regional,"Farmington, NM",36.74138889,-108.23
+FMS,Fort Madison Municipal,"Fort Madison, IA",40.65916667,-91.32777778
+FMY,Page Field,"Fort Myers, FL",26.58666667,-81.86333333
+FNL,Northern Colorado Regional,"Fort Collins/Loveland, CO",40.45194444,-105.0113889
+FNR,Funter Bay,"Funter Bay Alaska, AK",58.25,-134.9
+FNT,Bishop International,"Flint, MI",42.96555556,-83.74472222
+FOB,Fort Bragg Airport,"Fort Bragg, CA",39.47444444,-123.79555559999999
+FOD,Fort Dodge Regional,"Fort Dodge, IA",42.55111111,-94.19194444
+FOE,Topeka Regional,"Topeka, KS",38.95083333,-95.66361111
+FOK,Francis S. Gabreski,"Westhampton, NY",40.84361111,-72.63166667
+FPR,Treasure Coast International,"Fort Pierce, FL",27.4975,-80.37277778
+FPY,Perry-Foley,"Perry, FL",30.06916667,-83.58055556
+FQA,Patching Lake Airport,"Patching Lake, AK",55.60611111,-131.4833333
+FQB,San Nicolas Island NOLF,"Ventura, CA",33.23972222,-119.45833329999999
+FQC,Lilly Lake,"Kodiak, AK",57.80555556,-152.38055559999998
+FQD,Trident Volcano,"Katmai National Park, AK",58.235,-155.1036111
+FQE,Annex Creek Airport,"Annex Creek, AK",58.31333333,-134.1041667
+FQF,Davidson Creek Airport,"Davidson Creek, AK",58.35277778,-133.9913889
+FQG,Snettisham Airport,"Snettisham, AK",58.13444444,-133.7294444
+FQH,Fire Island Airport,"Fire Island, AK",61.16833333,-150.16055559999998
+FQI,Georgetown Scott County Regional,"Scott, KY",38.23444444,-84.43472222
+FQJ,Greens Creek Airport,"Greens Creek, AK",58.09861111,-134.76
+FQK,Gull Cove Airport,"Gull Cove, AK",58.21472222,-136.1563889
+FQL,Flora Municipal,"Flora, IL",38.665,-88.45305556
+FQN,Karta Lake Airport,"Karta Lake, AK",55.56222222,-132.63055559999998
+FQO,Manzanita Lake Airport,"Manzanita Lake, AK",55.56666667,-131.0563889
+FQP,Shrimp Bay Airport,"Shrimp Bay, AK",55.83444444,-131.4847222
+FQQ,Dry Bay Airport,"Dry Bay, AK",59.14666667,-138.5636111
+FQR,Josephine Lake Airport,"Josephine Lake, AK",55.24361111,-132.57333329999997
+FQU,Libby Airport,"Libby, MT",48.28388889,-115.49027779999999
+FQV,Volcano Bay Airport,"Volcano Bay, AK",53.81444444,-167.11944440000002
+FQW,Fort Glenn Airport,"Fort Glenn, AK",53.36666667,-167.8833333
+FQX,Babe Islands Airport,"Babe Islands, AK",55.21027778,-132.1319444
+FQY,Kahli Cove Airport,"Kahli Cove, AK",55.92638889,-133.2527778
+FRD,Friday Harbor Airport,"Friday Harbor, WA",48.52194444,-123.02444440000001
+FRG,Republic,"East Farmingdale, NY",40.72888889,-73.41333333
+FRM,Fairmont Municipal,"Fairmont, MN",43.64388889,-94.41555556
+FRP,Fresh Water Bay Airport,"Fresh Water Bay, AK",57.85,-134.9833333
+FRR,Front Royal-Warren County,"Front Royal, VA",38.9175,-78.25333333
+FRY,Eastern Slopes Regional,"Fryeburg, ME",43.99111111,-70.94777778
+FSD,Joe Foss Field,"Sioux Falls, SD",43.58194444,-96.74194444
+FSI,Henry Post AAF,"Fort Sill, OK",34.64972222,-98.40222222
+FSK,Fort Scott Municipal,"Fort Scott, KS",37.79833333,-94.76944444
+FSM,Fort Smith Regional,"Fort Smith, AR",35.33666667,-94.3675
+FST,Fort Stockton Pecos County,"Ft. Stockton, TX",30.91527778,-102.91277779999999
+FTC,Fort Collins Airpark,"Fort Collins, CO",40.58722222,-105.0402778
+FTG,Front Range,"Denver, CO",39.78416667,-104.5375
+FTK,Godman AAF,"Fort Knox, KY",37.90722222,-85.97166667
+FTL,Fortuna Ledge Airport,"Fortuna Ledge, AK",61.86833333,-162.06805559999998
+FTW,Fort Worth Meacham International,"Dallas/Fort Worth, TX",32.81972222,-97.3625
+FTY,Fulton County Airport-Brown Field,"Atlanta, GA",33.77916667,-84.52138889
+FUL,Fullerton Municipal,"Fullerton, CA",33.87194444,-117.97972220000001
+FVA,Osprey Lodge Airport,"Osprey Lodge, AK",61.11638889,-155.3113889
+FVD,Sonora Municipal,"Sonora, TX",30.58555556,-100.6486111
+FVE,Fallbrook Community Airpark,"Fallbrook, CA",33.35416667,-117.25083329999998
+FVG,Wickenburg Municipal,"Wickenburg, AZ",33.97055556,-112.795
+FVH,Othello Municipal,"Othello, WA",46.79416667,-119.08
+FVI,Byerley,"Lake Providence, LA",32.82583333,-91.18777778
+FVN,Big Sky Field,"Culbertson, MT",48.15361111,-104.5041667
+FVO,Aurora State,"Aurora, OR",45.24722222,-122.77
+FVP,Gansner Field,"Quincy, CA",39.94388889,-120.9452778
+FVQ,Donlin Creek Mine Airport,"Donlin Creek Mine, AK",62.07194444,-158.2041667
+FVR,Three Forks Airport,"Three Forks, MT",45.87861111,-111.56916670000001
+FVS,Rexburg-Madison County,"Rexburg, ID",43.83388889,-111.805
+FVV,Kern Valley,"Kernville, CA",35.72833333,-118.41972220000001
+FVW,Golden Creek Mine Airport,"Golden Creek Mine, AK",65.28333333,-153.0
+FVX,Grace Harbor Airport,"Grace Harbor, AK",54.91666667,-132.9166667
+FVY,Unuk River Airport,"Unuk River, AK",56.08333333,-131.96666670000002
+FVZ,Inigok,"Deadhorse, AK",70.00388889,-153.0775
+FWA,Fort Wayne International,"Fort Wayne, IN",40.97833333,-85.19527778
+FWH,Fort Worth NAS JRB/Carswell Field,"Fort Worth, TX",32.76916667,-97.44166667
+FWL,Farewell Airport,"Farewell, AK",62.50916667,-153.8902778
+FWS,Fort Worth Spinks,"Fort Worth, TX",32.56527778,-97.30833333
+FXE,Fort Lauderdale Executive,"Fort Lauderdale, FL",26.19722222,-80.17083333
+A35,Bullen Point AFS,"Kaktovik, AK",70.17277778,-146.8361111
+FXR,Frankfort Municipal,"Clinton, IN",40.27333333,-86.56222222
+FXY,Forest City Municipal,"Forest City, IA",43.23472222,-93.62416667
+FYU,Fort Yukon Airport,"Fort Yukon, AK",66.5725,-145.2463889
+FYV,Drake Field,"Fayetteville, AR",36.005,-94.17
+GA1,Barwick Lafayette,"Lafayette, GA",34.68861111,-85.29027778
+GA2,West Georgia Regional - O V Gray Field,"Carrollton, GA",33.63166667,-85.15222222
+GA3,Newnan Coweta County,"Atlanta, GA",33.31166667,-84.76972222
+GAD,Northeast Alabama Regional,"Gadsden, AL",33.97277778,-86.08916667
+GAI,Montgomery County Airpark,"Gaithersburg, MD",39.16833333,-77.16611111
+GAL,Edward G. Pitka Sr.,"Galena, AK",64.73611111,-156.9375
+GAM,Gambell Airport,"Gambell, AK",63.76666667,-171.7327778
+GBA,Goose Bay AAF,"Goose Bay, AK",61.395,-149.8416667
+GBD,Great Bend Municipal,"Great Bend, KS",38.34416667,-98.85916667
+GBG,Galesburg Municipal,"Galesburg, IL",40.93805556,-90.43111111
+GBH,Galbraith Lake Airport,"Galbraith Lake, AK",68.47972222,-149.49
+GBR,Walter J. Koladza,"Great Barrington, MA",42.18416667,-73.40333333
+GCC,Gillette Campbell County,"Gillette, WY",44.34888889,-105.53944440000001
+GCK,Garden City Regional,"Garden City, KS",37.9275,-100.7244444
+GCN,Grand Canyon National Park,"Grand Canyon, AZ",35.95222222,-112.14694440000001
+GCY,Municipal,"Greeneville, TN",36.19138889,-82.81666667
+GDC,Donaldson Field,"Greenville, SC",34.75833333,-82.37638889
+GDH,Golden Horn Lodge Seaplane Base,"Golden Horn Lodge, AK",59.74694444,-158.87472219999998
+GDM,Gardner Municipal,"Gardner, MA",42.55,-72.01611111
+GDV,Dawson Community,"Glendive, MT",47.13861111,-104.80722220000001
+GDW,Gladwin Zettel Memorial,"Gladwin, MI",43.97055556,-84.475
+GED,Delaware Coastal,"Georgetown, DE",38.68777778,-75.35944444
+GEG,Spokane International,"Spokane, WA",47.61916667,-117.53527779999999
+GEK,Ganes Creek Airport,"Ganes Creek, AK",62.97555556,-156.5133333
+GEY,South Big Horn County,"Greybull, WY",44.51805556,-108.08305559999998
+GEZ,Shelbyville Municipal,"Shelbyville, IN",39.58305556,-85.80472222
+GFA,Malmstrom AFB Heliport,"Great Falls, MT",47.50472222,-111.18722220000001
+GFB,Togiak Fish Airport,"Togiak Fish, AK",59.05,-160.2833333
+GFK,Grand Forks International,"Grand Forks, ND",47.94722222,-97.17388889
+GFL,Floyd Bennett Memorial,"Glens Falls, NY",43.34111111,-73.61027778
+GGE,Georgetown County,"Georgetown, SC",33.31138889,-79.32027778
+GGG,East Texas Regional,"Longview, TX",32.38388889,-94.71138889
+GGW,Wokal Field/Glasgow International,"Glasgow, MT",48.2125,-106.6147222
+GJT,Grand Junction Regional,"Grand Junction, CO",39.1225,-108.5266667
+GKN,Gulkana Airport,"Gulkana, AK",62.155,-145.4544444
+GLD,Renner Field,"Goodland, KS",39.37055556,-101.69888890000001
+GLH,Greenville Mid Delta,"Greenville, MS",33.48277778,-90.98555556
+GLQ,Glennallen Airport,"Glennallen, AK",62.11861111,-145.55
+GLR,Gaylord Regional,"Gaylord, MI",45.01305556,-84.70333333
+GLS,Scholes International at Galveston,"Galveston, TX",29.26527778,-94.86055556
+GLV,Golovin Airport,"Golovin, AK",64.55055556,-163.00722219999997
+GLW,Glasgow Municipal,"Glasgow, KY",37.03166667,-85.95361111
+GMT,Granite Mountain AS,"Granite Mountain, AK",65.40222222,-161.2813889
+GMU,Greenville Downtown,"Greenville, SC",34.84805556,-82.35
+GNU,Goodnews,"Goodnews Bay, AK",59.11777778,-161.5736111
+GNV,Gainesville Regional,"Gainesville, FL",29.69,-82.27166667
+GOL,Gold Beach Municipal,"Gold Beach, OR",42.41527778,-124.425
+GON,Groton-New London,"New London/Groton, CT",41.33,-72.04527778
+GPM,Grand Prairie Municipal,"Grand Prairie, TX",32.69888889,-97.04694444
+GPT,Gulfport-Biloxi International,"Gulfport/Biloxi, MS",30.40722222,-89.07
+GPZ,Grand Rapids/Itasca County-Gordon Newstrom Field,"Grand Rapids, MN",47.21,-93.51
+GQQ,Horning,"Galion, OH",40.73611111,-82.75277778
+GRB,Green Bay Austin Straubel International,"Green Bay, WI",44.48472222,-88.12972222
+GRD,Greenwood County,"Greenwood, SC",34.24861111,-82.15916667
+GRF,Gray AAF,"Tacoma, WA",47.07916667,-122.58083329999998
+GRI,Central Nebraska Regional,"Grand Island, NE",40.9675,-98.30972222
+GRK,Robert Gray AAF,"Killeen, TX",31.06722222,-97.82888889
+GRR,Gerald R. Ford International,"Grand Rapids, MI",42.88083333,-85.52277778
+GSB,Seymour Johnson AFB,"Goldsboro, NC",35.33944444,-77.96055556
+GSH,Goshen Municipal,"Goshen, IN",41.52638889,-85.79416667
+GSO,Piedmont Triad International,"Greensboro/High Point, NC",36.10138889,-79.94111111
+GSP,Greenville-Spartanburg International,"Greer, SC",34.89555556,-82.21888889
+GST,Gustavus Airport,"Gustavus, AK",58.42527778,-135.7075
+GSW,Greater Southwest International,"Dallas/Fort Worth, TX",32.8275,-97.04527778
+GTF,Great Falls International,"Great Falls, MT",47.48222222,-111.3702778
+GTR,Golden Triangle Regional,"Columbus, MS",33.44833333,-88.59138889
+GTU,Georgetown Municipal,"Georgetown, TX",30.67888889,-97.67944444
+GUC,Gunnison-Crested Butte Regional,"Gunnison, CO",38.53444444,-106.93166670000001
+GUM,Guam International,"Guam, TT",13.48388889,144.7972222
+GUP,Gallup Municipal,"Gallup, NM",35.51111111,-108.78944440000001
+GUS,Grissom ARB,"Peru, IN",40.64805556,-86.15222222
+GUY,Guymon Municipal,"Guymon, OK",36.685,-101.5077778
+GVE,Gordonsville Municipal,"Gordonville, VA",38.15611111,-78.16583333
+GVL,Lee Gilmer Memorial,"Gainesville, GA",34.2725,-83.83027778
+GVQ,Genesee County,"Batavia, NY",43.03166667,-78.16972222
+GVT,Majors,"Greenville, TX",33.06777778,-96.06527778
+GVW,Richards/Gebaur AFB,"Grandview, MO",38.85083333,-94.55833333
+GWO,Greenwood/Leflore,"Greenwood, MS",33.49333333,-90.08666667
+GWR,Gwinner-Roger Melroe Field,"Gwinner, ND",46.21833333,-97.64333333
+GWS,Glenwood Springs Municipal,"Glenwood Springs, CO",39.50611111,-107.30916670000002
+GYR,Phoenix Goodyear,"Goodyear, AZ",33.42333333,-112.37527779999999
+GYY,Gary/Chicago International,"Gary, IN",41.61722222,-87.41444444
+HAB,Marion County,"Hamilton, AL",34.12916667,-87.99444444
+HAE,Havasupai Airport,"Havasupai, AZ",36.21666667,-112.66666670000001
+HAF,Half Moon Bay Airport,"Half Moon Bay, CA",37.51333333,-122.5011111
+HAO,Butler County Regional Hogan Field,"Hamilton, OH",39.36388889,-84.52194444
+HAR,Capital City,"Harrisburg, PA",40.21722222,-76.85138889
+HAY,Haycock Airport,"Haycock, AK",65.20277778,-161.15277780000002
+HBC,Hanus Bay Airport,"Hanus Bay, AK",57.41666667,-135.0333333
+HBG,Hattiesburg Bobby L. Chain Municipal,"Hattiesburg, MS",31.265,-89.25277778
+HBH,Hobart Bay Airport,"Hobart Bay, AK",57.4,-133.46666670000002
+HBV,Jim Hogg County,"Hebbronville, TX",27.34944444,-98.73694444
+HBY,Hood Bay Airport,"Hood Bay, AK",57.38194444,-134.39527780000003
+HCA,Howard County,"Big Spring, TX",32.30361111,-101.43388890000001
+HCB,Shoal Cove Airport,"Shoal Cove, AK",55.45,-131.28333329999998
+HCR,Holy Cross Airport,"Holy Cross, AK",62.18833333,-159.775
+HDA,Hidden Falls Airport,"Hidden Falls, AK",57.21666667,-134.8833333
+HDH,Dillingham,"Mokuleia, HI",21.57944444,-158.19722219999997
+HDN,Yampa Valley,"Hayden, CO",40.48111111,-107.2177778
+HED,Herendeen Bay,"Herendeen, AK",55.80138889,-160.8991667
+HES,Hermiston Municipal,"Hermiston, OR",45.82833333,-119.25916670000001
+HEZ,Hardy-Anders Field Natchez-Adams County,"Natchez, MS",31.61361111,-91.29722222
+HFD,Hartford Brainard,"Hartford, CT",41.73666667,-72.64944444
+HFF,Mackall AAF,"Hoffman, NC",35.03666667,-79.4975
+HGR,Hagerstown Regional-Richard A. Henson Field,"Hagerstown, MD",39.70861111,-77.72638889
+HGZ,Hogatza Airport,"Hogatza, AK",66.19166667,-155.66888889999998
+HHH,Hilton Head Airport,"Hilton Head, SC",32.22444444,-80.6975
+HHR,Jack Northrop Field/Hawthorne Municipal,"Hawthorne, CA",33.92277778,-118.3352778
+KS3,Hiawatha Municipal,"Hiawatha, KS",39.87916667,-95.52527778
+HIB,Range Regional,"Hibbing, MN",47.38666667,-92.83888889
+HIE,Mount Washington Regional,"Whitefield, NH",44.3675,-71.54583333
+HIF,Hill AFB,"Ogden, UT",41.12388889,-111.97305559999998
+HII,Lake Havasu City Airport,"Lake Havasu City, AZ",34.57111111,-114.35833329999998
+HIK,Daniel K Inouye International,"Honolulu, HI",21.31777778,-157.9202778
+HIO,Portland Hillsboro,"Hillsboro, OR",45.54222222,-122.95083329999999
+HKA,Blytheville Municipal,"Blytheville, AR",35.94055556,-89.83083333
+HKB,Healy River,"Healy, AK",63.8675,-148.9688889
+HKP,Kaanapali Airport,"Kaanapali, HI",20.94583333,-156.69305559999998
+HKS,Hawkins Field,"Jackson, MS",32.33472222,-90.2225
+HKY,Hickory Regional,"Hickory, NC",35.74111111,-81.38944444
+HLG,Wheeling Ohio County,"Wheeling, WV",40.175,-80.64638889
+HLI,Hollister Municipal,"Hollister, CA",36.89333333,-121.41027779999999
+HLM,Park Township,"Holland, MI",42.79583333,-86.16194444
+HLN,Helena Regional,"Helena, MT",46.60666667,-111.98333329999998
+HLO,Holbrook Municipal,"Holbrook, AZ",34.93861111,-110.14027779999999
+HMN,Holloman AFB,"Alamogordo, NM",32.85194444,-106.10916670000002
+HMS,Homeshore Airport,"Homeshore, AK",58.29444444,-135.34722219999998
+HMT,Hemet-Ryan,"Hemet, CA",33.73388889,-117.0225
+HNC,Billy Mitchell,"Hatteras, NC",35.23277778,-75.61777778
+HNH,Hoonah Airport,"Hoonah, AK",58.09611111,-135.4088889
+HNL,Daniel K Inouye International,"Honolulu, HI",21.31777778,-157.9202778
+HNM,Hana Airport,"Hana, HI",20.79555556,-156.0144444
+HNS,Haines Airport,"Haines, AK",59.24388889,-135.5236111
+HOB,Lea County Regional,"Hobbs, NM",32.6875,-103.21722220000001
+HOL,Holikachuk Airport,"Holikachuk, AK",62.91055556,-159.52777780000002
+HOM,Homer Airport,"Homer, AK",59.645,-151.4858333
+HON,Huron Regional,"Huron, SD",44.38527778,-98.22861111
+HOP,Campbell AAF,"Hopkinsville, KY",36.66861111,-87.49611111
+HOT,Memorial Field,"Hot Springs, AR",34.47805556,-93.09611111
+HOU,William P Hobby,"Houston, TX",29.64555556,-95.27888889
+HPB,Hooper Bay Airport,"Hooper Bay, AK",61.52388889,-166.1466667
+HPN,Westchester County,"White Plains, NY",41.06694444,-73.7075
+HPT,Hampton Municipal,"Hampton, IA",42.72361111,-93.22638889
+HPV,Princeville,"Hanalei, HI",22.20916667,-159.44555559999998
+HQM,Bowerman,"Hoquiam, WA",46.97111111,-123.93666670000002
+HRL,Valley International,"Harlingen/San Benito, TX",26.22722222,-97.65527778
+HRO,Boone County,"Harrison, AR",36.26138889,-93.15472222
+HSH,Henderson Executive,"Las Vegas, NV",35.97277778,-115.1344444
+HSI,Hastings Municipal,"Hastings, NE",40.60527778,-98.42777778
+HSL,Huslia Airport,"Huslia, AK",65.69777778,-156.3513889
+HSP,Ingalls Field,"Hot Springs, VA",37.95138889,-79.83388889
+HST,Homestead ARB,"Homestead, FL",25.48861111,-80.38361111
+HSV,Huntsville International-Carl T Jones Field,"Huntsville, AL",34.63722222,-86.775
+HTH,Hawthorne Industrial,"Hawthorne, NV",38.545,-118.6325
+HTO,East Hampton Airport,"East Hampton, NY",40.95944444,-72.25166667
+HTS,Tri-State/Milton J. Ferguson Field,"Ashland, WV",38.36861111,-82.56027778
+HUA,Redstone AAF,"Huntsville, AL",34.67861111,-86.68472222
+HUC,Dr Hermenegildo Ortiz Quinones,"Humacao, PR",18.13805556,-65.80083333
+HUF,Terre Haute Regional,"Terre Haute, IN",39.45055556,-87.30694444
+HUL,Houlton International,"Houlton, ME",46.12472222,-67.79222222
+HUM,Houma Terrebonne,"Houma, LA",29.56638889,-90.66055556
+HUS,Hughes Airport,"Hughes, AK",66.03916667,-154.2647222
+HUT,Hutchinson Regional,"Hutchinson, KS",38.06611111,-97.86055556
+HVC,Hopkinsville-Christian County,"Hopkinsville, KY",36.85694444,-87.455
+HVN,Tweed New Haven,"New Haven, CT",41.26388889,-72.88694444
+HVR,Havre City-County,"Havre, MT",48.54305556,-109.76222220000001
+HVS,Hartsville Regional,"Hartsville, SC",34.40305556,-80.11916667
+HWD,Hayward Executive,"Hayward, CA",37.65888889,-122.12166670000002
+HWI,Hawk Inlet Airport,"Hawk Inlet, AK",58.13333333,-134.75
+HYA,Barnstable Municipal-Boardman/Polando Field,"Hyannis, MA",41.66944444,-70.28027778
+HYG,Hydaburg Seaplane Base,"Hydaburg, AK",55.20666667,-132.8266667
+HYL,Hollis Seaplane Base,"Hollis, AK",55.48194444,-132.64444440000003
+HYR,Sawyer County,"Hayward, WI",46.02527778,-91.44305556
+HYS,Hays Regional,"Hays, KS",38.84222222,-99.27305556
+HZL,Hazleton Regional,"Hazleton, PA",40.98666667,-75.995
+IA1,Shenandoah Municipal,"Shenandoah, IA",40.75166667,-95.41361111
+IA2,Webster City Municipal,"Webster City, IA",42.43638889,-93.86888889
+IA3,Red Oak Municipal,"Red Oak, IA",41.01083333,-95.25888889
+IAB,McConnell AFB,"Wichita, KS",37.62305556,-97.2675
+IAD,Washington Dulles International,"Washington, DC",38.9475,-77.46
+IAG,Niagara Falls International,"Niagara Falls, NY",43.1075,-78.94583333
+IAH,George Bush Intercontinental/Houston,"Houston, TX",29.98444444,-95.34138889
+IAN,Bob Baker Memorial,"Kiana, AK",66.97583333,-160.4366667
+ICT,Wichita Dwight D Eisenhower National,"Wichita, KS",37.65,-97.43305556
+ICY,Icy Bay Airport,"Icy Bay, AK",59.96888889,-141.66166669999998
+IDA,Idaho Falls Regional,"Idaho Falls, ID",43.51361111,-112.07083329999999
+IDI,Indiana County,"Indiana, PA",40.63111111,-79.10166667
+IDP,Independence Municipal,"Independence, KS",37.15805556,-95.77888889
+IGG,Igiugig Airport,"Igiugig, AK",59.32416667,-155.9016667
+IGM,Kingman Airport,"Kingman, AZ",35.25944444,-113.93805559999998
+IGX,Horace Williams,"Chapel Hill, NC",35.935,-79.06583333
+II1,Rantoul National Aviation Center,"Rantoul, IL",40.29361111,-88.1425
+LOT,Lewis University,"Chicago/Romeoville, IL",41.60805556,-88.09611111
+II3,De Kalb Taylor Municipal,"De Kalb, IL",41.93388889,-88.70555556
+II4,Logan County,"Lincoln, IL",40.15861111,-89.335
+IJX,Jacksonville Municipal,"Jacksonville, IL",39.77472222,-90.23833333
+IKB,Wilkes County,"Wilkesboro, NC",36.22361111,-81.09861111
+IKK,Greater Kankakee,"Kankakee, IL",41.07138889,-87.84638889
+IKO,Nikolski AS,"Nikolski, AK",52.94166667,-168.84916669999998
+IKV,Ankeny Regional,"Ankeny, IA",41.69138889,-93.56638889
+ILE,Skylark Field,"Killeen, TX",31.08583333,-97.68638889
+ILG,New Castle,"Wilmington, DE",39.67861111,-75.60666667
+ILI,Iliamna Airport,"Iliamna, AK",59.75555556,-154.9177778
+ILL,Willmar Municipal,"Willmar, MN",45.11694444,-95.12944444
+ILM,Wilmington International,"Wilmington, NC",34.27111111,-77.90277778
+ILN,Wilmington Air Park,"Wilmington, OH",39.42805556,-83.79222222
+IML,Imperial Municipal,"Imperial, NE",40.51027778,-101.6202778
+IMM,Immokalee Regional,"Immokalee, FL",26.43388889,-81.40055556
+IMT,Ford,"Iron Mountain/Kingsfd, MI",45.81833333,-88.11444444
+IN1,De Kalb County,"Auburn, IN",41.30722222,-85.06444444
+IN2,Indianapolis Executive,"Indianapolis, IN",40.03055556,-86.25138889
+IND,Indianapolis International,"Indianapolis, IN",39.71722222,-86.29472222
+INL,Falls International Einarson Field,"International Falls, MN",48.56555556,-93.40222222
+INS,Creech AFB,"Indian Springs, NV",36.58722222,-115.67333329999998
+INT,Smith Reynolds,"Winston-Salem, NC",36.13361111,-80.22194444
+INW,Winslow-Lindbergh Regional,"Winslow, AZ",35.02166667,-110.72305559999998
+IOW,Iowa City Municipal,"Iowa City, IA",41.63972222,-91.54805556
+IPL,Imperial County,"El Centro, CA",32.83416667,-115.5788889
+IPT,Williamsport Regional,"Williamsport, PA",41.24166667,-76.92194444
+IRC,Circle City,"Circle, AK",65.82805556,-144.0761111
+IRK,Kirksville Regional,"Kirksville, MO",40.09333333,-92.545
+IRS,Sturgis Airport,"Sturgis, MI",41.8,-85.41666667
+IRV,Roy E. Ray,"Bayou La Batre, AL",30.45527778,-88.21111111
+ISL,Isabel Pass Airport,"Isabel Pass, AK",63.5,-145.0333333
+ISM,Kissimmee Gateway,"Orlando, FL",28.28972222,-81.43694444
+ISN,Sloulin Field International,"Williston, ND",48.17805556,-103.6422222
+ISO,Kinston Regional Jetport at Stallings Field,"Kinston, NC",35.33138889,-77.60888889
+ISP,Long Island MacArthur,"Islip, NY",40.79527778,-73.10027778
+ISQ,Schoolcraft County,"Manistique, MI",45.97444444,-86.17166667
+ISS,Wiscasset Airport,"Wiscasset, ME",43.96138889,-69.7125
+ISW,Alexander Field South Wood County,"Wisconsin Rapids, WI",44.36055556,-89.83805556
+ITH,Ithaca Tompkins Regional,"Ithaca/Cortland, NY",42.49138889,-76.45861111
+ITO,Hilo International,"Hilo, HI",19.72027778,-155.0483333
+IWD,Gogebic-Iron County,"Ironwood, MI",46.5275,-90.13138889
+IWS,West Houston,"Houston, TX",29.81805556,-95.6725
+IYK,Inyokern Airport,"Inyokern, CA",35.65861111,-117.82944440000001
+JAC,Jackson Hole,"Jackson, WY",43.60722222,-110.73777779999999
+JAJ,Perimeter Mall Helipad,"Atlanta, GA",33.765,-84.41777778
+JAN,Jackson Medgar Wiley Evers International,"Jackson/Vicksburg, MS",32.31111111,-90.07583333
+JAO,Beaver Ruin,"Atlanta, GA",33.93333333,-84.15
+JAX,Jacksonville International,"Jacksonville, FL",30.49416667,-81.68777778
+JBC,Boston City Heliport,"Boston, MA",42.33333333,-71.25
+JBK,Berkeley Municipal Heliport,"Oakland, CA",37.86666667,-122.3
+JBP,Commerce Business Park Heliport,"Commerce, CA",33.98666667,-118.16055559999998
+JBR,Jonesboro Municipal,"Jonesboro, AR",35.83166667,-90.64638889
+JCC,China Basin Heliport,"San Francisco, CA",37.8,-122.46666670000002
+JCE,Oakland Convention Center Heliport,"Oakland, CA",37.80555556,-122.275
+JCI,New Century Aircenter,"Olathe, KS",38.83083333,-94.89027778
+JDA,Grant County Regional/Ogilvie Field,"John Day, OR",44.40277778,-118.9677778
+JDB,Downtown Heliport,"Dallas/Fort Worth, TX",32.76666667,-97.31666667
+JDG,Edgewater Inn Helipad Sea Wash,"Seattle, WA",47.60083333,-122.3347222
+JDM,Miami Downtown Heliport,"Miami, FL",25.76666667,-80.18333333
+JDT,Minneapolis Heliport,"Minneapolis, MN",44.98277778,-93.26833333
+JDX,Houston Central Business District Heliport,"Houston, TX",29.76666667,-95.33333333
+JEF,Jefferson City Memorial,"Jefferson City, MO",38.59111111,-92.15611111
+JFB,Seattle 1st National.Bank Helipad,"Seattle, WA",47.60694444,-122.3325
+JFK,John F. Kennedy International,"New York, NY",40.64,-73.77861111
+JFN,Northeast Ohio Regional,"Jefferson, OH",41.77777778,-80.69666667
+JGC,Grand Canyon Heliport,"Grand Canyon, AZ",35.96666667,-112.13333329999999
+JGG,Williamsburg-Jamestown,"Williamsburg, VA",37.23916667,-76.71611111
+JGL,Galleria,"Atlanta, GA",33.58333333,-84.46666667
+JGP,Greenway Plaza Heliport,"Houston, TX",29.73416667,-95.43416667
+JGQ,Transco Tower Galleria Heliport,"Houston, TX",29.73666667,-95.45916667
+JHC,Island Heliport,"Garden City, NY",40.74444444,-73.60833333
+JHM,Kapalua Airport,"Kapalua, HI",20.96305556,-156.6730556
+JHW,Chautauqua County/Jamestown,"Jamestown, NY",42.15333333,-79.25805556
+JHY,Cambridge Airport,"Cambridge, MA",42.28333333,-71.13333333
+JID,Civic Financial Center Heliport,"City of Industry, CA",34.02444444,-117.95916670000001
+JKV,Cherokee County,"Jacksonville, TX",31.86944444,-95.2175
+JLA,Quartz Creek,"Cooper Lodge, AK",60.48416667,-149.72277780000002
+JLN,Joplin Regional,"Joplin, MO",37.15305556,-94.49888889
+JMA,Astrodome,"Houston, TX",29.68333333,-95.4
+JMC,Marin County Heliport,"San Francisco, CA",37.87861111,-122.50972220000001
+JMN,Downtown Heliport,"Mankato, MN",44.16388889,-94.00416667
+JMS,Jamestown Regional,"Jamestown, ND",46.92972222,-98.67805556
+JNP,Newport Beach Airport,"Newport Beach, CA",33.61388889,-117.88972220000001
+JNU,Juneau International,"Juneau, AK",58.35472222,-134.5783333
+JOC,Centerport Heliport,"Santa Ana, CA",33.66666667,-117.86666670000001
+JON,Johnston Atoll,"Johnston Island, TT",16.73055556,-169.53527780000002
+JOR,Orange County Heliport,"Orange, CA",33.84805556,-117.85
+JPB,Pan Am Building Heliport,"New York, NY",40.75333333,-73.975
+JPT,Park Ten Helipad,"Houston, TX",29.50861111,-95.05027778
+USA,CONCORD REGIONAL,"CONCORD, NC",35.38777778,-80.70916667
+JRA,West 30th Street Heliport,"New York, NY",40.75444444,-74.0075
+JRB,Downtown Manhattan/Wall Street Heliport,"New York, NY",40.70111111,-74.00916667
+JRC,Appache Heliport,"Rochester, MN",44.00138889,-92.48055556
+JRE,East 60th Street Heliport,"New York, NY",40.8,-73.96666667
+JRF,Kalaeloa,"Kapolei, HI",21.30722222,-158.0702778
+JRV,Jose Aponte de la Torre,"Ceiba, PR",18.245,-65.64333333
+JSE,Juneau Seaplane Base,"Juneau, AK",58.30166667,-134.42444440000003
+JSK,Crossroads Heliport,"St. Cloud, MN",45.55,-94.2
+JST,John Murtha Johnstown-Cambria County,"Johnstown, PA",40.31555556,-78.83472222
+JVL,Southern Wisconsin Regional,"Beloit/Janesville, WI",42.62027778,-89.04166667
+JWH,Westchase Heliport,"Houston, TX",29.73638889,-95.5475
+TN8,John C Tune,"Nashville, TN",36.18305556,-86.88638889
+JXN,Jackson County-Reynolds Field,"Jackson, MI",42.26055556,-84.46222222
+JYP,Olympic Hotel Helipad Sea Wash,"Seattle, WA",47.60416667,-122.33333329999999
+JZA,James H Easom Field,"Newton, MS",32.31194444,-89.13555556
+JZB,Orange Municipal,"Orange, MA",42.57,-72.28861111
+JZC,Stanley Municipal,"Stanley, ND",48.30083333,-102.40638890000001
+JZE,Trading Bay Production,"Trading Bay, AK",60.81555556,-151.7988889
+JZG,Chamberlain Municipal,"Chamberlain, SD",43.76611111,-99.32111111
+JZI,Portland Municipal,"Portland, TN",36.59277778,-86.47694444
+JZJ,Sky Harbor,"Duluth, MN",46.72194444,-92.04333333
+JZK,Cloquet Carlton County,"Cloquet, MN",46.70111111,-92.50361111
+JZL,San Clemente Island Nalf,"San Clemente Island, CA",33.02277778,-118.58861110000001
+JZM,Hog River Airport,"Hog River, AK",66.17611111,-155.68472219999998
+JZN,Quincy Municipal,"Quincy, WA",47.21166667,-119.83972220000001
+JZO,American Falls Airport,"American Falls, ID",42.79722222,-112.8252778
+JZP,Prospect State,"Prospect, OR",42.7425,-122.48888889999999
+JZQ,Brooksville Tampa Bay Regional,"Brooksville, FL",28.47361111,-82.45555556
+JZR,Laurel Municipal,"Laurel, MT",45.70444444,-108.7594444
+JZT,Arlington Municipal,"Arlington, TX",32.66388889,-97.09416667
+JZU,William H. Morse State,"Bennington, VT",42.89111111,-73.24611111
+JZV,North Little Rock Municipal,"Little Rock, AR",34.83305556,-92.25416667
+JZW,Evergreen Regional Middleton Field,"Evergreen, AL",31.415,-87.04333333
+JZX,Angwin-Parrett Field,"Angwin, CA",38.58,-122.43555559999999
+JZY,Idaho County,"Grangeville, ID",45.94277778,-116.12305559999999
+K01,Russellville-Logan County,"Russellville, KY",36.79972222,-86.81083333
+KAE,Kake Seaplane Base,"Kake, AK",56.97333333,-133.9438889
+KAL,Kaltag Airport,"Kaltag, AK",64.31888889,-158.7413889
+KBC,Birch Creek Airport,"Birch Creek, AK",66.27444444,-145.81805559999998
+KBE,Bell Island Hot Springs Seaplane Base,"Bell Island, AK",55.92944444,-131.57
+KBK,Klag Bay Airport,"Klag Bay, AK",57.64472222,-136.09305559999999
+KBW,Chignik Bay,"Chignik, AK",56.28805556,-158.3833333
+KCC,Coffman Cove Seaplane Base,"Coffman Cove, AK",56.03333333,-132.9166667
+KCG,Chignik Bay Airport,"Chignik Bay, AK",56.31138889,-158.3733333
+KCK,Fairfax Municipal,"Kansas City, KS",39.15,-94.6
+KCL,Chignik Lagoon Airport,"Chignik Lagoon, AK",56.31083333,-158.5344444
+KCN,Chernofski Harbor,"Chernofski, AK",53.4,-167.55
+KCQ,Chignik Lake,"Chignik, AK",56.25555556,-158.77777780000002
+KCR,Colorado Creek Airport,"Colorado Creek, AK",63.57111111,-156.00527780000002
+KDK,Kodiak Municipal,"Kodiak, AK",57.80583333,-152.3738889
+KEB,Nanwalek Airport,"Nanwalek, AK",59.35222222,-151.9252778
+KEH,Kenmore Air Harbor,"Kenmore, WA",47.75472222,-122.25916670000001
+KEK,Ekwok Airport,"Ekwok, AK",59.35694444,-157.4711111
+OCA,Ocean Reef Club,"Key Largo, FL",25.32444444,-80.27583333
+KFP,False Pass Airport,"False Pass, AK",54.84777778,-163.40722219999998
+KGK,Koliganek Airport,"Koliganek, AK",59.72666667,-157.2602778
+KGX,Grayling Airport,"Grayling, AK",62.89222222,-160.0663889
+KGZ,Glacier Creek Airport,"Glacier Creek, AK",61.455,-142.3808333
+KIB,Ivanof Bay Seaplane Base,"Ivanof Bay, AK",55.9,-159.4833333
+KKA,Koyuk Alfred Adams,"Koyuk, AK",64.93944444,-161.1541667
+KKB,Kitoi Bay Airport,"Kitoi Bay, AK",58.19166667,-152.35
+KKH,Kongiganak Airport,"Kongiganak, AK",59.96166667,-162.88055559999998
+KKI,Akiachak Airport,"Akiachak, AK",60.91388889,-161.49333330000002
+KKK,Kalakaket Creek AS,"Kalakaket, AK",64.42444444,-156.8433333
+KKL,Karluk Lake Seaplane Base,"Karluk Lake, AK",57.36777778,-154.02527780000003
+KKU,Ekuk Airport,"Ekuk, AK",58.81111111,-158.5588889
+KLG,Kalskag Airport,"Kalskag, AK",61.53583333,-160.34555559999998
+KLL,Levelock Airport,"Levelock, AK",59.12694444,-156.86
+KLN,Larsen Bay Airport,"Larsen Bay, AK",57.535,-153.97666669999998
+KLP,Kelp Bay Airport,"Kelp Bay, AK",57.55,-134.8666667
+KLS,Southwest Washington Regional,"Kelso, WA",46.11805556,-122.89833329999999
+KLW,Klawock Airport,"Klawock, AK",55.57916667,-133.0761111
+KMO,Manokatak Seaplane Base,"Manokotak, AK",58.98166667,-159.0566667
+KMY,Moser Bay Airport,"Moser Bay, AK",57.02638889,-154.14361110000002
+KNB,Kanab Municipal,"Kanab, UT",37.01055556,-112.5313889
+KNK,Kokhanok Airport,"Kokhanok, AK",59.43333333,-154.8025
+KNT,Kennett Memorial,"Kennett, MO",36.22583333,-90.03666667
+KNW,New Stuyahok Airport,"New Stuyahok, AK",59.45166667,-157.3730556
+KOA,Ellison Onizuka Kona International at Keahole,"Kona, HI",19.73888889,-156.0455556
+KOT,Kotlik Airport,"Kotlik, AK",63.03055556,-163.53277780000002
+KOY,Olga Bay Seaplane Base,"Olga Bay, AK",57.16222222,-154.2275
+KOZ,Ouzinkie Airport,"Ouzinkie, AK",57.94222222,-152.465
+KPB,Point Baker Airport,"Point Baker, AK",56.35,-133.61666670000002
+KPC,Port Clarence CGS,"Port Clarence, AK",65.25333333,-166.8575
+KPH,Pauloff Harbor Airport,"Pauloff Harbor, AK",54.45,-162.68333330000002
+KPK,Parks Seaplane Base,"Parks, AK",57.43361111,-153.9
+KPM,Napamute Airport,"Napamute, AK",61.53138889,-158.6408333
+KPN,Kipnuk Airport,"Kipnuk, AK",59.93166667,-164.0280556
+KPR,Port Williams Airport,"Port Williams, AK",58.43333333,-152.58333330000002
+KPV,Perryville Airport,"Perryville, AK",55.90666667,-159.1608333
+KPY,Port Bailey Airport,"Port Bailey, AK",57.93333333,-153.0333333
+KQA,Akutan Airport,"Akutan, AK",54.13333333,-165.7833333
+KRM,Kasitsna,"Kasitsna Bay, AK",59.46972222,-151.5711111
+KS2,Coffey County,"Burlington, KS",38.3025,-95.725
+KSM,St. Mary's Airport,"St. Mary's, AK",62.06083333,-163.30194440000002
+KSR,Federal No.1,"Sandy River, AK",56.24444444,-160.3863889
+KTB,Thorne Bay Seaplane Base,"Thorne Bay, AK",55.68833333,-132.535
+KTN,Ketchikan International,"Ketchikan, AK",55.35416667,-131.7111111
+KTS,Brevig Mission Airport,"Brevig Mission, AK",65.33138889,-166.4658333
+KUK,Kasigluk Airport,"Kasigluk, AK",60.87333333,-162.52444440000002
+KUW,Kugururok River Airport,"Kugururok River, AK",68.30694444,-161.4
+KVC,King Cove Airport,"King Cove, AK",55.11638889,-162.2661111
+KVL,Kivalina Airport,"Kivalina, AK",67.73611111,-164.5636111
+KWF,Waterfall Seaplane Base,"Waterfall, AK",55.29722222,-133.2405556
+KWK,Kwigillingok Airport,"Kwigillingok, AK",59.87555556,-163.16805559999997
+KWN,Quinhagak Airport,"Quinhagak, AK",59.755,-161.84527780000002
+KWP,West Point Village,"West Point, AK",57.76694444,-153.55
+KWT,Kwethluk Airport,"Kwethluk, AK",60.79027778,-161.4436111
+KXA,Kasaan Seaplane Base,"Kasaan, AK",55.53777778,-132.3958333
+KY1,Stuart Powell Field,"Danville, KY",37.5775,-84.76944444
+KY2,Sturgis Municipal,"Sturgis, KY",37.54166667,-87.95444444
+KY3,Mount Sterling - Montgomery County,"Mount Sterling, KY",38.05805556,-83.97944444
+KY4,Henderson City - County,"Henderson, KY",37.80777778,-87.68583333
+KY5,Madisonville Regional,"Madisonville, KY",37.35583333,-87.39833333
+KYC,Yankee Creek 2,"Yankee Creek, AK",63.00194444,-156.3672222
+KYK,Karluk Airport,"Karluk, AK",57.56611111,-154.4538889
+KYU,Koyukuk Airport,"Koyukuk, AK",64.87583333,-157.73055559999997
+KZB,Zachar Bay Airport,"Zachar Bay, AK",57.55,-153.75
+KZH,Kizhuyak Airport,"Kizhuyak, AK",57.58305556,-153.15
+LAA,Lamar Municipal,"Lamar, CO",38.06972222,-102.68861109999999
+LAF,Purdue University,"Lafayette, IN",40.41222222,-86.93694444
+LAL,Lakeland Linder Regional,"Lakeland, FL",27.98888889,-82.01861111
+LAM,Los Alamos Airport,"Los Alamos, NM",35.87972222,-106.2686111
+LAN,Capital Region International,"Lansing, MI",42.77861111,-84.58611111
+LAR,Laramie Regional,"Laramie, WY",41.31194444,-105.675
+LAS,McCarran International,"Las Vegas, NV",36.08,-115.15222220000001
+LAW,Lawton-Fort Sill Regional,"Lawton/Fort Sill, OK",34.56777778,-98.41666667
+LAX,Los Angeles International,"Los Angeles, CA",33.9425,-118.40805559999998
+LBB,Lubbock Preston Smith International,"Lubbock, TX",33.66361111,-101.82055559999999
+LBE,Arnold Palmer Regional,"Latrobe, PA",40.27305556,-79.41027778
+LBF,North Platte Regional Airport Lee Bird Field,"North Platte, NE",41.12611111,-100.6836111
+LBL,Liberal Mid-America Regional,"Liberal, KS",37.04388889,-100.96
+LBT,Lumberton Regional,"Lumberton, NC",34.60972222,-79.05944444
+LCH,Lake Charles Regional,"Lake Charles, LA",30.12611111,-93.22333333
+LCI,Laconia Municipal,"Laconia, NH",43.57305556,-71.41777778
+LCK,Rickenbacker International,"Columbus, OH",39.81388889,-82.92777778
+LDJ,Linden Airport,"Linden, NJ",40.6175,-74.24444444
+LDM,Mason County,"Ludington, MI",43.9625,-86.40805556
+LEB,Lebanon Municipal,"Lebanon-Hanover, NH",43.62611111,-72.30416667
+LEE,Leesburg International,"Leesburg, FL",28.82277778,-81.80833333
+LEW,Auburn Lewiston Municipal,"Lewiston/Auburn, ME",44.04833333,-70.28361111
+LEX,Blue Grass,"Lexington, KY",38.03666667,-84.60861111
+LFI,Langley AFB,"Newport News/Hampton, VA",37.08277778,-76.36055556
+LFK,Angelina County,"Lufkin, TX",31.23416667,-94.75
+LFT,Lafayette Regional Paul Fournet Field,"Lafayette, LA",30.205,-91.98777778
+LGA,LaGuardia,"New York, NY",40.77722222,-73.8725
+LGB,Long Beach Airport,"Long Beach, CA",33.81777778,-118.1513889
+LGC,LaGrange-Callaway,"LaGrange, GA",33.00888889,-85.0725
+LGD,La Grande/Union County,"La Grande, OR",45.28944444,-118.0061111
+LGM,Longmont Municipal,"Longmont, CO",40.16166667,-105.16138889999999
+LGU,Logan Cache,"Logan, UT",41.79138889,-111.85166670000001
+LHB,Lost Harbor Airport,"Lost Harbor, AK",54.22611111,-165.61111110000002
+LHQ,Fairfield County,"Lancaster, OH",39.75555556,-82.65722222
+LHU,Lake Havasu City Airport,"Lake Havasu City, AZ",34.45833333,-114.3611111
+LHV,William T. Piper Memorial,"Lock Haven, PA",41.13583333,-77.42222222
+LHX,La Junta Municipal,"La Junta, CO",38.05,-103.50972220000001
+LIC,Limon Municipal,"Limon, CO",39.27472222,-103.6658333
+LIH,Lihue Airport,"Lihue, HI",21.97611111,-159.3388889
+LIJ,Long Island Airport,"Long Island, AK",54.9,-132.75
+LIT,Bill and Hillary Clinton Nat Adams Field,"Little Rock, AR",34.72944444,-92.22472222
+LIV,Livengood Airport,"Livengood, AK",65.53111111,-148.5411111
+LIY,Wright AAF/Midcoast Regional,"Hinesville, GA",31.88833333,-81.56166667
+LIZ,Loring International,"Limestone, ME",46.95055556,-67.88583333
+LJN,Brazoria County,"Lake Jackson, TX",29.03833333,-95.45694444
+LJY,Floyd W Jones Lebanon,"Lebanon, MO",37.64833333,-92.6525
+LKE,Lake Union Terminal,"Seattle, WA",47.62888889,-122.33861110000001
+LKK,Kulik Lake Airport,"Kulik Lake, AK",58.965,-155.09555559999998
+LKP,Lake Placid Airport,"Lake Placid, NY",44.26444444,-73.96194444
+LKV,Lake County,"Lakeview, OR",42.16111111,-120.39916670000001
+LLY,South Jersey Regional,"Mount Holly, NJ",39.94277778,-74.84583333
+LMA,Lake Minchumina Airport,"Lake Minchumina, AK",63.88583333,-152.30194440000002
+LMS,Louisville Winston County,"Louisville, MS",33.14611111,-89.0625
+LMT,Crater Lake Klamath Regional,"Klamath Falls, OR",42.15611111,-121.73305559999999
+LND,Hunt Field,"Lander, WY",42.81555556,-108.72833329999999
+LNI,Lonely AS,"Lonely, AK",70.91083333,-153.2422222
+LNK,Lincoln Airport,"Lincoln, NE",40.85083333,-96.75916667
+LNL,Kings Land O' Lakes,"Land O' Lakes, WI",46.15416667,-89.21194444
+LNP,Lonesome Pine,"Wise, VA",36.9875,-82.53
+LNS,Lancaster Airport,"Lancaster, PA",40.12222222,-76.29444444
+LNT,Lanett Municipal,"Lanett, AL",32.81194444,-85.22972222
+LNY,Lanai Airport,"Lanai, HI",20.78555556,-156.95138889999998
+LOI,Laredo Municipal,"Laredo, TX",27.61555556,-99.52
+LOL,Derby Field,"Lovelock, NV",40.06638889,-118.565
+LOU,Bowman Field,"Louisville, KY",38.22805556,-85.66361111
+LOZ,London-Corbin Airport-Magee Field,"London/Corbin, KY",37.08694444,-84.0775
+LPC,Lompoc Airport,"Lompoc, CA",34.66555556,-120.4675
+LPO,La Porte Municipal,"La Porte, IN",41.5725,-86.73444444
+LPS,Lopez Island Airport,"Lopez Island, WA",48.48388889,-122.93777779999999
+LPW,Little Port Walter Airport,"Little Port Walter, AK",56.38333333,-134.83333330000002
+LQK,Pickens County,"Pickens, SC",34.81,-82.70277778
+LRD,Laredo International,"Laredo, TX",27.54416667,-99.46166667
+LRF,Little Rock AFB,"Jacksonville, AR",34.9175,-92.145
+WLR,Loring Airport,"Loring, AK",55.60166667,-131.635
+LRN,Larson AFB,"Moses Lake, WA",47.14305556,-119.24027779999999
+LRO,Sharpe AFF,"Lathrop, CA",37.83666667,-121.2722222
+LRU,Las Cruces International,"Las Cruces, NM",32.28944444,-106.92194440000002
+LSD,Blue Grass Station AHP,"Lexington, KY",38.09111111,-84.31666667
+LSE,La Crosse Regional,"La Crosse, WI",43.87916667,-91.25666667
+LSF,Lawson AAF,"Columbus, GA",32.33166667,-84.98722222
+LSN,Los Banos Municipal,"Los Banos, CA",37.06388889,-120.86972220000001
+LSR,Lost River 1,"Lost River, AK",65.39611111,-167.16305559999998
+LSV,Nellis AFB,"Las Vegas, NV",36.23611111,-115.03416670000001
+LTS,Altus AFB,"Altus, OK",34.66638889,-99.26805556
+LUF,Luke AFB,"Phoenix, AZ",33.535,-112.38305559999999
+LUK,Cincinnati Municipal Lunken Field,"Cincinnati, OH",39.10333333,-84.41861111
+LUL,Hesler-Noble Field,"Laurel, MS",31.67305556,-89.17277778
+LUP,Kalaupapa Airport,"Kalaupapa, HI",21.21111111,-156.9736111
+LUR,Cape Lisburne LRRS,"Cape Lisburne, AK",68.875,-166.11111110000002
+LVD,Lime Village Airport,"Lime Village, AK",61.35916667,-155.44027780000002
+LVK,Livermore Municipal,"Livermore, CA",37.69333333,-121.8202778
+LVM,Livingston Airport,"Livingston, MT",45.66666667,-110.56666670000001
+LVS,Las Vegas Municipal,"Las Vegas, NM",35.65416667,-105.1425
+LWB,Greenbrier Valley,"Lewisburg, WV",37.85833333,-80.39944444
+LWC,Lawrence Municipal,"Lawrence, KS",39.01111111,-95.21638889
+LWF,Lawrenceburg-Lawrence County,"Lawrenceburg, TN",35.23444444,-87.25805556
+LWL,Wells Municipal/Harriet Field,"Wells, NV",41.11722222,-114.92222220000001
+LWM,Lawrence Municipal,"Lawrence, MA",42.71722222,-71.12361111
+LWS,Lewiston Nez Perce County,"Lewiston, ID",46.37444444,-117.01527779999999
+LWT,Lewistown Municipal,"Lewistown, MT",47.04916667,-109.46666670000002
+LWV,Lawrenceville-Vincennes International,"Lawrenceville, IL",38.76416667,-87.60555556
+LXN,Jim Kelly Field,"Lexington, NE",40.79055556,-99.77583333
+LXV,Lake County,"Leadville, CO",39.21944444,-106.31638889999999
+LYH,Lynchburg Regional/Preston Glenn Field,"Lynchburg, VA",37.32666667,-79.20111111
+LYU,Ely Municipal,"Ely, MN",47.82388889,-91.82944444
+LZU,Gwinnett County - Briscoe Field,"Lawrenceville, GA",33.97805556,-83.9625
+MA1,Katama Airpark,"Edgartown, MA",41.35833333,-70.52444444
+MAC,Macon Downtown,"Macon, GA",32.82166667,-83.56194444
+MAE,Madera Municipal,"Madera, CA",36.98638889,-120.1125
+MAF,Midland International Air and Space Port,"Midland/Odessa, TX",31.9425,-102.2019444
+MAW,Malden Regional,"Malden, MO",36.59833333,-89.9925
+MAZ,Eugenio Maria de Hostos,"Mayaguez, PR",18.25555556,-67.14833333
+MBL,Manistee County-Blacker,"Manistee/Ludington, MI",44.2725,-86.24694444
+MBS,MBS International,"Saginaw/Bay City/Midland, MI",43.53305556,-84.07972222
+MBY,Omar N Bradley,"Moberley, MO",39.46333333,-92.42638889
+MCB,McComb/Pike County/John E. Lewis Field,"McComb, MS",31.17833333,-90.47194444
+MCC,McClellan Airfield,"Sacramento, CA",38.66777778,-121.40055559999999
+MCD,Mackinac Island Airport,"Mackinac Island, MI",45.865,-84.63722222
+MCE,Merced Regional/Macready Field,"Merced, CA",37.28472222,-120.5138889
+MCF,Macdill AFB,"Tampa, FL",27.84944444,-82.52111111
+MCG,McGrath Airport,"McGrath, AK",62.95277778,-155.6069444
+MCI,Kansas City International,"Kansas City, MO",39.2975,-94.71388889
+MCK,McCook Ben Nelson Regional,"McCook, NE",40.20638889,-100.5919444
+MCL,Denali,"McKinley Park, AK",63.645,-148.7980556
+MCN,Middle Georgia Regional,"Macon, GA",32.69277778,-83.64916667
+MCO,Orlando International,"Orlando, FL",28.42944444,-81.30888889
+MCW,Mason City Municipal,"Mason City, IA",43.15777778,-93.33111111
+MDA,Martindale AHP,"San Antonio, TX",29.43138889,-98.37777778
+MDD,Midland Airpark,"Midland/Odessa, TX",32.03666667,-102.1016667
+MDF,Taylor County,"Medford, WI",45.10138889,-90.30027778
+MDH,Southern Illinois,"Carbondale, IL",37.77805556,-89.25194444
+MDJ,Madras Municipal,"Madras, OR",44.67027778,-121.1552778
+MDO,Middleton Island Airport,"Middleton Island, AK",59.45,-146.30722219999998
+MDR,Medfra Airport,"Medfra, AK",63.10694444,-154.7166667
+MDT,Harrisburg International,"Harrisburg, PA",40.19305556,-76.7625
+MDW,Chicago Midway International,"Chicago, IL",41.78583333,-87.7525
+MDY,Sand Island Field,"Midway Island, TT",28.20444444,-177.3786111
+ME1,Steven A. Bean Municipal,"Rangeley, ME",44.99194444,-70.66472222
+MEI,Key Field,"Meridian, MS",32.3325,-88.75194444
+MEJ,Port Meadville,"Meadville, PA",41.62666667,-80.21472222
+MEM,Memphis International,"Memphis, TN",35.0425,-89.97666667
+MEO,Dare County Regional,"Manteo, NC",35.91888889,-75.69555556
+MER,Castle,"Atwater, CA",37.38055556,-120.56805559999998
+MEV,Minden-Tahoe,"Minden, NV",39.00055556,-119.7511111
+MFD,Mansfield Lahm Regional,"Mansfield, OH",40.82138889,-82.51666667
+MFE,McAllen Miller International,"Mission/McAllen/Edinburg, TX",26.17583333,-98.23861111
+MFH,Mesquite Airport,"Mesquite, NV",36.83305556,-114.05583329999999
+MFI,Marshfield Municipal,"Marshfield, WI",44.63694444,-90.18944444
+MFR,Rogue Valley International - Medford,"Medford, OR",42.37416667,-122.8736111
+MFT,Mangham Field,"Fort Worth, TX",32.85611111,-97.2
+MFV,Accomack County,"Melfa, VA",37.64694444,-75.76111111
+MGC,Michigan City Municipal Phillips Field,"Michigan City, IN",41.70333333,-86.82111111
+MGE,Dobbins ARB,"Marietta, GA",33.91444444,-84.51416667
+MGJ,Orange County,"Montgomery, NY",41.51,-74.26472222
+MGM,Montgomery Regional,"Montgomery, AL",32.30055556,-86.39388889
+MGR,Moultrie/Thomasville Airport,"Moultrie/Thomasville, GA",31.06944444,-83.80277778
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,"Morgantown, WV",39.64361111,-79.9175
+MGY,Dayton-Wright Brothers,"Dayton, OH",39.58888889,-84.22472222
+MHE,Mitchell Municipal,"Mitchell, SD",43.77472222,-98.03861111
+MHK,Manhattan Regional,"Manhattan/Ft. Riley, KS",39.14111111,-96.67166667
+MHL,Marshall Memorial Municipal,"Marshall, MO",39.09555556,-93.20277778
+MHM,Minchumina Airport,"Minchumina, AK",63.88583333,-152.30194440000002
+MHR,Sacramento Mather,"Sacramento, CA",38.55527778,-121.29722220000001
+MHT,Manchester-Boston Regional,"Manchester, NH",42.93277778,-71.43583333
+MHV,Mojave Air and Space Port,"Mojave, CA",35.05888889,-118.15055559999999
+MI1,Greenville Municipal,"Greenville, MI",43.14222222,-85.25388889
+MI2,West Michigan Regional,"Holland, MI",42.74277778,-86.10777778
+MI3,Livingston County Spencer J. Hardy,"Howell, MI",42.62944444,-83.98222222
+MIA,Miami International,"Miami, FL",25.79527778,-80.29
+MIB,Minot AFB,"Minot, ND",48.41583333,-101.3580556
+MIC,Crystal,"Minneapolis, MN",45.06194444,-93.35388889
+MIE,Delaware County Regional,"Muncie/Anderson/Newcastle, IN",40.2425,-85.39583333
+MIO,Miami Regional,"Miami, OK",36.90916667,-94.8875
+MIQ,Millard,"Omaha, NE",41.19611111,-96.11222222
+MIT,Shafter - Minter Field,"Shafter, CA",35.5075,-119.1922222
+MIV,Millville Municipal,"Millville, NJ",39.36777778,-75.07222222
+MIW,Marshalltown Municipal,"Marshalltown, IA",42.11277778,-92.91777778
+MJQ,Jackson Airport,"Jackson, MN",43.63333333,-94.98333333
+MJX,Ocean County,"Toms River, NJ",39.92611111,-74.29555556
+MKC,Charles B. Wheeler Downtown,"Kansas City, MO",39.12305556,-94.59277778
+MKE,General Mitchell International,"Milwaukee, WI",42.94694444,-87.89694444
+MKG,Muskegon County,"Muskegon, MI",43.16888889,-86.2375
+MKK,Molokai,"Hoolehua, HI",21.15277778,-157.0963889
+MKL,McKellar-Sipes Regional,"Jackson, TN",35.6,-88.91555556
+MKO,Muskogee Davis Regional,"Muskogee, OK",35.65777778,-95.36166667
+MKT,Mankato Regional,"Mankato, MN",44.22277778,-93.91944444
+MLB,Melbourne International,"Melbourne, FL",28.10277778,-80.64527778
+MLC,McAlester Regional,"McAlester, OK",34.8825,-95.78333333
+MLD,Malad City Airport,"Malad City, ID",42.17055556,-112.28944440000001
+MLF,Milford Municipal/Ben and Judy Briscoe Field,"Milford, UT",38.42666667,-113.01333329999999
+MLI,Quad City International,"Moline, IL",41.44833333,-90.5075
+MLK,Malta Airport,"Malta, MT",48.36694444,-107.91944440000002
+MLL,Marshall Don Hunter Sr.,"Marshall, AK",61.86416667,-162.0261111
+MLS,Frank Wiley Field,"Miles City, MT",46.42805556,-105.88611110000001
+MLT,Millinocket Municipal,"Millinocket, ME",45.64777778,-68.68555556
+MLU,Monroe Regional,"Monroe, LA",32.51083333,-92.03777778
+MLY,Manley Hot Springs Airport,"Manley Hot Springs, AK",64.98805556,-150.6475
+MMH,Mammoth Lakes Airport,"Mammoth Lakes, CA",37.63111111,-118.8513889
+MMI,McMinn County,"Athens, TN",35.39916667,-84.56166667
+MML,Southwest Minnesota Regional-Marshall/Ryan Field,"Marshall, MN",44.45166667,-95.82444444
+MMN,Minute Man Air Field,"Stow, MA",42.46055556,-71.51777778
+MMT,McEntire Jngb,"Columbia, SC",33.92083333,-80.80111111
+MMU,Morristown Municipal,"Morristown, NJ",40.79944444,-74.415
+MN1,Fosston Municipal,"Fosston, MN",47.59277778,-95.77361111
+MN2,Moose Lake Carlton County,"Moose Lake, MN",46.41861111,-92.80472222
+MN3,Ortonville Municipal-Martinson Field,"Ortonville, MN",45.30416667,-96.42472222
+MNM,Menominee-Marinette Twin County,"Marinette, MI",45.12666667,-87.63861111
+MNN,Marion Municipal,"Marion, OH",40.61638889,-83.06333333
+MNT,Minto Al Wright,"Minto, AK",65.14805556,-149.3686111
+MNZ,Manassas Regional/Harry P. Davis Field,"Manassas, VA",38.72111111,-77.515
+MO1,Midwest National Air Center,"Mosby, MO",39.3325,-94.30972222
+MO2,Washington Regional,"Washington, MO",38.5875,-90.99388889
+MOB,Mobile Regional,"Mobile, AL",30.69138889,-88.24277778
+MOD,Modesto City-County-Harry Sham Field,"Modesto, CA",37.62583333,-120.95444440000001
+MOP,Mount Pleasant Municipal,"Mount Pleasant, MI",43.62166667,-84.73722222
+MOR,Moore-Murrell,"Morristown, TN",36.17944444,-83.37555556
+MOS,Moses Point Airport,"Moses Point, AK",64.69805556,-162.05722219999998
+MOT,Minot International,"Minot, ND",48.25777778,-101.2780556
+MOU,Mountain Village Airport,"Mountain Village, AK",62.09472222,-163.68277780000003
+MPB,Watson Island International,"Miami, FL",25.77833333,-80.17027778
+ID2,Montpelier Airport,"Montpelier, ID",42.33611111,-111.2888889
+MPJ,Petit Jean Park,"Morrilton, AR",35.13888889,-92.90916667
+MPO,Pocono Mountains Municipal,"Mt. Pocono, PA",41.13777778,-75.38
+MPR,McPherson Airport,"McPherson, KS",38.3525,-97.69138889
+MPS,Mount Pleasant Municipal,"Mount Pleasant, TX",33.12861111,-94.97583333
+MPV,Edward F Knapp State,"Montpelier/Barre, VT",44.20361111,-72.56222222
+MQB,Macomb Municipal,"Macomb, IL",40.52,-90.6525
+MQJ,Indianapolis Regional,"Indianapolis, IN",39.84305556,-85.89777778
+MQT,Sawyer International,"Marquette, MI",46.35361111,-87.39527778
+MQY,Smyrna Airport,"Smyrna, TN",36.00888889,-86.52
+MRB,Eastern WV Regional/Shepherd Field,"Martinsburg, WV",39.40222222,-77.98305556
+MRC,Maury County,"Columbia, TN",35.55444444,-87.17916667
+MRH,Beaufort Morehead City,"Morehead City, NC",34.73416667,-76.66027778
+MRI,Merrill Field,"Anchorage, AK",61.21361111,-149.84472219999998
+MRK,Marco Island Airport,"Marco Island, FL",25.995,-81.6725
+MRN,Morganton Lenoir,"Morganton, NC",35.83333333,-81.61666667
+MRY,Monterey Regional,"Monterey, CA",36.58694444,-121.84305559999999
+MS1,Grenada Municipal,"Grenada, MS",33.8325,-89.79805556
+MSC,Falcon Field,"Mesa, AZ",33.46083333,-111.72833329999999
+MSL,Northwest Alabama Regional,"Muscle Shoals, AL",34.74527778,-87.61027778
+MSN,Dane County Regional-Truax Field,"Madison, WI",43.14,-89.3375
+MSO,Missoula International,"Missoula, MT",46.91638889,-114.09055559999999
+MSP,Minneapolis-St Paul International,"Minneapolis, MN",44.88194444,-93.22166667
+MSS,Massena International-Richards Field,"Massena, NY",44.93638889,-74.845
+MSV,Sullivan County International,"Monticello, NY",41.70166667,-74.795
+MSY,Louis Armstrong New Orleans International,"New Orleans, LA",29.99333333,-90.25916667
+MT1,Colstrip Airport,"Colstrip, MT",45.85277778,-106.70916670000001
+MTC,Selfridge Angb,"Mt. Clemens, MI",42.61388889,-82.83694444
+MTH,The Florida Keys Marathon International,"Marathon, FL",24.72611111,-81.05138889
+MTJ,Montrose Regional,"Montrose/Delta, CO",38.50972222,-107.89416670000001
+MTM,Metlakatala,"Metlakatla, AK",55.13333333,-131.5833333
+MTN,Martin State,"Baltimore, MD",39.32555556,-76.41388889
+MTO,Coles County Memorial,"Mattoon/Charleston, IL",39.47777778,-88.28
+MTP,Sky Portal,"Montauk Point, NY",41.07666667,-71.92055556
+MTW,Manitowoc County,"Manitowoc, WI",44.12888889,-87.68055556
+MTX,Metro Field,"Fairbanks, AK",64.80666667,-147.7625
+MUE,Waimea-Kohala,"Kamuela, HI",20.00138889,-155.66805559999997
+MUL,Spence,"Moultrie, GA",31.13777778,-83.70416667
+MUO,Mountain Home AFB,"Mountain Home, ID",43.04361111,-115.8725
+MUT,Muscatine Municipal,"Muscatine, IA",41.36777778,-91.14833333
+MVL,Morrisville Stowe State,"Morrisville, VT",44.53444444,-72.61388889
+MVM,Kayenta Airport,"Kayenta, AZ",36.71638889,-110.22833329999999
+MVN,Mount Vernon Airport,"Mount Vernon, IL",38.32333333,-88.85861111
+MVW,Skagit Regional,"Burlington/Mount Vernon, WA",48.47055556,-122.42166670000002
+MVY,Martha's Vineyard Airport,"Martha's Vineyard, MA",41.39333333,-70.61388889
+MWA,Veterans Airport of Southern Illinois,"Marion/Herrin, IL",37.755,-89.01111111
+MWC,Lawrence J Timmerman,"Milwaukee, WI",43.11027778,-88.03444444
+MWH,Grant County International,"Moses Lake, WA",47.20861111,-119.31916670000001
+MWL,Mineral Wells Airport,"Mineral Wells, TX",32.78166667,-98.06027778
+MWM,Windom Municipal,"Windom, MN",43.91333333,-95.10944444
+MWO,Middletown Regional/Hook Field,"Middletown, OH",39.53194444,-84.39638889
+MXC,Monticello Airport,"Monticello, UT",37.93722222,-109.3463889
+MXE,Laurinburg-Maxton,"Maxton, NC",34.79222222,-79.36583333
+MXF,Maxwell AFB,"Montgomery, AL",32.38305556,-86.36583333
+MXG,Marlboro Airport,"Marlboro, MA",42.34305556,-71.50888889
+MXY,McCarthy Airport,"McCarthy, AK",61.43777778,-142.9025
+MYF,Montgomery Gibbs Executive,"San Diego, CA",32.81583333,-117.13944440000002
+MYH,Cliff Dwellers,"Marble Canyon, AZ",36.73444444,-111.75277779999999
+MYK,May Creek Airport,"May Creek, AK",61.33611111,-142.6858333
+MYL,McCall Municipal,"McCall, ID",44.88861111,-116.10166670000001
+MYR,Myrtle Beach International,"Myrtle Beach, SC",33.67972222,-78.92833333
+MYU,Mekoryuk Airport,"Mekoryuk, AK",60.3725,-166.27027780000003
+MYV,Yuba County,"Marysville, CA",39.09777778,-121.5697222
+MZJ,Pinal Airpark,"Marana, AZ",32.50972222,-111.3252778
+MZZ,Marion Municipal,"Marion, IN",40.49,-85.67972222
+N47,Pottstown Municipal,"Pottstown, PA",40.26055556,-75.67083333
+N87,Trenton-Robbinsville,"Robbinsville, NJ",40.21388889,-74.60166667
+NAD,Harriman-and-West,"North Adams, MA",42.69638889,-73.17055556
+NBG,New Orleans NAS JRB,"New Orleans, LA",29.82722222,-90.02666667
+NBJ,Newburgh Airport,"Newburgh, NY",41.53333333,-72.04305556
+NBU,Glenview NAS,"Glenview, IL",42.08333333,-87.81833333
+NC1,Gastonia Municipal,"Gastonia, NC",35.20277778,-81.15
+NC2,Johnston Regional,"Smithfield, NC",35.54083333,-78.39027778
+NC3,Shelby-Cleveland County Regional,"Shelby, NC",35.25583333,-81.60083333
+NC4,Currituck County Regional,"Currituck, NC",36.4,-76.01555556
+NC5,Duplin County,"Kenansville, NC",35.0,-77.98166667
+NCN,Chenega Bay,"Chenega, AK",60.07861111,-147.99472219999998
+NCO,Quonset State Air Reserve National Guard Helipad,"North Kingstown, RI",41.59944444,-71.41666667
+NCQ,Dobbins ARB,"Marietta, GA",33.91444444,-84.51416667
+ND1,Robert Odegaard Field,"Kindred, ND",46.64861111,-96.99888889
+NE1,Gothenburg Municipal,"Gothenburg, NE",40.92555556,-100.1466667
+NE2,Blair Municipal,"Blair, NE",41.41472222,-96.10888889
+NEA,Glynco NAS,"Brunswick, GA",31.25055556,-81.47611111
+NEL,Lakehurst/Maxfield Field,"Lakehurst, NJ",40.035,-74.35222222
+NEW,Lakefront,"New Orleans, LA",30.0425,-90.02833333
+NFL,Fallon NAS,"Fallon, NV",39.41777778,-118.69861110000001
+NGC,North Rim,"Grand Canyon, AZ",36.18333333,-112.13333329999999
+NGF,Kaneohe Bay MCAS,"Kaneohe, HI",21.45055556,-157.7680556
+NGM,Agana NAS,"Guam, TT",13.44972222,144.75
+NGP,Corpus Christi NAS,"Corpus Christi, TX",27.69277778,-97.29027778
+NGU,Norfolk NS,"Norfolk, VA",36.9375,-76.28916667
+NGZ,Alameda NAS,"Alameda, CA",37.79055556,-122.32555559999999
+NHK,Patuxent River NAS,"Patuxent River, MD",38.28638889,-76.41
+NHZ,Brunswick Executive,"Brunswick, ME",43.89222222,-69.93888889
+NIB,Nikolai Airport,"Nikolai, AK",63.01861111,-154.3583333
+NIE,Niblack Airport,"Niblack, AK",55.06666667,-132.1458333
+NIN,Ninilchik Airport,"Ninilchik, AK",60.02027778,-151.58944440000002
+NIP,Jacksonville NAS,"Jacksonville, FL",30.23361111,-81.67611111
+NJ1,Camden County,"Berlin, NJ",39.77833333,-74.94777778
+NJ2,Eagles Nest,"West Creek, NJ",39.66555556,-74.30805556
+NJK,El Centro NAF,"El Centro, CA",32.82916667,-115.67166670000002
+NKI,Naukiti Airport,"Naukiti, AK",55.875,-133.22083329999998
+N1C,Cherry Point MCAS,"Cherry Point, NC",34.90305556,-76.88083333
+NKV,Nichin Cove Seaplane Base,"Nichen Cove, AK",55.85,-133.21666670000002
+NKX,Miramar MCAS,"San Diego, CA",32.86861111,-117.14305559999998
+NLC,Lemoore NAS,"Lemoore, CA",36.33305556,-119.95222220000001
+NLG,Nelson Lagoon Airport,"Nelson Lagoon, AK",56.0075,-161.16027780000002
+NME,Nightmute Airport,"Nightmute, AK",60.46916667,-164.7041667
+NNK,Naknek Airport,"Naknek, AK",58.73472222,-157.02527780000003
+NNL,Nondalton Airport,"Nondalton, AK",59.98027778,-154.8391667
+NOT,Gnoss Field,"Novato, CA",38.14361111,-122.55722220000001
+NPA,Pensacola NAS,"Pensacola, FL",30.35333333,-87.31805556
+NPT,Newport State,"Newport, RI",41.5325,-71.28166667
+NQA,Millington Regional Jetport,"Millington, TN",35.35666667,-89.87055556
+NQI,Kingsville NAS,"Kingsville, TX",27.50444444,-97.80833333
+NQX,Key West NAS,"Key West, FL",24.57472222,-81.68666667
+NRB,Mayport NS,"Mayport, FL",30.39138889,-81.42444444
+NRI,Grand Lake Regional,"Afton, OK",36.5775,-94.86194444
+NRR,Roosevelt Roads NAS,"Ceiba, PR",18.24972222,-65.63555556
+NSE,Whiting Field NAS North,"Milton, FL",30.7225,-87.02388889
+NSF,Joint Base Andrews,"Camp Springs, MD",38.81083333,-76.86694444
+NSL,NASA Shuttle Landing Facility,"Merritt Island, FL",28.615,-80.69444444
+NTD,Point Mugu NAS,"Port Hueneme, CA",34.11916667,-119.11972220000001
+NTU,Oceana NAS,"Oceana, VA",36.82277778,-76.03194444
+NUI,Nuiqsut Airport,"Nuiqsut, AK",70.20972222,-151.0063889
+NUL,Nulato Airport,"Nulato, AK",64.72944444,-158.07416669999998
+NUN,Saufley Field NOLF,"Pensacola, FL",30.46972222,-87.33805556
+NUP,Nunapitchuk Airport,"Nunapitchuk, AK",60.90611111,-162.44055559999998
+NUQ,Moffett Federal Airfield,"Mountain View, CA",37.41611111,-122.04916670000001
+NUW,Whidbey Island NAS,"Whidbey Island, WA",48.35194444,-122.65583329999998
+NV1,Perkins Field,"Overton, NV",36.56805556,-114.44333329999999
+NVD,Nevada Municipal,"Nevada, MO",37.8525,-94.30472222
+NXX,Willow Grove NAS JRB,"Willow Grove, PA",40.19972222,-75.14805556
+NY1,Kingston Ulster,"Kingston, NY",41.98527778,-73.96444444
+NY2,Oswego County,"Fulton, NY",43.35083333,-76.38805556
+NY3,F and F Airpark Inc,"Oneonta, NY",42.45,-75.01638889
+NYC,New York City Metropolitan Area,"New York, NY",40.72722222,-73.92666667
+NYL,Yuma MCAS/Yuma International,"Yuma, AZ",32.65666667,-114.60583329999999
+VQQ,Cecil,"Jacksonville, FL",30.21888889,-81.87722222
+NZJ,El Toro MCAS,"Santa Ana, CA",33.6675,-117.71833329999998
+NZW,South Weymouth NAS,"South Weymouth, MA",42.14861111,-70.94027778
+NZY,North Island NAS,"San Diego, CA",32.69833333,-117.21305559999999
+O85,Benton Field,"Redding, CA",40.57361111,-122.4072222
+OAJ,Albert J Ellis,"Jacksonville/Camp Lejeune, NC",34.82916667,-77.61222222
+OAK,Metropolitan Oakland International,"Oakland, CA",37.72111111,-122.2211111
+OBT,Garrett County,"Oakland, MD",39.58083333,-79.33583333
+OBU,Kobuk Airport,"Kobuk, AK",66.91222222,-156.8972222
+OCE,Ocean City Municipal,"Ocean City, MD",38.31055556,-75.12388889
+OCF,Ocala International-Jim Taylor Field,"Ocala, FL",29.17194444,-82.22416667
+OCH,Nacogdoches A L Mangham Jr Regional,"Nacogdoches, TX",31.57777778,-94.71
+OCI,Thumb Bay,"Oceanic, AK",60.2,-147.81666669999998
+OCN,Bob Maxwell Memorial Airfield,"Oceanside, CA",33.21805556,-117.3513889
+OCW,Washington Warren,"Washington, NC",35.57055556,-77.04972222
+ODM,Oakland Airport,"Oakland, MD",39.40666667,-79.41388889
+ODW,A.J. Eisenberg,"Oak Harbor, WA",48.25166667,-122.6736111
+OFF,Offutt AFB,"Omaha, NE",41.11944444,-95.90861111
+OFK,Norfolk Regional/Karl Stefan Memorial Field,"Norfolk, NE",41.98555556,-97.435
+OFU,Ofu Airport,"Ofu, TT",-14.18444444,-169.67
+OGA,Searle Field,"Ogallala, NE",41.11944444,-101.7697222
+OGB,Orangeburg Municipal,"Orangeburg, SC",33.45694444,-80.85944444
+OGD,Ogden-Hinckley,"Ogden, UT",41.19555556,-112.01305559999999
+OGG,Kahului Airport,"Kahului, HI",20.89861111,-156.4305556
+OGS,Ogdensburg International,"Ogdensburg, NY",44.68222222,-75.46333333
+OH1,Fayette County,"Washington Court House, OH",39.57027778,-83.42055556
+OH2,Bellefontaine Regional,"Bellefontaine, OH",40.37222222,-83.81916667
+OH3,Ross County,"Chillicothe, OH",39.44055556,-83.02305556
+OH4,Union County,"Marysville, OH",40.22472222,-83.35166667
+OH5,Cincinnati - Blue Ash,"Cincinnati, OH",39.24666667,-84.38888889
+OH6,Portage County,"Ravenna, OH",41.21027778,-81.25166667
+OH7,Kent State University,"Kent, OH",41.15138889,-81.415
+OHC,Northeast Cape AFS,"Northeast Cape, AK",63.32638889,-168.9688889
+OIC,Eaton,"Norwich, NY",42.56638889,-75.52416667
+OJC,Johnson County Executive,"Olathe, KS",38.8475,-94.7375
+OKC,Will Rogers World,"Oklahoma City, OK",35.39305556,-97.60083333
+OKK,Kokomo Municipal,"Kokomo/Logansport/Peru, IN",40.52777778,-86.05972222
+OLE,Cattaraugus County-Olean,"Olean, NY",42.24111111,-78.37138889
+OLF,L. M. Clayton,"Wolf Point, MT",48.09444444,-105.575
+OLH,Old Harbor Airport,"Old Harbor, AK",57.21833333,-153.2697222
+OLM,Olympia Regional,"Olympia, WA",46.96944444,-122.9025
+OLS,Nogales International,"Nogales, AZ",31.41777778,-110.84777779999999
+OLU,Columbus Municipal,"Columbus, NE",41.44861111,-97.34083333
+OLV,Olive Branch Airport,"Olive Branch, MS",34.97861111,-89.78694444
+OMA,Eppley Airfield,"Omaha, NE",41.30305556,-95.89416667
+OME,Nome Airport,"Nome, AK",64.5125,-165.4444444
+OMK,Omak Airport,"Omak, WA",48.46444444,-119.51805559999998
+ONA,Winona Municipal/Max Conrad Field,"Winona, MN",44.07972222,-91.71166667
+ONH,Oneonta Municipal,"Oneonta, NY",42.52472222,-75.06444444
+ONL,The O'Neill Municipal-John L. Baker Field,"O'Neill, NE",42.46944444,-98.68777778
+ONM,Socorro Municipal,"Socorro, NM",34.0225,-106.90305559999999
+ONN,Onion Bay Airport,"Onion Bay, AK",58.06805556,-153.2538889
+ONO,Ontario Municipal,"Ontario, OR",44.01944444,-117.01305559999999
+ONP,Newport Municipal,"Newport, OR",44.58027778,-124.05805559999999
+ONT,Ontario International,"Ontario, CA",34.05611111,-117.6011111
+OOB,Cobol Alaska/Scaled/,"Cobol, AK",57.48333333,-135.8666667
+OOK,Toksook Bay,"Toksook, AK",60.54138889,-165.08722219999999
+OPF,Miami Opa Locka Executive,"Miami, FL",25.9075,-80.27833333
+OPH,Ophir Airport,"Ophir, AK",63.14583333,-156.5288889
+OQA,McDonald Lake Airport,"McDonald Lake, AK",55.93722222,-131.8127778
+OQB,Bible Camp Airport,"Bible Camp, AK",57.92638889,-156.08333330000002
+OQC,Cinder River Lodge Airport,"Cinder River Lodge, AK",57.06666667,-157.8141667
+OQF,Lemesurier Island Airport,"Lemesurier Island, AK",58.28444444,-136.0847222
+OQG,Tracy Arm Airport,"Tracy Arm, AK",57.91138889,-133.4022222
+OQI,Vrems Airport,"Vrems, AK",57.85694444,-157.0866667
+OQK,Akolik Airport,"Akolik, AK",68.98333333,-163.44555559999998
+OQL,Mels Airport,"Mels, AK",56.23333333,-160.075
+OQM,Meshik Airport,"Meshik, AK",56.76666667,-158.08527780000003
+OQN,Telaquana Lake Airport,"Telaquana Lake, AK",60.95527778,-153.9075
+OQO,Chelatna Lake Lodge Airport,"Chelatna Lake Lodge, AK",62.43416667,-151.41472219999997
+OQP,Pumice Airport,"Pumice, AK",57.17833333,-157.7333333
+OQQ,Points Alsworth,"Port Alsworth, AK",60.18333333,-154.3338889
+OQR,Twin Lakes Airport,"Twin Lakes, AK",60.65277778,-154.0361111
+OQS,Sandy Airport,"Sandy, AK",56.23333333,-160.2258333
+OQV,Shirleyville Airport,"Shirleyville, AK",61.01361111,-151.40694440000001
+OQW,Doug Carney Strip Airport,"Doug Carney Strip, AK",61.43416667,-157.05
+OQX,Shisholik Airport,"Shisholik, AK",67.0,-162.83333330000002
+OQY,Camp Sivinuvik,"Sivinuvik, AK",66.88333333,-161.4833333
+OQZ,American Creek Airport,"American Creek, AK",62.04333333,-158.2563889
+OR1,Grants Pass Airport,"Grants Pass, OR",42.51,-123.38805559999999
+OR2,Siletz Bay State,"Gleneden, OR",44.87666667,-124.0286111
+OR3,Florence Municipal,"Florence, OR",43.98277778,-124.1113889
+ORD,Chicago O'Hare International,"Chicago, IL",41.97722222,-87.90805556
+ORF,Norfolk International,"Norfolk, VA",36.89472222,-76.20111111
+ORH,Worcester Regional,"Worcester, MA",42.26722222,-71.87555556
+ORI,Port Lions Airport,"Port Lions, AK",57.885,-152.8475
+ORL,Executive,"Orlando, FL",28.54555556,-81.33305556
+ORT,Northway Airport,"Northway, AK",62.96111111,-141.9280556
+ORV,Robert/Bob/Curtis Memorial,"Noorvik, AK",66.8175,-161.0222222
+OSB,Grand Glaize - Osage Beach,"Osage Beach, MO",38.11055556,-92.68055556
+OSC,Oscoda-Wurtsmith,"Oscoda, MI",44.45166667,-83.39416667
+OSH,Wittman Regional,"Oshkosh, WI",43.98444444,-88.55694444
+OSU,Ohio State University,"Columbus, OH",40.07972222,-83.07305556
+OSX,Kosciusko/Attala County,"Kosciusko, MS",33.09027778,-89.54194444
+OTG,Worthington Municipal,"Worthington, MN",43.655,-95.57916667
+OTH,Southwest Oregon Regional,"North Bend/Coos Bay, OR",43.41694444,-124.24694440000002
+OTM,Ottumwa Regional,"Ottumwa, IA",41.10722222,-92.44694444
+OTS,Anacortes Airport,"Anacortes, WA",48.49861111,-122.6625
+OTZ,Ralph Wien Memorial,"Kotzebue, AK",66.88472222,-162.59805559999998
+OUN,University of Oklahoma/Max Westheimer,"Norman, OK",35.24555556,-97.47222222
+OVE,Oroville Municipal,"Oroville, CA",39.48777778,-121.62194440000002
+OWA,Owatonna Degner Regional,"Owatonna, MN",44.12333333,-93.26055556
+OWB,Owensboro Daviess County Regional,"Owensboro, KY",37.73888889,-87.16694444
+OWD,Norwood Memorial,"Norwood, MA",42.19055556,-71.17305556
+OXC,Waterbury Oxford,"Waterbury, CT",41.47861111,-73.13527778
+OXR,Oxnard,"Oxnard/Ventura, CA",34.20083333,-119.2072222
+OXV,Knoxville Municipal,"Knoxville, IA",41.30166667,-93.11277778
+OYS,Yosemite National Park Airport,"Yosemite National Park, CA",37.75,-119.58333329999999
+OZA,Ozona Municipal,"Ozona, TX",30.73527778,-101.20222220000001
+OZR,Cairns AAF,"Ozark, AL",31.27583333,-85.71333333
+PA1,Husky Haven,"Montrose, PA",41.78888889,-75.89
+PA2,Bedford County,"Bedford, PA",40.08611111,-78.51361111
+PAE,Snohomish County,"Everett, WA",47.90694444,-122.28166670000002
+PAH,Barkley Regional,"Paducah, KY",37.06027778,-88.77305556
+PAK,Port Allen,"Hanapepe, HI",21.89694444,-159.60305559999998
+PAM,Tyndall AFB,"Panama City, FL",30.06916667,-85.575
+PAO,Palo Alto Airport,"Palo Alto, CA",37.46111111,-122.115
+PAQ,Palmer Buddy Woods Municipal,"Palmer, AK",61.595,-149.0886111
+PBA,Point Barrow LRRS,"Point Barrow, AK",71.33861111,-156.6327778
+PBF,Pine Bluff Regional Grider Field,"Pine Bluff, AR",34.17444444,-91.93555556
+PBG,Plattsburgh International,"Plattsburgh, NY",44.65083333,-73.46805556
+PBI,Palm Beach International,"West Palm Beach/Palm Beach, FL",26.68305556,-80.09555556
+PBK,Pack Creek Airport,"Pack Creek, AK",57.8,-134.7
+PBX,Pike County Hatcher Field,"Pikeville, KY",37.56194444,-82.56638889
+PCA,Portage Creek Airport,"Portage Creek, AK",58.90638889,-157.7111111
+PCD,Prairie Du Chien Municipal,"Prairie Du Chien, WI",43.01916667,-91.12361111
+PCE,Painter Creek Airport,"Painter Creek, AK",57.15388889,-157.39694440000002
+PCK,Porcupine Creek Airport,"Porcupine Creek, AK",67.23777778,-150.2861111
+PCT,Princeton Airport,"Princeton, NJ",40.39916667,-74.65888889
+PDB,Pedro Bay Airport,"Pedro Bay, AK",59.79694444,-154.13
+PDK,Dekalb Peachtree,"Atlanta, GA",33.87555556,-84.30194444
+PDT,Eastern Oregon Regional at Pendleton,"Pendleton, OR",45.69472222,-118.84305559999999
+PDX,Portland International,"Portland, OR",45.58861111,-122.59694440000001
+PEC,Pelican Seaplane Base,"Pelican, AK",57.95,-136.2333333
+PEQ,Pecos Municipal,"Pecos City, TX",31.3825,-103.5108333
+PFA,Paf Warren Airport,"Paf Warren, AK",58.72694444,-156.9433333
+PFD,Port Frederick Airport,"Port Frederick, AK",57.95,-135.65
+PFN,Bay County,"Panama City, FL",30.2125,-85.68194444
+PGA,Page Municipal,"Page, AZ",36.92611111,-111.44833329999999
+PGD,Punta Gorda Airport,"Punta Gorda, FL",26.91888889,-81.99083333
+PGL,Jackson County,"Pascagoula, MS",30.37638889,-88.49527778
+PGM,Port Graham Airport,"Port Graham, AK",59.34861111,-151.8302778
+PGO,Stevens Field,"Pagosa Springs, CO",37.28638889,-107.05611110000001
+PGS,Peach Springs Dirt Strip,"Peach Springs, AZ",35.52833333,-113.24666670000002
+PGV,Pitt Greenville,"Greenville, NC",35.63555556,-77.38416667
+PHD,Harry Clever Field,"New Philadelphia, OH",40.47027778,-81.42
+PHF,Newport News/Williamsburg International,"Newport News/Williamsburg, VA",37.13194444,-76.49305556
+PHL,Philadelphia International,"Philadelphia, PA",39.87194444,-75.24055556
+PHN,St. Clair County International,"Port Huron, MI",42.91083333,-82.52888889
+PHO,Point Hope Airport,"Point Hope, AK",68.34861111,-166.7991667
+PHT,Henry County,"Paris, TN",36.33583333,-88.38444444
+PHX,Phoenix Sky Harbor International,"Phoenix, AZ",33.43416667,-112.0116667
+PIA,General Downing - Peoria International,"Peoria, IL",40.66416667,-89.69333333
+PIB,Hattiesburg-Laurel Regional,"Hattiesburg/Laurel, MS",31.46722222,-89.33694444
+PIE,St Pete Clearwater International,"St. Petersburg, FL",27.90861111,-82.68638889
+PIH,Pocatello Regional,"Pocatello, ID",42.90972222,-112.59583329999998
+PII,Phillips Field,"Fairbanks, AK",64.85,-147.78666669999998
+PIM,Harris County,"Pine Mountain, GA",32.84055556,-84.8825
+PIP,Pilot Point Airport,"Pilot Point, AK",57.58027778,-157.5719444
+PIR,Pierre Regional,"Pierre, SD",44.38277778,-100.2858333
+PIT,Pittsburgh International,"Pittsburgh, PA",40.49138889,-80.23277778
+PIZ,Point Lay LRRS,"Point Lay, AK",69.73277778,-163.00527780000002
+PJB,Payson Airport,"Payson, AZ",34.25694444,-111.3391667
+PJS,Port San Juan Airport,"Port San Juan, AK",60.05,-148.06666669999998
+PKA,Napaskiak Airport,"Napaskiak, AK",60.70305556,-161.7783333
+PKB,Mid-Ohio Valley Regional,"Parkersburg, WV",39.345,-81.43944444
+PKD,Park Rapids Municipal-Konshok Field,"Park Rapids, MN",46.90111111,-95.07305556
+PLB,Clinton County,"Plattsburgh, NY",44.68833333,-73.52111111
+PLK,M Graham Clark Downtown,"Point Lookout, MO",36.62583333,-93.22888889
+PLN,Pellston Regional Airport of Emmet County,"Pellston, MI",45.57083333,-84.79666667
+PLY,Plymouth Municipal,"Plymouth, IN",41.365,-86.30027778
+PMB,Pembina Municipal,"Pembina, ND",48.9425,-97.24055556
+PMD,Palmdale USAF Plant 42,"Palmdale, CA",34.62944444,-118.08444440000001
+PMH,Greater Portsmouth Regional,"Portsmouth, OH",38.84055556,-82.84722222
+PML,Port Moller Airport,"Port Moller, AK",56.00611111,-160.5608333
+PMU,Paimiut Airport,"Paimiut, AK",61.96666667,-160.2333333
+PNC,Ponca City Regional,"Ponca City, OK",36.73194444,-97.09972222
+PNE,Northeast Philadelphia,"Philadelphia, PA",40.08194444,-75.01055556
+PNF,Peterson's Point Airport,"Peterson's Point, AK",58.68333333,-156.83333330000002
+PNS,Pensacola International,"Pensacola, FL",30.47333333,-87.18666667
+PNX,Sherman-Denison Airport,"Sherman-Denison, TX",33.7,-96.66666667
+POB,Pope AAF,"Fayetteville, NC",35.17083333,-79.01444444
+POC,Brackett Field,"La Verne, CA",34.09166667,-117.78166670000002
+POD,Port Frederick Airport,"Port Frederick, AK",58.11666667,-135.5
+POE,Polk AAF,"Fort Polk, LA",31.04472222,-93.19166667
+POF,Hayes Field,"Poplar Bluff, MO",36.71111111,-90.31388889
+POH,Pocahontas Municipal,"Pocahontas, IA",42.74277778,-94.64722222
+POQ,Polk Inlet Airport,"Polk Inlet, AK",55.2,-132.2333333
+POU,Hudson Valley Regional,"Poughkeepsie, NY",41.62666667,-73.88416667
+POY,Powell Municipal,"Powell, WY",44.86722222,-108.79333329999999
+PPC,Prospect Creek Airport,"Prospect Creek, AK",66.81416667,-150.64361110000002
+PPD,Palmas del Mar Airstrip,"Humacao, PR",18.15,-65.83333333
+PPF,Tri City,"Parsons, KS",37.33083333,-95.50611111
+PPG,Pago Pago International,"Pago Pago, TT",-14.33,-170.71027780000003
+PPM,Pompano Beach Airpark,"Pompano Beach, FL",26.2475,-80.11111111
+PPV,Port Protection Airport,"Port Protection, AK",56.32916667,-133.6083333
+PQI,Northern Maine Regional at Presque Isle,"Presque Isle/Houlton, ME",46.68888889,-68.04472222
+PQS,Pilot Station Airport,"Pilot Station, AK",61.96138889,-162.9425
+PRB,Paso Robles Municipal,"Paso Robles, CA",35.67277778,-120.62694440000001
+PRC,Ernest A. Love Field,"Prescott, AZ",34.65472222,-112.41916670000002
+PRD,Pine Ridge Airport,"Pine Ridge, SD",43.02361111,-102.5166667
+PRT,Coast Guard Heliport,"Point Retreat, AK",58.41083333,-134.9563889
+PRX,Cox Field,"Paris, TX",33.63666667,-95.45083333
+PRZ,Prineville Airport,"Prineville, OR",44.28777778,-120.9052778
+PSB,Mid State,"Philipsburg, PA",40.88444444,-78.08722222
+PSC,Tri Cities,"Pasco/Kennewick/Richland, WA",46.26472222,-119.11916670000001
+PSE,Mercedita,"Ponce, PR",18.00888889,-66.56444444
+PSF,Pittsfield Municipal,"Pittsfield, MA",42.4275,-73.29083333
+PSG,Petersburg James A Johnson,"Petersburg, AK",56.80138889,-132.9461111
+PSK,New River Valley,"Dublin, VA",37.13722222,-80.67861111
+PSM,Portsmouth International at Pease,"Portsmouth, NH",43.07805556,-70.82333333
+PSN,Palestine Municipal,"Palestine, TX",31.77972222,-95.70638889
+PSP,Palm Springs International,"Palm Springs, CA",33.82972222,-116.50666670000001
+PSX,Palacios Municipal,"Palacios, TX",28.7275,-96.25083333
+PTA,Port Alsworth Airport,"Port Alsworth, AK",60.20444444,-154.3188889
+PTC,Port Alice Airport,"Port Alice, AK",55.78333333,-133.6
+PTD,Port Alexander Airport,"Port Alexander, AK",56.24722222,-134.6463889
+PTH,Port Heiden Airport,"Port Heiden, AK",56.95916667,-158.6333333
+PTK,Oakland County International,"Pontiac, MI",42.66555556,-83.42055556
+PTL,Port Armstrong Airport,"Port Armstrong, AK",56.29611111,-134.6613889
+PTN,Harry P Williams Memorial,"Patterson, LA",29.70944444,-91.33888889
+PTR,Pleasant Harbour Airport,"Pleasant Harbour, AK",57.83333333,-153.25
+PTS,Atkinson Municipal,"Pittsburg, KS",37.45,-94.73111111
+PTT,Pratt Regional,"Pratt, KS",37.7025,-98.74694444
+PTU,Platinum Airport,"Platinum, AK",59.01777778,-161.8272222
+PTV,Porterville Municipal,"Porterville, CA",36.02944444,-119.06277779999999
+PTW,Heritage Field,"Pottstown, PA",40.23944444,-75.55666667
+PUB,Pueblo Memorial,"Pueblo, CO",38.29,-104.4980556
+PUC,Carbon County Regional/Buck Davis Field,"Price, UT",39.61388889,-110.75166670000002
+PUL,Port of Poulsbo Marina Moorage Seaplane Base,"Poulsbo, WA",47.73388889,-122.6472222
+PUO,Prudhoe Bay Airport,"Prudhoe Bay, AK",70.25194444,-148.34277780000002
+PUW,Pullman Moscow Regional,"Pullman, WA",46.74388889,-117.10944440000002
+PVC,Provincetown Municipal,"Provincetown, MA",42.07222222,-70.22083333
+PVD,Theodore Francis Green State,"Providence, RI",41.72222222,-71.42777778
+PVF,Placerville Airport,"Placerville, CA",38.72416667,-120.75333329999998
+PVU,Provo Municipal,"Provo, UT",40.21916667,-111.7233333
+PVW,Hale County,"Plainview, TX",34.16805556,-101.71722220000001
+PVY,Pope Vanoy Airport,"Pope Vanoy, AK",59.31666667,-154.91666669999998
+PVZ,Casement,"Painesville, OH",41.73527778,-81.22055556
+PWA,Wiley Post,"Oklahoma City, OK",35.53416667,-97.64694444
+PWK,Chicago Executive,"Chicago, IL",42.11416667,-87.90166667
+PWM,Portland International Jetport,"Portland, ME",43.64555556,-70.30861111
+PWR,Big and Little Port Walter,"Big Port Walter, AK",56.38333333,-134.65
+PWT,Bremerton National,"Bremerton, WA",47.49027778,-122.76472220000001
+PYA,Port Ashton Airport,"Port Ashton, AK",60.0575,-148.0511111
+PYL,Perry Island Seaplane Base,"Perry Island, AK",60.68583333,-147.91666669999998
+PYM,Plymouth Municipal,"Plymouth, MA",41.90861111,-70.72777778
+QAF,Jackpot/Hayden Field,"Jackpot, NV",41.97583333,-114.65805559999998
+QAJ,San Carlos Apache,"Globe, AZ",33.35305556,-110.66722220000001
+QAK,Erie Ottawa International,"Port Clinton, OH",41.51638889,-82.86944444
+QAL,Kelleys Island Land Field,"Kelleys Island, OH",41.60305556,-82.685
+LLX,Caledonia County,"Lyndonville, VT",44.56916667,-72.01805556
+QAS,Astrodomain Helipad,"Houston, TX",29.67777778,-95.41194444
+QAX,Marina del Ray Airport,"Marina del Ray, CA",33.96666667,-118.45
+QBH,Jackass Aeropark,"Lathrop Wells, NV",36.63472222,-116.4125
+QBI,Oman Ranch,"Green River, UT",38.78055556,-110.32916670000002
+QBM,Put-In-Bay Airport,"Put-In-Bay, OH",41.63666667,-82.82833333
+QBN,Middle Bass Island Airport,"Middle Bass Island, OH",41.68833333,-82.80805556
+QBT,Indian Creek Usfs,"Indian Creek, ID",44.76111111,-115.10722220000001
+QBX,Abilene Airport,"Abilene, KS",38.9,-97.23333333
+QBY,North Bass Island Airport,"North Bass Island, OH",41.71805556,-82.82111111
+CJR,Culpeper Regional,"Culpeper, VA",38.52555556,-77.85972222
+QCT,Levelland Airport,"Levelland, TX",33.55,-102.3666667
+QCW,Crane Island Airport,"Crane Island, WA",48.6,-123.0
+QCX,Blue Ridge,"Martinsville, VA",36.62972222,-80.01666667
+QEM,Emerald Bay Airport,"Emerald Bay, CA",33.55833333,-117.7111111
+QFX,Camp Fox,"Avalon, CA",33.40027778,-118.38333329999999
+QGS,Grognet Seaplane Base,"Houghton, MI",47.16666667,-88.5
+QHI,Astroworld Helipad,"Houston, TX",29.68361111,-95.5
+QHO,Houston Metro-/Ho,"Houston, TX",29.81416667,-95.30916667
+QIR,Isle Royale National Park,"Isle Royale Park, MI",47.83333333,-88.83333333
+QKV,Kona Keahole,"Kona Village, HI",19.64722222,-156.0119444
+QMA,Cobb County International McCollum Field,"Kennesaw, GA",34.01305556,-84.59694444
+QMH,Marriot Helipad Hou.,"Houston, TX",29.69777778,-95.4075
+QMN,Mansfield Municipal,"Mansfield, MA",42.00083333,-71.19833333
+QOR,Orange County,"Orange, VA",38.24666667,-78.04722222
+QPO,Post Oak Manor,"Houston, TX",29.74111111,-95.45638889
+QPT,Pittsfield Municipal,"Pittsfield, ME",44.76861111,-69.37444444
+QQB,Keyes Point Airport,"Keyes Point, AK",60.15,-154.6166667
+QQC,Nimiuk Point Airport,"Nimiuk Point, AK",66.78333333,-162.0166667
+QQD,Nashua Street Heliport,"Boston, MA",42.3675,-71.06666667
+QQE,Sealing Point Airport,"Sealing Point, AK",67.11666667,-163.75
+QQG,Carroll County Regional/Jack B. Poage Field,"Westminster, MD",39.60833333,-77.00777778
+QQJ,Stevensville Airport,"Stevensville, MT",46.525,-114.05277779999999
+QQL,Boundary County,"Bonners Ferry, ID",48.72583333,-116.2952778
+QQM,Shingletown Airport,"Shingletown, CA",40.52222222,-121.81666670000001
+QQN,Woodlake Airport,"Woodlake, CA",36.39888889,-119.10694440000002
+QQQ,Nevada County,"Grass Valley, CA",39.22416667,-121.0025
+QQT,Atlanta Regional Falcon Field,"Peachtree City, GA",33.35777778,-84.5725
+QQU,Window Rock Airport,"Window Rock, AZ",35.65194444,-109.0675
+QQX,Healdsburg Municipal,"Healdsburg, CA",38.65277778,-122.8986111
+QQY,San Marcos Regional,"San Marcos, TX",29.89277778,-97.86305556
+QRD,Redondo Beach Airport,"Redondo Beach, CA",33.81694444,-118.36666670000001
+QSO,Southbridge Municipal,"Southbridge, MA",42.10111111,-72.03888889
+WPO,North Fork Valley,"Paonia, CO",38.83138889,-107.64583329999999
+RAC,Batten International,"Racine, WI",42.76111111,-87.81388889
+RAL,Riverside Municipal,"Riverside, CA",33.95194444,-117.445
+RAP,Rapid City Regional,"Rapid City, SD",44.04527778,-103.05722220000001
+RAX,Greely Helipad,"Red Bank, NJ",40.31666667,-74.03305556
+RBB,Randy Field,"Ugashik, AK",57.51638889,-157.3877778
+RBD,Dallas Executive,"Dallas/Fort Worth, TX",32.68083333,-96.86833333
+RBF,Big Bear City Airport,"Big Bear City, CA",34.26388889,-116.8561111
+RBG,Roseburg Regional,"Roseburg, OR",43.23944444,-123.35583329999999
+RBH,Brooks Lodge Airport,"Brooks Lodge, AK",58.55,-155.8
+RBL,Red Bluff Municipal,"Red Bluff, CA",40.15027778,-122.2522222
+RBN,Fort Jefferson Airport,"Fort Jefferson, FL",24.62861111,-82.87333333
+RBY,Ruby Airport,"Ruby, AK",64.72722222,-155.47
+RCA,Ellsworth AFB,"Rapid City, SD",44.145,-103.1036111
+RCE,Roche Harbor Airport,"Roche Harbor, WA",48.61222222,-123.1386111
+RCT,Miller Field,"Reed City, MI",43.89166667,-85.51666667
+RDB,Red Dog Airport,"Red Dog, AK",68.03222222,-162.8991667
+RDD,Redding Municipal,"Redding, CA",40.50888889,-122.29333329999999
+RDG,Reading Regional/Carl A Spaatz Field,"Reading, PA",40.37861111,-75.96527778
+RDM,Roberts Field,"Bend/Redmond, OR",44.25416667,-121.15
+RDR,Grand Forks AFB,"Red River, ND",47.96111111,-97.40111111
+RDU,Raleigh-Durham International,"Raleigh/Durham, NC",35.87777778,-78.7875
+RDV,Red Devil Airport,"Red Devil, AK",61.78805556,-157.35027780000001
+REB,Redlands Municipal,"Redlands, CA",34.08527778,-117.14638889999999
+RED,Mifflin County,"Reedsville, PA",40.6775,-77.62694444
+REE,Reese AFB,"Lubbock, TX",33.59638889,-102.0419444
+REH,Rehoboth Aircrafters,"Rehoboth, DE",38.71944444,-75.12666667
+RFD,Chicago/Rockford International,"Rockford, IL",42.19527778,-89.09722222
+RHI,Rhinelander/Oneida County,"Rhinelander, WI",45.63083333,-89.46666667
+RIC,Richmond International,"Richmond, VA",37.50527778,-77.31972222
+RID,Richmond Municipal,"Richmond, IN",39.75611111,-84.84277778
+RIE,Rice Lake Airport,"Rice Lake, WI",45.47916667,-91.72277778
+RIF,Richfield Municipal,"Richfield, UT",38.73416667,-112.10166670000001
+RIL,Rifle Garfield County,"Rifle, CO",39.52666667,-107.72805559999999
+RIR,Flabob,"Riverside, CA",33.98888889,-117.41
+RIV,March ARB,"Riverside, CA",33.88083333,-117.2594444
+RIW,Riverton Regional,"Riverton/Lander, WY",43.06416667,-108.4597222
+RKD,Knox County Regional,"Rockland, ME",44.06,-69.09916667
+RKP,Aransas County,"Rockport, TX",28.08611111,-97.04361111
+RKR,Robert S Kerr,"Poteau, OK",35.02166667,-94.62138889
+RKS,Rock Springs Sweetwater County,"Rock Springs, WY",41.59416667,-109.06527779999999
+RKW,Rockwood Municipal,"Rockwood, TN",35.92222222,-84.68972222
+RLA,Rolla Downtown,"Rolla, MO",37.93555556,-91.81361111
+RLD,Richland Airport,"Richland, WA",46.30555556,-119.30416670000001
+RLU,Bornite Upper,"Bornite/Ruby Creek, AK",67.10166667,-156.9291667
+RME,Griffiss International,"Rome, NY",43.23388889,-75.40694444
+RMG,Richard B Russell Regional J H Towers Field,"Rome, GA",34.35083333,-85.15861111
+RMN,Stafford Regional,"Stafford, VA",38.39805556,-77.45555556
+RMP,Rampart Airport,"Rampart, AK",65.50777778,-150.1408333
+RNC,Warren County Memorial,"McMinnville, TN",35.69861111,-85.84388889
+RND,Randolph AFB,"San Antonio, TX",29.52888889,-98.27805556
+RNG,Rangely Airport,"Rangely, CO",40.09388889,-108.76305559999999
+RNO,Reno/Tahoe International,"Reno, NV",39.49916667,-119.76805559999998
+RNT,Renton Municipal,"Renton, WA",47.49305556,-122.21583329999999
+ROA,Roanoke Blacksburg Regional Woodrum Field,"Roanoke, VA",37.32555556,-79.97555556
+ROC,Greater Rochester International,"Rochester, NY",43.11916667,-77.67194444
+ROG,Rogers Executive Carter Field,"Rogers, AR",36.3725,-94.10694444
+ROL,Roosevelt Municipal,"Roosevelt, UT",40.27833333,-110.05138889999999
+ROP,Benjamin Taisacan Manglona International,"Rota, TT",14.17444444,145.2411111
+ROW,Roswell International Air Center,"Roswell, NM",33.3,-104.5294444
+ROX,Roseau Municipal/Rudy Billberg Field,"Roseau, MN",48.85638889,-95.69694444
+RPX,Roundup Airport,"Roundup, MT",46.475,-108.54333329999999
+RQA,Lone Pine Death Valley,"Lone Pine, CA",36.58861111,-118.04944440000001
+RQB,Big Southern Butte,"Atomic City, ID",43.4325,-113.05555559999999
+RQC,Wheatland County at Harlowton,"Harlowton, MT",46.44861111,-109.8527778
+RQD,William Robert Johnston Municipal,"Mendota, CA",36.75861111,-120.3713889
+RQE,Prosser Airport,"Prosser, WA",46.21333333,-119.79555559999999
+RQF,Lincolnton-Lincoln County Regional,"Lincolnton, NC",35.48333333,-81.16111111
+RQG,Covington Municipal,"Covington, TN",35.58333333,-89.58722222
+RQH,Pennridge,"Perkasie, PA",40.38916667,-75.29055556
+RQI,Nixon Fork Mine Airport,"Nixon Fork Mine, AK",62.23388889,-154.7347222
+RQK,China Lake Naws,"China Lake, CA",35.68555556,-117.69194440000001
+RQL,Lowell Airport,"Lowell, IN",41.23027778,-87.50777778
+RQM,Sterling Airport,"Sterling, MA",42.42583333,-71.79277778
+RQN,Illinois Valley,"Cave Junction, OR",42.10361111,-123.6825
+RQO,Seneca AAF,"Seneca, NY",42.71527778,-76.88222222
+RQP,Lea County-Zip Franklin Memorial,"Lovington, NM",32.95388889,-103.40888890000001
+RQQ,Watts/Woodland,"Woodland, CA",38.67388889,-121.87194440000002
+RQR,Harbor Springs Airport,"Harbor Springs, MI",45.42555556,-84.91333333
+RQT,Lubbock Executive Airpark,"Lubbock, TX",33.48555556,-101.81277779999999
+RQU,Wasco-Kern County,"Wasco, CA",35.61972222,-119.35361110000001
+RQV,South Valley Regional,"Salt Lake City, UT",40.61944444,-111.9927778
+RQW,Parowan Airport,"Parowan, UT",37.85972222,-112.81583329999998
+RQX,Kit Carson County,"Burlington, CO",39.2425,-102.28527779999999
+RQY,Comanche County-City,"Comanche, TX",31.92027778,-98.59916667
+RQZ,Hurlburt Field,"Mary Esther, FL",30.42777778,-86.68916667
+RRT,Warroad International Memorial,"Warroad, MN",48.94138889,-95.34833333
+RSH,Russian Mission Airport,"Russian Mission, AK",61.775,-161.3194444
+RSJ,Rosario Seaplane Base,"Rosario, WA",48.63333333,-122.85
+RSL,Russell Municipal,"Russell, KS",38.87138889,-98.81166667
+RSN,Ruston Regional,"Ruston, LA",32.51472222,-92.58833333
+RSP,Raspberry Straits,"Raspberry Strait, AK",58.03333333,-153.0
+RST,Rochester International,"Rochester, MN",43.90833333,-92.5
+RSW,Southwest Florida International,"Fort Myers, FL",26.53611111,-81.75527778
+RTE,Marguerite Bay Airport,"Marguerite Bay, AK",55.7,-131.63333329999998
+RTN,Raton Municipal/Crews Field,"Raton, NM",36.7425,-104.5016667
+RTO,Morrow Field,"Colton, CA",34.05638889,-117.365
+RUI,Sierra Blanca Regional,"Ruidoso, NM",33.46083333,-105.5302778
+RUT,Rutland - Southern Vermont Regional,"Rutland, VT",43.52972222,-72.94972222
+RVS,Richard Lloyd Jones Jr.,"Tulsa, OK",36.03944444,-95.98472222
+RWB,Rowan Bay Airport,"Rowan Bay, AK",56.65,-134.2833333
+RWI,Rocky Mount-Wilson Regional,"Rocky Mount, NC",35.85638889,-77.89194444
+RWL,Rawlins Municipal/Harvey Field,"Rawlins, WY",41.80583333,-107.2002778
+RXB,Rodman Bay Airport,"Rodman Bay, AK",57.46666667,-135.4
+RYE,Weld County Municipal,"Greeley, CO",40.42638889,-104.63
+RZZ,Halifax County,"Roanoke Rapids, NC",36.43944444,-77.70944444
+S27,Kalispell City,"Kalispell, MT",48.17861111,-114.3036111
+SAA,Shively Field,"Saratoga, WY",41.44361111,-106.8275
+SAC,Sacramento Executive,"Sacramento, CA",38.5125,-121.49333329999999
+SAD,Safford Regional,"Safford, AZ",32.85333333,-109.635
+SAF,Santa Fe Municipal,"Santa Fe, NM",35.61722222,-106.08944440000002
+SAG,Sagwon Airport,"Sagwon, AK",69.36638889,-148.7044444
+SAN,San Diego International,"San Diego, CA",32.73361111,-117.1897222
+SAT,San Antonio International,"San Antonio, TX",29.53388889,-98.46916667
+SAV,Savannah/Hilton Head International,"Savannah, GA",32.1275,-81.20222222
+SBA,Santa Barbara Municipal,"Santa Barbara, CA",34.42611111,-119.8413889
+SBD,San Bernardino International,"San Bernardino, CA",34.09527778,-117.235
+SBM,Sheboygan County Memorial,"Sheboygan, WI",43.76972222,-87.85166667
+SBN,South Bend International,"South Bend, IN",41.70833333,-86.31722222
+SBO,Salina-Gunnison,"Salina, UT",39.02916667,-111.83833329999999
+SBP,San Luis County Regional,"San Luis Obispo, CA",35.23722222,-120.6425
+SBS,Steamboat Springs/Bob Adams Field,"Steamboat Springs, CO",40.51611111,-106.86638889999999
+SBT,Tri-City,"San Bernardino, CA",34.0675,-117.27472220000001
+SBV,William M Tuck,"South Boston, VA",36.70861111,-78.84861111
+SBY,Salisbury-Ocean City/Wicomico Regional,"Salisbury, MD",38.34027778,-75.50944444
+SC1,Beaufort MCAS,"Beaufort, SC",32.48055556,-80.71916667
+SC2,Fairfield County,"Winnsboro, SC",34.31583333,-81.10861111
+SC3,Conway-Horry County,"Conway, SC",33.82861111,-79.12222222
+SCC,Deadhorse Airport,"Deadhorse, AK",70.19472222,-148.46527780000002
+SCE,University Park,"State College, PA",40.85,-77.8475
+SCF,Scottsdale,"Phoenix, AZ",33.62277778,-111.91055559999998
+SCH,Schenectady County,"Schenectady, NY",42.8525,-73.92861111
+SCJ,Smith Cove Airport,"Smith Cove, AK",55.45472222,-132.3519444
+SCK,Stockton Metropolitan,"Stockton, CA",37.89416667,-121.2383333
+SCM,Scammon Bay Airport,"Scammon Bay, AK",61.84444444,-165.5736111
+SD1,Onida Municipal,"Onida, SD",44.70055556,-100.1013889
+SDF,Louisville International-Standiford Field,"Louisville, KY",38.17416667,-85.73638889
+SDM,Brown Field Municipal,"San Diego, CA",32.57222222,-116.9802778
+SDP,Sand Point,"Sandpoint, AK",55.31361111,-160.5213889
+SDX,Sedona Airport,"Sedona, AZ",34.84861111,-111.78833329999999
+SDY,Sidney Richland Regional,"Sidney, MT",47.70694444,-104.1925
+SEA,Seattle/Tacoma International,"Seattle, WA",47.45,-122.31166670000002
+SEE,Gillespie Field,"San Diego, CA",32.82611111,-116.9725
+SEF,Sebring Regional,"Sebring, FL",27.45638889,-81.3425
+SEG,Penn Valley,"Selinsgrove, PA",40.82111111,-76.86416667
+SEM,Craig Field,"Selma, AL",32.34388889,-86.98777778
+SER,Freeman Municipal,"Seymour, IN",38.92472222,-85.90833333
+SES,Selfield,"Selma, AL",32.45,-86.95
+SFB,Orlando Sanford International,"Sanford, FL",28.77694444,-81.235
+SFF,Felts Field,"Spokane, WA",47.68305556,-117.3227778
+SFM,Sanford Seacoast Regional,"Sanford, ME",43.39388889,-70.70805556
+SFO,San Francisco International,"San Francisco, CA",37.61888889,-122.37555559999998
+SFZ,North Central State,"Smithfield, RI",41.92083333,-71.49138889
+SGF,Springfield-Branson National,"Springfield, MO",37.24555556,-93.38861111
+SGH,Springfield-Beckley Municipal,"Springfield, OH",39.84027778,-83.84027778
+SGR,Sugar Land Regional,"Sugar Land, TX",29.62222222,-95.65666667
+SGT,Stuttgart Municipal Carl Humphrey Field,"Stuttgart, AR",34.59944444,-91.575
+SGU,St George Regional,"St. George, UT",37.03638889,-113.5102778
+SGW,Saginaw,"Saginaw Bay, AK",56.88333333,-134.15
+SGY,Skagway Airport,"Skagway, AK",59.46,-135.31555559999998
+SHD,Shenandoah Valley Regional,"Staunton, VA",38.26388889,-78.89638889
+SHG,Shungnak Airport,"Shungnak, AK",66.88805556,-157.1625
+SHH,Shishmaref Airport,"Shishmaref, AK",66.24944444,-166.08944440000002
+SHN,Sanderson Field,"Shelton, WA",47.23361111,-123.1475
+SHR,Sheridan County,"Sheridan, WY",44.76916667,-106.9802778
+SHV,Shreveport Regional,"Shreveport, LA",32.44666667,-93.82555556
+SHX,Shageluk Airport,"Shageluk, AK",62.69222222,-159.56916669999998
+SIG,Isla Grande,"San Juan, PR",18.45888889,-66.10277778
+SIK,Sikeston Memorial Municipal,"Sikeston, MO",36.89888889,-89.56166667
+SIT,Sitka Rocky Gutierrez,"Sitka, AK",57.04694444,-135.36111110000002
+SIY,Siskiyou County,"Montague, CA",41.78138889,-122.46805559999999
+SJC,Norman Y. Mineta San Jose International,"San Jose, CA",37.36305556,-121.9286111
+SJF,St. John Airport,"St. John, VI",18.33333333,-64.75
+SJN,St. Johns Industrial Air Park,"St. Johns, AZ",34.51861111,-109.37888889999999
+SJT,San Angelo Regional/Mathis Field,"San Angelo, TX",31.35777778,-100.49638890000001
+SJU,Luis Munoz Marin International,"San Juan, PR",18.43944444,-66.00222222
+SKA,Fairchild AFB,"Spokane, WA",47.615,-117.65583329999998
+SKF,Kelly Field,"San Antonio, TX",29.38416667,-98.58111111
+SKJ,Sitkinak CGS,"Sitkinak, AK",56.53277778,-154.1138889
+SKK,Shaktoolik Airport,"Shaktoolik, AK",64.37111111,-161.2238889
+SKW,Skwentna Airport,"Skwentna, AK",61.96611111,-151.1952778
+SKY,Griffing Sandusky,"Sandusky, OH",41.43333333,-82.65222222
+SLB,Storm Lake Municipal,"Storm Lake, IA",42.59722222,-95.24055556
+SLC,Salt Lake City International,"Salt Lake City, UT",40.78833333,-111.9777778
+SLE,McNary Field,"Salem, OR",44.90944444,-123.0025
+SLJ,Stellar Airpark,"Chandler, AZ",33.29888889,-111.91555559999999
+SLK,Adirondack Regional,"Saranac Lake/Lake Placid, NY",44.38527778,-74.20611111
+SLN,Salina Regional,"Salina, KS",38.79055556,-97.65222222
+SLO,Salem/Leckrone,"Salem, IL",38.64277778,-88.96416667
+SLQ,Sleetmute Airport,"Sleetmute, AK",61.70055556,-157.1658333
+SLR,Sulphur Springs Municipal,"Sulphur Springs, TX",33.15972222,-95.62111111
+SLT,Harriet Alexander Field,"Salida, CO",38.53833333,-106.0486111
+SME,Lake Cumberland Regional,"Somerset, KY",37.05361111,-84.61555556
+SMF,Sacramento International,"Sacramento, CA",38.69555556,-121.59083329999999
+SMK,St. Michael Airport,"St. Michael, AK",63.49,-162.1102778
+SMN,Lemhi County,"Salmon, ID",45.12333333,-113.88138889999999
+SMO,Santa Monica Municipal,"Santa Monica, CA",34.01583333,-118.4513889
+NJ3,Somerset,"Somerville, NJ",40.62611111,-74.67
+SMT,Stone Mountain Airport,"Stone Mountain, GA",33.81111111,-84.11944444
+SMU,Sheep Mountain Airport,"Sheep Mountain, AK",61.81138889,-147.50916669999998
+SMX,Santa Maria Public/Capt. G. Allan Hancock Field,"Santa Maria, CA",34.9,-120.45805559999998
+SNA,John Wayne Airport-Orange County,"Santa Ana, CA",33.67555556,-117.86833329999999
+SNK,Winston Field,"Snyder, TX",32.69333333,-100.9505556
+SNL,Shawnee Regional,"Shawnee, OK",35.35722222,-96.94277778
+SNP,St. Paul Island,"St. Paul, AK",57.16638889,-170.2225
+SNS,Salinas Municipal,"Salinas/Monterey, CA",36.66277778,-121.6063889
+SNY,Sidney Municipal/Lloyd W. Carr Field,"Sidney, NE",41.09972222,-102.985
+SOL,Solomon State Field,"Solomon, AK",64.56055556,-164.44222219999997
+SOP,Moore County,"Pinehurst/Southern Pines, NC",35.2375,-79.38916667
+SOV,Seldovia Airport,"Seldovia, AK",59.44388889,-151.705
+SOW,Show Low Regional,"Show Low, AZ",34.26555556,-110.00555559999998
+SPA,Spartanburg Downtown Memorial,"Spartanburg, SC",34.91583333,-81.95638889
+SPB,Charlotte Amalie Harbor Seaplane Base,"Charlotte Amalie, VI",18.33861111,-64.94083333
+SPF,Black Hills Clyde Ice Field,"Spearfish, SD",44.48111111,-103.78611109999999
+SPG,Albert Whitted,"Tampa, FL",27.765,-82.62694444
+SPI,Abraham Lincoln Capital,"Springfield, IL",39.84416667,-89.67805556
+SPN,Francisco C. Ada Saipan International,"Saipan, TT",15.12027778,145.73
+SPQ,Catalina Air-Sea Terminal Heliport,"San Pedro, CA",33.74861111,-118.275
+SPS,Sheppard AFB/Wichita Falls Municipal,"Wichita Falls, TX",33.98888889,-98.49194444
+SPW,Spencer Municipal,"Spencer, IA",43.16555556,-95.20277778
+SPZ,Springdale Municipal,"Springdale, AR",36.17638889,-94.11916667
+SQA,Santa Ynez Airport,"Santa Ynez, CA",34.60694444,-120.07555559999999
+SQI,Whiteside County-Jos H. Bittorf Field,"Sterling/Rockfalls, IL",41.74277778,-89.67638889
+SQL,San Carlos Airport,"San Carlos, CA",37.51194444,-122.24944440000002
+SQV,Sequim Valley,"Sequim, WA",48.09777778,-123.18694440000002
+SRC,Searcy Municipal,"Searcy, AR",35.21055556,-91.7375
+SRF,Hamilton AFB,"Novato, CA",38.06833333,-122.50194440000001
+SRQ,Sarasota/Bradenton International,"Sarasota/Bradenton, FL",27.39555556,-82.55444444
+SRV,Stony River Airport,"Stony River, AK",61.78972222,-156.5886111
+SRW,Mid Carolina Regional,"Salisbury, NC",35.64583333,-80.52027778
+SSB,Christiansted Harbor Seaplane Base,"Christiansted, VI",17.74916667,-64.70527778
+SSC,Shaw AFB,"Sumter, SC",33.97277778,-80.47055556
+SSI,McKinnon St Simons Island,"Brunswick, GA",31.15194444,-81.39111111
+SSM,Sault Ste. Marie Metropolitan Area,"Sault Ste. Marie, MI",46.48055556,-84.36805556
+SSW,Stuart Island Airpark,"Stuart Island, WA",48.67277778,-123.1758333
+STC,St. Cloud Regional,"St. Cloud, MN",45.54666667,-94.06
+STE,Stevens Point Municipal,"Stevens Point, WI",44.54527778,-89.53027778
+STF,George M. Bryan,"Starkville, MS",33.43305556,-88.84861111
+STG,St. George Island Airport,"St. George Island, AK",56.60083333,-169.5641667
+STJ,Rosecrans Memorial,"St. Joseph, MO",39.77194444,-94.90972222
+STK,Sterling Municipal,"Sterling, CO",40.61416667,-103.2641667
+STL,St Louis Lambert International,"St. Louis, MO",38.74861111,-90.37
+STP,St. Paul Downtown Holman Field,"Minneapolis/St. Paul, MN",44.93472222,-93.06027778
+STQ,St. Marys Municipal,"St. Marys, PA",41.4125,-78.5025
+STS,Charles M. Schulz - Sonoma County,"Santa Rosa, CA",38.50972222,-122.81277779999999
+STT,Cyril E King,"Charlotte Amalie, VI",18.33722222,-64.97333333
+STX,Henry E. Rohlsen,"Christiansted, VI",17.70138889,-64.80194444
+SUA,Witham Field,"Stuart, FL",27.18166667,-80.22138889
+SUC,Schloredt,"Sundance, WY",44.39027778,-104.3983333
+SUE,Door County Cherryland,"Sturgeon Bay, WI",44.84361111,-87.42166667
+SUM,Sumter Airport,"Sumter, SC",33.995,-80.36138889
+SUN,Friedman Memorial,"Sun Valley/Hailey/Ketchum, ID",43.50388889,-114.29555559999999
+SUO,Sunriver Airport,"Sunriver, OR",43.87638889,-121.45305559999998
+SUS,Spirit of St. Louis,"St. Louis, MO",38.66222222,-90.65194444
+SUU,Travis AFB,"Fairfield, CA",38.26444444,-121.92416670000001
+SUW,Richard I Bong,"Superior, WI",46.68972222,-92.09472222
+SUX,Sioux Gateway/Col. Bud Day Field,"Sioux City, IA",42.4025,-96.38444444
+SVA,Savoonga Airport,"Savoonga, AK",63.68638889,-170.4930556
+SVC,Grant County,"Silver City/Hurley, NM",32.63666667,-108.1563889
+SVH,Statesville Regional,"Statesville, NC",35.765,-80.95388889
+SVN,Hunter AAF,"Savannah, GA",32.01,-81.14611111
+SVS,Stevens Village Airport,"Stevens Village, AK",66.01694444,-149.05444440000002
+SVW,Sparrevohn LRRS,"Sparrevohn, AK",61.09722222,-155.5747222
+SWD,Seward Airport,"Seward, AK",60.13,-149.4169444
+SWF,Stewart International,"Newburgh/Poughkeepsie, NY",41.50416667,-74.10472222
+SWO,Stillwater Regional,"Stillwater, OK",36.16138889,-97.08583333
+SWW,Avenger Field,"Sweetwater, TX",32.46722222,-100.4666667
+SXP,Nunam Iqua,"Sheldon Point, AK",62.52055556,-164.84777780000002
+SXQ,Soldotna Airport,"Soldotna, AK",60.47527778,-151.03972219999997
+SXY,Sidney Municipal,"Sidney, NY",42.3025,-75.41583333
+SYA,Eareckson AS,"Shemya, AK",52.71222222,174.1136111
+SYB,Seal Bay Airport,"Seal Bay, AK",58.38333333,-152.2333333
+SYI,Bomar Field-Shelbyville Municipal,"Shelbyville/Tullahoma, TN",35.55944444,-86.4425
+SYN,Stanton Airport,"Stanton, MN",44.47555556,-93.01638889
+SYR,Syracuse Hancock International,"Syracuse, NY",43.11111111,-76.10638889
+SZL,Whiteman AFB,"Knob Noster, MO",38.73027778,-93.54777778
+SZP,Santa Paula Airport,"Santa Paula, CA",34.34694444,-119.06166670000002
+TAD,Las Animas County,"Trinidad, CO",37.25972222,-104.3391667
+TAL,Ralph M Calhoun Memorial,"Tanana, AK",65.17444444,-152.1080556
+TAV,Tau Airport,"Tau, TT",-14.22916667,-169.5111111
+TBN,Waynesville-St. Robert Regional Forney Field,"Fort Leonard Wood, MO",37.74166667,-92.14083333
+TBR,Statesboro-Bulloch County,"Statesboro, GA",32.48277778,-81.73694444
+TCC,Tucumcari Municipal,"Tucumcari, NM",35.18277778,-103.6030556
+TCL,Tuscaloosa Regional,"Tuscaloosa, AL",33.22055556,-87.61138889
+TCM,McChord Field,"Tacoma, WA",47.13777778,-122.4763889
+TCS,Truth Or Consequences Municipal,"Truth Or Consequences, NM",33.23527778,-107.27
+TCT,Takotna Airport,"Takotna, AK",62.99305556,-156.02972219999998
+TDF,Person County,"Roxboro, NC",36.28472222,-78.98472222
+TDW,Tradewind,"Amarillo, TX",35.17,-101.8258333
+TDZ,Metcalf Field,"Toledo, OH",41.65,-83.53333333
+TEB,Teterboro Airport,"Teterboro, NJ",40.85,-74.06083333
+TEH,Tetlin Airport,"Tetlin, AK",63.12472222,-142.51861110000002
+TEK,Tatitlek Airport,"Tatitlek, AK",60.8725,-146.6911111
+TEX,Telluride Regional,"Telluride, CO",37.95388889,-107.9088889
+TGE,Sharpe Field,"Tuskegee, AL",32.49194444,-85.77555556
+THA,Tullahoma Regional Airport/William Northern Field,"Tullahoma, TN",35.38,-86.24638889
+THP,Hot Springs County Thermopolis Municipal,"Thermopolis, WY",43.65833333,-108.21305559999999
+THV,York Airport,"York, PA",39.91694444,-76.87305556
+TIK,Tinker AFB,"Oklahoma City, OK",35.41472222,-97.38666667
+TIQ,Tinian International,"Tinian, TT",14.99916667,145.61944440000002
+TIW,Tacoma Narrows,"Tacoma, WA",47.26805556,-122.57805559999998
+TIX,Space Coast Regional,"Titusville, FL",28.51472222,-80.79916667
+TKA,Talkeetna Airport,"Talkeetna, AK",62.32138889,-150.09277780000002
+TKE,Tenakee Airport,"Tenakee, AK",57.71666667,-135.2
+TKF,Truckee Tahoe,"Truckee, CA",39.32,-120.13944440000002
+TKI,Tokeen Airport,"Tokeen, AK",55.9375,-133.325
+TKJ,Tok Junction,"Tok, AK",63.32944444,-142.9536111
+TKL,Taku Seaplane Base,"Taku Lodge, AK",58.49,-133.9416667
+TLA,Teller Airport,"Teller, AK",65.24027778,-166.33944440000002
+TLF,Telida Airport,"Telida, AK",63.37888889,-153.2841667
+TLH,Tallahassee International,"Tallahassee, FL",30.39666667,-84.35083333
+TLJ,Tatalina LRRS,"Tatalina, AK",62.895,-155.97805559999998
+TLR,Mefford Field,"Tulare, CA",36.15666667,-119.32666670000002
+TLT,Tuluksak Airport,"Tuluksak, AK",61.08777778,-160.9233333
+TMA,Henry Tift Myers,"Tifton, GA",31.42944444,-83.48916667
+TMB,Miami Executive,"Miami, FL",25.6475,-80.43333333
+TN1,Lebanon Municipal,"Lebanon, TN",36.19027778,-86.31555556
+TN2,Upper Cumberland Regional,"Sparta, TN",36.05694444,-85.53
+TN3,Ellington,"Lewisburg, TN",35.50694444,-86.80388889
+TN4,Abernathy Field,"Pulaski, TN",35.15416667,-87.05694444
+TN5,Franklin Wilkins,"Lexington, TN",35.65138889,-88.37888889
+TN6,Dyersburg Regional,"Dyersburg, TN",35.99805556,-89.40666667
+TN7,Winchester Municipal,"Winchester, TN",35.1775,-86.06611111
+TNC,Tin City LRRS,"Tin City, AK",65.56416667,-167.9225
+TNK,Tununak Airport,"Tununak, AK",60.56944444,-165.2463889
+TNP,Twentynine Palms Airport,"Twentynine Palms, CA",34.13166667,-115.94583329999999
+TNT,Dade-Collier Training and Transition,"Miami, FL",25.86194444,-80.89694444
+TNU,Newton Municipal Earl Johnson Field,"Newton, IA",41.67444444,-93.02166667
+TOA,Zamperini Field,"Torrance, CA",33.80333333,-118.33972220000001
+TOG,Togiak Airport,"Togiak, AK",59.05361111,-160.3966667
+TOL,Toledo Express,"Toledo, OH",41.58694444,-83.80777778
+TOP,Philip Billard Municipal,"Topeka, KS",39.06861111,-95.6225
+TOR,Torrington Municipal,"Torrington, WY",42.06444444,-104.1527778
+TPA,Tampa International,"Tampa, FL",27.97555556,-82.53333333
+TPB,Allen Air Park,"Topeka, KS",39.025,-95.75805556
+TPF,Peter O'Knight,"Tampa, FL",27.91555556,-82.44944444
+TPH,Tonopah Airport,"Tonopah, NV",38.06027778,-117.08694440000001
+TPL,Draughon-Miller Central Texas Regional,"Temple, TX",31.15194444,-97.41611111
+TRH,Trona Airport,"Trona, CA",35.81277778,-117.32694440000002
+TRI,Tri Cities,"Bristol/Johnson City/Kingsport, TN",36.47527778,-82.4075
+TRM,Jacqueline Cochran Regional,"Thermal, CA",33.62666667,-116.1597222
+TSG,Tanacross Airport,"Tanacross, AK",63.37416667,-143.3288889
+TSM,Taos Regional,"Taos, NM",36.45166667,-105.67305559999998
+TSP,Tehachapi Municipal,"Tehachapi, CA",35.135,-118.43916670000002
+TSS,East 34th Street Heliport,"New York, NY",40.7425,-73.97222222
+TTD,Portland Troutdale,"Troutdale, OR",45.54944444,-122.4013889
+TTN,Trenton Mercer,"Trenton, NJ",40.27666667,-74.81333333
+TUH,Arnold AFB,"Tullahoma, TN",35.3925,-86.08583333
+TUL,Tulsa International,"Tulsa, OK",36.19833333,-95.88805556
+TUP,Tupelo Regional,"Tupelo, MS",34.26888889,-88.77
+TUS,Tucson International,"Tucson, AZ",32.11888889,-110.94444440000001
+TVC,Cherry Capital,"Traverse City, MI",44.74166667,-85.58194444
+TVF,Thief River Falls Regional,"Thief River Falls, MN",48.06555556,-96.185
+TVI,Thomasville Regional,"Thomasville, GA",30.90194444,-83.88111111
+TVL,Lake Tahoe Airport,"Lake Tahoe, CA",38.89388889,-119.9952778
+TWA,Twin Hills Airport,"Twin Hills, AK",59.07444444,-160.275
+TWD,Jefferson County International,"Port Townsend, WA",48.05388889,-122.81055559999999
+TWE,Taylor Airport,"Taylor, AK",65.67916667,-164.7988889
+TWF,Joslin Field - Magic Valley Regional,"Twin Falls, ID",42.48194444,-114.48777779999999
+TWH,Two Harbors Airport,"Two Harbors, CA",33.425,-118.50833329999999
+TX1,Mesquite Metro,"Mesquite, TX",32.74694444,-96.53055556
+TX2,Denver City Airport,"Denver City, TX",32.97472222,-102.845
+TX3,Port Isabel - Cameron County,"Port Isabel, TX",26.16611111,-97.34583333
+TX4,Bruce Field,"Ballinger, TX",31.67444444,-99.97694444
+TX5,Cleburne Regional,"Cleburne, TX",32.35361111,-97.43388889
+TX6,Horseshoe Bay Resort,"Horseshoe Bay, TX",30.52694444,-98.35888889
+TX7,Post Garza County Municipal,"Post, TX",33.20333333,-101.3383333
+TXK,Texarkana Regional-Webb Field,"Texarkana, AR",33.45361111,-93.99111111
+TYE,Tyonek Airport,"Tyonek, AK",61.07666667,-151.13805559999997
+TYR,Tyler Pounds Regional,"Tyler, TX",32.35388889,-95.40277778
+TYS,McGhee Tyson,"Knoxville, TN",35.80944444,-83.99527778
+TYZ,Taylor Airport,"Taylor, AZ",34.45277778,-110.115
+UAM,Andersen AFB,"Guam, TT",13.58388889,144.93
+UBF,Chatham Municipal,"Chatham, MA",41.68833333,-69.98972222
+UBS,Columbus-Lowndes County,"Columbus, MS",33.46527778,-88.38083333
+UCA,Oneida County,"Utica/Rome, NY",43.14138889,-75.38027778
+UCY,Everett-Stewart Regional,"Union City, TN",36.37972222,-88.98583333
+UDD,Bermuda Dunes Airport,"Bermuda Dunes, CA",33.74833333,-116.27472220000001
+UDG,Darlington County,"Darlington, SC",34.44944444,-79.89
+UES,Waukesha County,"Waukesha, WI",43.04111111,-88.23694444
+UGA,Ugashik Airport,"Ugashik, AK",57.50638889,-157.3916667
+UGB,Ugashik Bay,"Pilot Point, AK",57.42527778,-157.74
+UGI,Uganik Airport,"Uganik, AK",57.75,-153.31666669999998
+UGN,Waukegan National,"Waukegan, IL",42.42222222,-87.86777778
+UGS,Ugashik Airport,"Ugashik, AK",57.52333333,-157.3961111
+UIN,Quincy Regional-Baldwin Field,"Quincy, IL",39.94305556,-91.19444444
+UKI,Ukiah Municipal,"Ukiah, CA",39.12583333,-123.20083329999999
+ULM,New Ulm Municipal,"New Ulm, MN",44.31833333,-94.50166667
+ULS,Ulysses Airport,"Ulysses, KS",37.60388889,-101.37361109999999
+UMB,North Shore,"Umnak, AK",53.37666667,-167.8875
+UMM,Summit Airport,"Summit, AK",63.33111111,-149.1288889
+UMT,Umiat Airport,"Umiat, AK",69.37111111,-152.135
+UNK,Unalakleet Airport,"Unalakleet, AK",63.88861111,-160.7991667
+UNS,Umnak Airport,"Umnak, AK",53.22388889,-168.43222219999998
+UOX,University-Oxford,"Oxford, MS",34.38444444,-89.53694444
+UPP,Upolu,"Upolo Point, HI",20.26527778,-155.86
+UQE,The Queens,"Queens, AK",58.87194444,-158.4716667
+USI,Usi Belli Coal Mine,"Usibelli, AK",63.86666667,-148.7833333
+UST,Northeast Florida Regional,"St. Augustine, FL",29.95916667,-81.33972222
+UT1,Heber City Municipal - Russ McDonald Field,"Heber, UT",40.48194444,-111.42888889999999
+UTM,Tunica Municipal,"Tunica, MS",34.685,-90.34777778
+UTO,Indian Mountain LRRS,"Utopia, AK",65.99277778,-153.7036111
+UUK,North Kuparuk,"Kuparuk, AK",70.36222222,-149.0283333
+UVA,Garner Field,"Uvalde, TX",29.21138889,-99.74361111
+UXA,Lik Camp Airport,"Lik Camp, AK",68.16666667,-163.2
+UXC,Hawley Municipal,"Hawley, MN",46.88388889,-96.35055556
+UXD,Chowchilla Airport,"Chowchilla, CA",37.11333333,-120.24694440000002
+UXE,Faulkton Municipal,"Faulkton, SD",45.03055556,-99.11277778
+UXF,Stanford Field,"St. Anthony, ID",43.95027778,-111.68472220000001
+UXG,Dutch John Airport,"Dutch John, UT",40.91777778,-109.39055559999998
+UXI,Calder Bay Airport,"Calder Bay, AK",56.17166667,-133.4930556
+UXJ,Central Kentucky Regional,"Richmond, KY",37.63166667,-84.3325
+UXK,Petaluma Municipal,"Petaluma, CA",38.25777778,-122.6052778
+UXL,Chariot Airport,"Chariot, AK",68.09722222,-165.76388889999998
+UXM,47-Mile Mine Airport,"47-Mile Mine, AK",61.04444444,-158.14527780000003
+UXN,Big Sandy Regional,"Prestonsburg, KY",37.75111111,-82.63666667
+UXO,Fitchburg Municipal,"Fitchburg, MA",42.55416667,-71.75888889
+UXP,Stennis International,"Bay St. Louis, MS",30.36777778,-89.45472222
+UXR,Monument Valley Airport,"Monument Valley, UT",37.01666667,-110.20055559999999
+UXS,Cimarron Municipal,"Cimarron, KS",37.83333333,-100.3469444
+LPR,Lorain County Regional,"Lorain/Elyria, OH",41.34416667,-82.17777778
+UXU,Cheboygan County,"Cheboygan, MI",45.65388889,-84.51916667
+UXV,Enterprise Municipal,"Enterprise, OR",45.42472222,-117.26472220000001
+UXW,Putnam County,"Cookeville, TN",36.19333333,-85.48694444
+UXX,Hot Springs Airport,"Hot Springs, MT",47.6125,-114.6133333
+UXY,Circle Town County,"Circle, MT",47.41833333,-105.56083329999998
+UXZ,Garrison Municipal,"Garrison, ND",47.65611111,-101.4366667
+VA1,Emporia Greensville Regional,"Emporia, VA",36.68694444,-77.48277778
+VA2,Chesapeake Regional,"Chesapeake, VA",36.66555556,-76.32055556
+VA3,Mountain Empire,"Marion/Wytheville, VA",36.89472222,-81.35
+VA4,Leesburg Executive,"Leesburg, VA",39.07805556,-77.5575
+VAD,Moody AFB,"Valdosta, GA",30.96861111,-83.19305556
+VAK,Chevak Airport,"Chevak, AK",61.54083333,-165.6008333
+VBG,Vandenberg AFB,"Lompoc, CA",34.73722222,-120.58444440000001
+VCB,View Cove Airport,"View Cove, AK",55.06666667,-133.0166667
+VCT,Victoria Regional,"Victoria, TX",28.8525,-96.91861111
+VCV,Southern California Logistics,"Victorville, CA",34.5975,-117.38305559999999
+VDI,Vidalia Regional,"Vidalia, GA",32.19277778,-82.37111111
+VDZ,Valdez Pioneer Field,"Valdez, AK",61.13416667,-146.24472219999998
+VEE,Venetie Airport,"Venetie, AK",67.00861111,-146.3663889
+VEL,Vernal Regional,"Vernal, UT",40.43611111,-109.5113889
+VEO,Roy Otten Memorial Airfield,"Versailles, MO",38.42777778,-92.875
+VGT,North Las Vegas,"Las Vegas, NV",36.21055556,-115.19444440000001
+VIH,Rolla National,"Vichy, MO",38.1275,-91.76944444
+VIK,Kavik River Airport,"Kavik River, AK",69.67722222,-146.8991667
+VIS,Visalia Municipal,"Visalia, CA",36.31861111,-119.39277779999999
+VKS,Vicksburg Municipal,"Vicksburg, MS",32.23916667,-90.92805556
+VLD,Valdosta Regional,"Valdosta, GA",30.78138889,-83.27611111
+VNC,Venice Municipal,"Venice, FL",27.07166667,-82.44027778
+VNY,Van Nuys Airport,"Van Nuys, CA",34.20972222,-118.49
+VOK,Volk Field,"Camp Douglas, WI",43.93916667,-90.25305556
+VPC,Cartersville Airport,"Cartersville, GA",34.12305556,-84.84861111
+VPS,Eglin AFB Destin Fort Walton Beach,"Valparaiso, FL",30.48333333,-86.52527778
+VPZ,Porter County Regional,"Valparaiso, IN",41.45388889,-87.00694444
+VQS,Antonio Rivera Rodriguez,"Vieques, PR",18.13472222,-65.49361111
+VRB,Vero Beach Regional,"Vero Beach, FL",27.65555556,-80.41805556
+VSF,Hartness State,"Springfield, VT",43.34361111,-72.51722222
+VTN,Miller Field,"Valentine, NE",42.85666667,-100.54888890000001
+VUJ,Stanly County,"Albemarle, NC",35.41666667,-80.15083333
+VUO,Pearson Field,"Vancouver, WA",45.62055556,-122.6563889
+VWA,Headland Municipal,"Headland, AL",31.36416667,-85.3125
+VWB,Myrtle Creek Municipal,"Myrtle Creek, OR",42.99722222,-123.31527779999999
+VWC,Sumner County Regional,"Gallatin, TN",36.375,-86.40833333
+VWD,Hanford Municipal,"Hanford, CA",36.31666667,-119.62777779999999
+VWE,Lake Chelan,"Chelan, WA",47.86611111,-119.94277779999999
+VWF,Custer County,"Custer, SD",43.73361111,-103.6194444
+VWG,Tillamook,"Garibaldi, OR",45.41833333,-123.81444440000001
+VWH,Odessa Schlemeyer Field,"Midland/Odessa, TX",31.92138889,-102.38722220000001
+VWI,California City Municipal,"California City, CA",35.15111111,-118.01666670000002
+VWJ,McNeil,"Cameron, SC",33.55944444,-80.64833333
+VWK,Saratoga County,"Saratoga Springs, NY",43.05083333,-73.86166667
+VWL,Nary National Shefland Field,"Bemidji, MN",47.37527778,-94.79861111
+VWM,Weed Airport,"Weed, CA",41.48083333,-122.45444440000001
+VWN,Avi Suquilla,"Parker, AZ",34.14972222,-114.26777779999999
+VWO,Arlington Municipal,"Arlington, WA",48.16083333,-122.15916670000001
+VWP,Bernard Usfs,"Bernard, ID",44.97972222,-114.73472220000001
+VWQ,Kingdon Airpark,"Lodi, CA",38.09166667,-121.35944440000002
+VWR,Independence Airport,"Independence, CA",36.81638889,-118.205
+VWS,Colonel James Jabara,"Wichita, KS",37.7475,-97.22111111
+VWT,Jimmy Carter Regional,"Americus, GA",32.11083333,-84.18888889
+VWW,Deer Lodge-City-County,"Deer Lodge, MT",46.38777778,-112.765
+VWX,South Texas Regional at Hondo,"Hondo, TX",29.35916667,-99.1775
+VWZ,Granite Creek Mine Airport,"Granite Creek Mine, AK",62.36305556,-156.97416669999998
+VYS,Illinois Valley Regional,"Peru, IL",41.35027778,-89.15305556
+VZA,Marvel Creek Mine Airport,"Marvel Creek Mine, AK",60.90611111,-159.6391667
+VZB,Mitrofania Airport,"Mitrofania, AK",56.00166667,-158.83333330000002
+VZC,Mush Bay Airport,"Mush Bay, AK",57.7,-153.4733333
+VZD,Campbell Lagoon Airport,"Campbell Lagoon, AK",57.85555556,-153.6333333
+VZE,Frazer Lake Airport,"Frazer Lake, AK",57.20833333,-154.0861111
+VZF,Afognak Straits Airport,"Afognak Straits, AK",58.0,-152.81666669999998
+VZG,Moffet Bay Airport,"Moffet Bay, AK",55.42833333,-162.63
+VZH,Mineola Wisener Field,"Mineola, TX",32.67666667,-95.51083333
+VZI,Brundidge Municipal,"Brundidge, AL",31.73333333,-85.80472222
+VZJ,Payette Municipal,"Payette, ID",44.09444444,-116.9036111
+VZL,Los Alamitos AAF,"Los Alamitos, CA",33.79,-118.05138889999999
+VZM,Jensens Strip Airport,"Jensens Strip, AK",57.95,-157.05
+VZN,Wildman Creek Airport,"Wildman Creek, AK",56.25,-159.91666669999998
+VZO,Stepovak Airport,"Stepovak, AK",55.83333333,-159.8666667
+VZQ,Puale Bay Airport,"Puale Bay, AK",57.73333333,-155.6333333
+VZR,Katmai Bay Airport,"Katmai Bay, AK",58.0,-154.9666667
+VZS,Kashvik Bay Airport,"Kashvik Bay, AK",57.96666667,-155.1333333
+VZT,Cinder Mountain Airport,"Cinder Mountain, AK",57.05833333,-157.8
+VZU,Hagemeister Island Airport,"Hagemeister Island, AK",58.75,-160.83333330000002
+VZV,Cape Peirce Airport,"Cape Peirce, AK",58.55277778,-161.76861110000002
+VZW,Cape Greig Airport,"Cape Greig, AK",57.71666667,-157.7166667
+VZY,Katmai Lodge Airport,"Katmai Lodge, AK",59.07,-156.0483333
+VZZ,South St. Paul Municipal-Richard E. Fleming Field,"South St. Paul, MN",44.85722222,-93.03277778
+WA2,Mansfield Airport,"Mansfield, WA",47.80944444,-119.63694440000002
+WA3,Bayview Farms,"Burlington, WA",48.52083333,-122.4652778
+WA4,Isaacson,"Medical Lake, WA",47.65916667,-117.68166670000001
+WA5,Methow Valley State,"Winthrop, WA",48.425,-120.14583329999999
+WA6,Stehekin Seaplane Landing,"Stehekin, WA",48.3,-120.65
+WA7,Chelan Seaplane Landing,"Chelan, WA",47.83333333,-120.03333329999998
+WAA,Wales Airport,"Wales, AK",65.6225,-168.095
+WAL,Wallops Flight Facility,"Chincoteague, VA",37.94027778,-75.46638889
+WAR,Warsaw Municipal,"Warsaw, IN",41.27472222,-85.84
+WAS,Washington DC Metropolitan Area,"Washington, DC",38.88333333,-77.03333333
+WBB,Stebbins Airport,"Stebbins, AK",63.51583333,-162.2780556
+WBH,Commerce/Montebello Heliport,"Commerce/Montebello, CA",34.01666667,-118.13333329999999
+WBN,Woburn Airport,"Woburn, MA",42.39722222,-71.15277778
+WBQ,Beaver Airport,"Beaver, AK",66.36222222,-147.4063889
+WBR,Roben-Hood,"Big Rapids, MI",43.72277778,-85.50416667
+WBS,Bennettsville Airport,"Bennettsville, SC",34.62194444,-79.7325
+WBY,Downtown Airport,"Downtown, CA",34.0525,-118.2594444
+WCL,Whalers Cove Lodge Airport,"Whalers Cove Lodge, AK",57.46666667,-134.56666669999998
+WCR,Chandalar Lake,"Chandalar, AK",67.50444444,-148.4833333
+WDB,Wide Bay Airport,"Wide Bay, AK",57.37138889,-156.4125
+WDG,Enid Woodring Regional,"Enid, OK",36.37583333,-97.78944444
+WA8,Waldronaire,"Eastsound, WA",48.71166667,-123.01833329999998
+WDR,Barrow County,"Winder, GA",33.98277778,-83.6675
+WFB,Ketchikan Waterfront Seaplane Base,"Ketchikan, AK",55.35805556,-131.6683333
+WGO,Winchester Regional,"Winchester, VA",39.14361111,-78.14444444
+WFK,Northern Aroostook Regional,"Frenchville, ME",47.28555556,-68.31277778
+WHD,Hyder Seaplane Base,"Hyder, AK",55.90361111,-130.005
+WHR,Vail/Avon,"Eagle, CO",39.61666667,-106.3838889
+WHT,Wharton Regional,"Wharton, TX",29.25416667,-96.15444444
+WI1,Black River Falls Area,"Black River Falls, WI",44.25083333,-90.85527778
+WI2,Price County,"Phillips, WI",45.70888889,-90.4025
+WIB,Wilbur Airport,"Wilbur, WA",47.75333333,-118.745
+WJF,General William J. Fox Airfield,"Lancaster, CA",34.74111111,-118.2186111
+WKK,Aleknagik New,"Aleknagik, AK",59.2825,-158.61777780000003
+WKL,Waikoloa Heliport,"Waikoloa Village, HI",19.91361111,-155.8638889
+WKV,Penns Landing Seaplane Base,"Philadelphia, PA",39.96527778,-75.1375
+WLB,Labouchere Bay Airport,"Labouchere Bay, AK",56.28333333,-133.65
+WLD,Strother Field,"Winfield, KS",37.16861111,-97.0375
+WLK,Selawik Airport,"Selawik, AK",66.60027778,-159.9858333
+WLM,Waltham Hospital Heliport,"Waltham, MA",42.3675,-71.23472222
+WLW,Willows Glenn County,"Willows, CA",39.51583333,-122.21722220000001
+WMC,Winnemucca Municipal,"Winnemucca, NV",40.89666667,-117.80583329999999
+WMH,Baxter County,"Mountain Home, AR",36.36888889,-92.47055556
+WMK,Meyers Chuck Seaplane Base,"Meyers Chuck, AK",55.74,-132.25333329999998
+WMO,White Mountain Airport,"White Mountain, AK",64.68916667,-163.41277780000001
+WNA,Napakiak Airport,"Napakiak, AK",60.69027778,-161.9786111
+WOD,Wood River Airport,"Wood River, AK",59.06666667,-134.75
+WOW,Willow Airport,"Willow, AK",61.75416667,-150.0516667
+WQA,Ovid Airport,"Ovid, NY",42.65472222,-76.79638889
+WQB,Mandan Municipal,"Mandan, ND",46.76805556,-100.8944444
+WQC,Ravalli County,"Hamilton, MT",46.25138889,-114.12555559999998
+WQD,Tulelake Municipal,"Tulelake, CA",41.89055556,-121.36055559999998
+WQE,Dinsmore Airport,"Dinsmore, CA",40.49194444,-123.5983333
+WQF,Rigby Airport,"Rigby, ID",43.6425,-111.92944440000001
+WQG,Hesperia Airport,"Hesperia, CA",34.37694444,-117.3161111
+WQH,Butte Valley,"Dorris, CA",41.88722222,-121.97555559999999
+WQI,Connell City,"Connell, WA",46.66138889,-118.83055559999998
+WQJ,Peard Bay Airport,"Peard Bay, AK",70.8,-158.33333330000002
+WQK,Townsend Airport,"Townsend, MT",46.33111111,-111.4825
+WQL,Bluff Airport,"Bluff, AK",64.59055556,-163.77527780000003
+CWF,Chennault International,"Lake Charles, LA",30.21055556,-93.14305556
+WQN,Taylor County,"Campbellsville, KY",37.35833333,-85.30944444
+WQO,Rosamond Skypark,"Rosamond, CA",34.87055556,-118.20555559999998
+WQP,Oceano County,"Oceano, CA",35.10138889,-120.62222220000001
+WQQ,Custer State Park,"Fairburn, SD",43.725,-103.35
+WQR,Tibbetts,"Naknek, AK",58.73416667,-157.00722219999997
+WQS,Poplar Municipal,"Poplar, MT",48.13444444,-105.1622222
+WQT,Bridger Municipal,"Bridger, MT",45.29166667,-108.9258333
+WQU,Portales Municipal,"Portales, NM",34.14555556,-103.41027779999999
+WQW,David River Airport,"David River, AK",55.91444444,-161.6375
+WQX,Kiavak Airport,"Kiavak, AK",57.01666667,-153.66666669999998
+WQY,Port Wakefield Airport,"Port Wakefield, AK",58.05277778,-153.05
+WQZ,Chignik Lake Airport,"Chignik Lake, AK",56.25555556,-158.77777780000002
+WRB,Robins AFB,"Macon, GA",32.64027778,-83.59194444
+WRG,Wrangell Airport,"Wrangell, AK",56.48444444,-132.3697222
+WRI,McGuire Field,"Fort Dix, NJ",40.01555556,-74.59166667
+WRL,Worland Municipal,"Worland, WY",43.96277778,-107.95055559999999
+WSB,Steamboat Bay Airport,"Steamboat Bay, AK",55.51666667,-133.63333329999998
+WSG,Washington County,"Washington, PA",40.13638889,-80.29027778
+WSH,Brookhaven,"Shirley, NY",40.82194444,-72.86694444
+WSI,Wasilla Airport,"Wasilla, AK",61.58416667,-149.4566667
+WSJ,San Juan Airport,"San Juan, AK",57.73111111,-153.3183333
+WSM,Wiseman Airport,"Wiseman, AK",67.405,-150.12083330000002
+WSN,South Naknek 2,"South Naknek, AK",58.70194444,-157.0025
+WST,Westerly State,"Westerly, RI",41.34972222,-71.80333333
+WSX,Westsound Airport,"Westsound, WA",48.66666667,-122.88333329999999
+WTC,World Trade Center Heliport,"New York, NY",40.7125,-74.015
+WTK,Noatak Airport,"Noatak, AK",67.56111111,-162.98055559999997
+WTL,Tuntutuliak Airport,"Tuntutuliak, AK",60.335,-162.6538889
+WTR,Whiteriver Airport,"Whiteriver, AZ",33.81055556,-109.98583329999998
+WTT,Whittier Airport,"Whittier, AK",60.77722222,-148.7216667
+WUJ,Duchesne Municipal,"Duchesne, UT",40.19388889,-110.38305559999999
+WUQ,Avco,"Ocean Shores, WA",47.00555556,-124.15833329999998
+WV1,Mcs-Pad Heliport,"Charleston, WV",38.29444444,-81.56555556
+WVA,Washington-Virginia,"Falls Church, VA",38.83333333,-77.11666667
+WVI,Watsonville Municipal,"Watsonville, CA",36.93555556,-121.78944440000001
+WVL,Waterville Robert Lafleur,"Augusta/Waterville, ME",44.53333333,-69.67555556
+WWA,Wasilla Airport,"Wasilla, AK",61.57194444,-149.5394444
+WWD,Cape May County,"Cape May, NJ",39.00833333,-74.90861111
+WWP,Whale Pass Airport,"Whale Pass, AK",56.11666667,-133.11666670000002
+WWR,West Woodward,"Woodward, OK",36.43805556,-99.52277778
+WWT,Newtok Airport,"Newtok, AK",60.93916667,-164.6413889
+WY1,Ralph Wenz Field,"Pinedale, WY",42.7975,-109.8111111
+WYB,Yes Bay Lodge Seaplane Base,"Yes Bay, AK",55.91611111,-131.8011111
+WYS,Yellowstone,"West Yellowstone, MT",44.68833333,-111.1177778
+XES,Americana,"Lake Geneva, WI",42.61444444,-88.39
+XMD,Madison Municipal,"Madison, SD",44.01638889,-97.08555556
+XNA,Northwest Arkansas Regional,"Fayetteville, AR",36.28166667,-94.30777778
+XRS,Reston Airport,"Reston, VA",38.96194444,-77.35805556
+XSD,Tonopah Test Range,"Tonopah, NV",37.79888889,-116.78083329999998
+XSM,St. Mary's County Regional,"Leonardtown, MD",38.31527778,-76.55
+XWA,Granite Point Ndb,"Granite Point, AK",60.96166667,-151.3316667
+XWC,Yantarni Bay Airport,"Yantarni Bay, AK",56.88333333,-156.56666669999998
+XWE,Copalis State,"Copalis, WA",47.14472222,-124.18916670000002
+XWF,Jerome County,"Jerome, ID",42.72666667,-114.45666670000001
+XWH,Aztec Municipal,"Aztec, NM",36.83694444,-108.0286111
+XWJ,Dexter Regional,"Dexter, ME",45.00444444,-69.2375
+XWK,Port Orchard Airport,"Port Orchard, WA",47.43222222,-122.6677778
+XWL,McCarley Field,"Blackfoot, ID",43.20916667,-112.3497222
+XWN,William P Gwinn,"Jupiter, FL",26.90805556,-80.32833333
+XWO,Kimball Municipal/Robert E. Arraj Field,"Kimball, NE",41.18805556,-103.6775
+XWS,Oliktok LRRS,"Oliktok, AK",70.49972222,-149.8794444
+XWT,Nushagak Bay Airport,"Nushagak Bay, AK",57.45,-158.0
+XWU,Perry County,"Marion, AL",32.55833333,-87.30972222
+XWW,Teton Peaks,"Driggs, ID",43.74277778,-111.09666670000001
+XXD,Smiley Johnson Municipal/Bass Field,"Clarendon, TX",34.91138889,-100.8694444
+XXE,Lakewood Airport,"Lakewood, NJ",40.06694444,-74.1775
+XXG,Arthur D. Little Heliport,"Cambridge, MA",42.5,-71.11777778
+XXN,Ells Field-Willits Municipal,"Willits, CA",39.45138889,-123.37222220000001
+XXO,General Dick Stout Field,"Hurricane, UT",37.14027778,-113.30611110000001
+XXP,Lampson Field,"Lakeport, CA",38.99055556,-122.90083329999999
+XXR,Mariposa-Yosemite,"Mariposa, CA",37.51083333,-120.03944440000001
+XXS,Hobby Field,"Creswell, OR",43.93083333,-123.00666670000001
+XXT,Polson Airport,"Polson, MT",47.69555556,-114.1852778
+XXU,Ashland Municipal-Sumner Parker Field,"Ashland, OR",42.19027778,-122.66055559999998
+XXV,Decatur Shores,"Decatur, WA",48.49972222,-122.8138889
+XXW,Lake City Gateway,"Lake City, FL",30.18194444,-82.57694444
+XXX,Mena Intermountain Municipal,"Mena, AR",34.54527778,-94.20277778
+XXY,Rohnerville,"Fortuna, CA",40.55388889,-124.1327778
+XXZ,Black Rock,"Zuni Pueblo, NM",35.08333333,-108.79166670000001
+YAK,Yakutat Airport,"Yakutat, AK",59.50333333,-139.66027780000002
+YIP,Willow Run,"Detroit, MI",42.24,-83.53083333
+YKM,Yakima Air Terminal/McAllister Field,"Yakima, WA",46.56805556,-120.54416670000002
+YKN,Chan Gurney Municipal,"Yankton, SD",42.91666667,-97.38583333
+YNG,Youngstown-Warren Regional,"Youngstown/Warren, OH",41.26166667,-80.68027778
+YUM,Yuma MCAS/Yuma International,"Yuma, AZ",32.65666667,-114.60583329999999
+ZBX,John the Diver,"Branson, MO",36.65166667,-93.34583333
+ZNC,Nyac Airport,"Nyac, AK",60.98055556,-159.9936111
+ZXB,Double Eagle II,"Albuquerque, NM",35.14527778,-106.7952778
+ZXC,Ward Field,"Gasquet, CA",41.84555556,-123.98472220000001
+ZXF,Illinois Creek Airport,"Illinois Creek, AK",64.11666667,-157.35
+ZXH,Chomondely Sound Airport,"Chomondely Sound, AK",55.23916667,-132.11416670000003
+ZXI,Coal Bay Airport,"Coal Bay, AK",55.50055556,-132.4875
+ZXJ,Happy Harbour Airport,"Happy Harbour, AK",55.48833333,-132.3333333
+ZXK,Lancaster Cove Airport,"Lancaster Cove, AK",55.21666667,-132.0863889
+ZXL,Reid Cove Airport,"Reid Cove, AK",55.2,-132.2383333
+ZXM,Saltery Cove Airport,"Saltery Cove, AK",55.40861111,-132.3291667
+ZXN,Clover Bay Airport,"Clover Bay, AK",55.29888889,-132.145
+ZXO,El Capitan Peak,"El Capitan, AK",56.18416667,-133.3105556
+ZXP,Salmon Bay Lake Airport,"Salmon Bay Lake, AK",56.23722222,-133.1888889
+ZXT,Cloverdale Municipal,"Cloverdale, CA",38.77638889,-122.9925
+ZXU,Quonset State,"North Kingstown, RI",41.59722222,-71.41222222
+ZXV,Nappanee Municipal,"Nappanee, IN",41.44611111,-85.93611111
+ZXW,Paradise Skypark,"Paradise, CA",39.71055556,-121.61638889999999
+ZXX,Vista Field,"Kennewick, WA",46.21861111,-119.21
+ZXY,Blake Field,"Delta, CO",38.78638889,-108.0636111
+ZXZ,Waterville Airport,"Waterville, WA",47.65611111,-120.0563889
+ZZV,Zanesville Municipal,"Zanesville, OH",39.94444444,-81.89194444
+FHB,Fernandina Beach Municipal,"Fernandina Beach, FL",30.61194444,-81.46111111
+BVU,Beluga Airport,"Beluga, AK",61.17277778,-151.0427778
+KMC,McCord Seaplane Base,"McCord, AK",57.13333333,-153.2
+NEU,Nellie Juan Airport,"Nellie Juan, AK",60.55,-148.16666669999998
+VZL,Peter Pan Seafoods,"South Naknek, AK",58.73333333,-156.95
+SAW,K. I. Sawyer AFB,"Marquette, MI",46.35361111,-87.39527778
+TX8,Slaton Municipal,"Slaton, TX",33.48527778,-101.6616667
+MS2,Picayune Municipal,"Picayune, MS",30.4875,-89.65111111
+UOS,Franklin County,"Sewanee, TN",35.20527778,-85.89805556
+GUF,Jack Edwards,"Gulf Shores, AL",30.28972222,-87.67166667
+AL4,South Alabama Regional at Bill Benton Field,"Andalusia/Opp, AL",31.30833333,-86.39222222
+MI4,Frankfort Dow Memorial Field,"Frankfort, MI",44.62527778,-86.20083333
+NY4,Potsdam Municipal Damon Field,"Potsdam, NY",44.67666667,-74.94833333
+ADT,Ada Regional,"Ada, OK",34.80416667,-96.67111111
+WNC,Naukati Bay Seaplane Base,"Tuxekan Island, AK",55.84972222,-133.22777779999998
+L41,Marble Canyon Airport,"Marble Canyon, AZ",36.81083333,-111.64444440000001
+6B0,Middlebury State,"Middlebury, VT",43.98555556,-73.09555556
+U36,Aberdeen Municipal,"Aberdeen, ID",42.92111111,-112.88083329999999
+LIA,Lima Airport,"Lima, OH",40.7625,-84.17916667
+AUS,Robert Mueller Municipal,"Austin, TX",30.29805556,-97.70138889
+CT1,Robertson Field,"Plainville, CT",41.68944444,-72.86472222
+NY5,Sky Acres,"Millbrook, NY",41.7075,-73.73805556
+ID1,Driggs-Reed Memorial,"Driggs, ID",43.74277778,-111.09666670000001
+PGR,Kirk Field,"Paragould, AR",36.06388889,-90.50916667
+AZ4,Sheepy Hollow Ranch,"Salome, AZ",33.7875,-113.6425
+SD2,Gregory Municipal Flynn Field,"Gregory, SD",43.22166667,-99.40333333
+VGC,Hamilton Municipal,"Hamilton, NY",42.84333333,-75.56111111
+AL5,Demopolis Regional,"Demopolis, AL",32.46388889,-87.95416667
+S24,Sandusky County Regional,"Fremont, OH",41.29583333,-83.03722222
+MD1,Freeway,"Michellville, MD",38.94138889,-76.7725
+MS3,Philadelphia Municipal,"Philadelphia, MS",32.79916667,-89.12611111
+MN4,Wadena Municipal,"Wadena, MN",46.45,-95.21083333
+OH8,Bluffton Airport,"Bluffton, OH",40.88555556,-83.86861111
+AA7,Independence Creek Airport,"Independence Creek, AK",65.67361111,-162.4641667
+BEC,Beech Factory,"Wichita, KS",37.69388889,-97.215
+GA4,Jackson County,"Jefferson, GA",34.17611111,-83.56166667
+MA2,Turners Falls,"Montague, MA",42.59166667,-72.52305556
+MA3,Taunton Municipal King Field,"Taunton, MA",41.87444444,-71.01638889
+AK1,Kelly Creek Airstrip,"Seward Peninsula, AK",65.77277778,-165.8902778
+AK2,Bear Fish Camp Airport,"Bear Fish Camp, AK",60.71027778,-151.7211111
+PNN,Princeton Municipal,"Princeton, ME",45.20055556,-67.56444444
+CT2,Simsbury Airport,"Simsbury, CT",41.93277778,-72.77694444
+WV2,Logan County,"Logan, WV",37.85555556,-81.91583333
+AL6,H. L. Sonny Callahan,"Fairhope, AL",30.46055556,-87.87694444
+NY7,Skaneateles Aero Drome,"Skaneateles, NY",42.91388889,-76.44083333
+NY6,Fulton County,"Johnstown, NY",42.99805556,-74.32944444
+MN5,Red Wing Regional,"Red Wing, MN",44.58944444,-92.485
+MPE,Griswold,"Madison, CT",41.27111111,-72.54972222
+NC6,Henderson Oxford,"Oxford, NC",36.36111111,-78.52972222
+ME2,Islesboro Airport,"Islesboro, ME",44.3025,-68.91055556
+PA3,Cherry Ridge,"Honesdale, PA",41.51555556,-75.25166667
+AK3,Gold King Creek,"Fairbanks, AK",64.19805556,-147.9286111
+AK4,Squaw Lake Airport,"Squaw Lake, AK",67.58055556,-148.16472219999997
+TN9,Gatlinburg-Pigeon Forge,"Sevierville, TN",35.85777778,-83.52861111
+NC7,Michael J. Smith Field,"Beaufort, NC",34.73388889,-76.66027778
+IN3,Indianapolis Metro,"Indianapolis, IN",39.93527778,-86.045
+NY8,Mattituck Airport,"Mattituck, NY",40.98694444,-72.51916667
+WA9,Anderson Field,"Brewster, WA",48.105,-119.72055559999998
+CA6,Chemehuevi Valley Airport,"Chemehuevi Valley, CA",34.52888889,-114.43194440000002
+PA4,Carlisle Airport,"Carlisle, PA",40.18777778,-77.17416667
+DE2,Summit,"Middletown, DE",39.52111111,-75.72361111
+BPI,Miley Memorial Field,"Big Piney, WY",42.58222222,-110.1088889
+PGC,Grant County,"Petersburg, WV",38.995,-79.14583333
+PA5,Brandywine,"West Chester, PA",39.99,-75.58194444
+MA4,Marshfield Municipal George Harlow Field,"Marshfield, MA",42.0975,-70.67305556
+MVC,Monroe County Aeroplex,"Monroeville, AL",31.45805556,-87.35111111
+VA5,Hanover County Municipal,"Richmond, VA",37.70888889,-77.43666667
+OH9,Medina Municipal,"Medina, OH",41.13138889,-81.765
+FL6,Airglades,"Clewiston, FL",26.73527778,-81.05111111
+TOI,Troy Municipal at N Kenneth Campbell Field,"Troy, AL",31.86,-86.01388889
+LA1,Natchitoches Regional,"Notchitoches, LA",31.73583333,-93.09916667
+CTZ,Clinton Sampson County,"Clinton, NC",34.975,-78.36555556
+IN4,Eagle Creek Airpark,"Indianapolis, IN",39.83083333,-86.29444444
+ME3,Belfast Municipal,"Belfast, ME",44.40944444,-69.01194444
+OBE,Okeechobee County,"Okeechobee, FL",27.26666667,-80.85027778
+RBW,Lowcountry Regional,"Walterboro, SC",32.92111111,-80.64055556
+MA5,Northampton Airport,"Northampton, MA",42.32805556,-72.61111111
+IA4,Pella Municipal,"Pella, IA",41.40111111,-92.94583333
+NH1,Hampton Airfield,"Hampton, NH",42.96138889,-70.83027778
+TX9,Winters Municipal,"Winters, TX",31.94722222,-99.98583333
+NC8,Burlington Alamance Regional,"Burlington, NC",36.04972222,-79.47305556
+ME4,Oxford County Regional,"Oxford, ME",44.1575,-70.48138889
+JWY,Mid Way Regional,"Midlothian/Waxahachie, TX",32.45833333,-96.9125
+LA2,Hammond Northshore Regional,"Hammond, LA",30.52166667,-90.41833333
+OR4,Bend Municipal,"Bend, OR",44.09444444,-121.2002778
+AZ5,Springerville Municipal,"Springerville, AZ",34.12944444,-109.31083329999998
+OEO,L O Simenstad Municipal,"Osceola, WI",45.30944444,-92.69
+NV2,Jean Airport,"Jean, NV",35.76833333,-115.3297222
+7AK,Akun Airport,"Akun, AK",54.14472222,-165.60416669999998
+NJ4,Ocean City Municipal,"Ocean City, NJ",39.26333333,-74.6075
+NY9,Hornell Municipal,"Hornell, NY",42.38222222,-77.68222222
+1NY,Penn Yan Airport,"Penn Yan, NY",42.63694444,-77.05277778
+NV3,Searchlight Airport,"Searchlight, NV",35.44444444,-114.90944440000001
+BBW,Broken Bow Municipal Keith Glaze Field,"Broken Bow, NE",41.43638889,-99.64222222
+SC4,Berkeley County,"Moncks Corner, SC",33.18555556,-80.03611111
+AK5,Qugruc Airport,"Qugruc, AK",70.37027778,-150.4211111
+AK6,Gold King 2 Airport,"Gold King 2, AK",64.07138889,-148.0
+GA5,Thomson McDuffie County,"Thomson, GA",33.52972222,-82.51694444
+SC5,Summerville Airport,"Summerville, SC",33.06222222,-80.28083333
+AK7,Hunter Creek,"Rampart, AK",65.47722222,-150.05083330000002
+NJ5,Sussex Airport,"Sussex, NJ",41.20027778,-74.62305556
+VT1,Deerfield Valley Regional,"West Dover, VT",42.92722222,-72.86555556
+MN6,Hallock Municipal,"Hallock, MN",48.75277778,-96.94305556
+CT3,Windham,"Willimantic, CT",41.74416667,-72.18027778
+CA7,Tracy Municipal,"Tracy, CA",37.68888889,-121.44166670000001
+DHB,Deer Harbor Marina,"Deer Harbor, WA",48.62083333,-123.00305559999998
+AK8,Zips Airport,"Zips, AK",60.43333333,-151.4833333
+VT2,Warren Sugarbush,"Warren, VT",44.1175,-72.82694444
+NJ6,Flying W,"Lumberton, NJ",39.93416667,-74.80722222
+ME5,Bethel Regional,"Bethel, ME",44.42527778,-70.81
+WI3,Ephraim Gibralter,"Ehpriam, WI",45.13583333,-87.18805556
+AK9,Tolstoi Bay Airport,"Tolstoi Bay, AK",55.73333333,-132.4333333
+ME6,Cole Dyke,"Bethel2, ME",44.50055556,-71.87833333
+MQI,Quincy Airport,"Quincy, MA",42.25,-71.0
+NM1,Belen Municipal,"Belen, NM",34.645,-106.8336111
+AZ6,Gila Bend Municipal,"Gila Bend, AZ",32.96027778,-112.6736111
+NC9,Richmond County,"Rockingham, NC",34.89138889,-79.75972222
+PA6,"Pittsburgh1, PA: Pittsburgh Northeast","Pittsburgh, PA",40.60361111,-79.82611111
+CT4,Candlelight Farms,"New Milford, CT",41.56916667,-73.46194444
+FAQ,Fitiuta,"Fitiuta Village, TT",-14.21583333,-169.4238889
+WA1,Camp Orkila Seaplane Base,"Camp Orkila Eastsound, WA",48.68555556,-122.93472220000001
+WA3,Shaw Islands Water Aerodrome,"Shaw Island, WA",48.58527778,-123.00861110000001
+CT5,Danielson Airport,"Danielson, CT",41.81972222,-71.90083333
+T1X,Gainesville Municipal,"Gainesville, TX",33.65222222,-97.19722222
+KIP,Kickapoo Downtown,"Wichita Falls, TX",33.86055556,-98.49027778
+NE3,York Municipal,"York, NE",40.89638889,-97.62416667
+AA2,Icicle Seafoods,"Naknek-1, AK",58.70944444,-157.0713889
+IN6,Clark Regional,"Jeffersonville, IN",38.36555556,-85.73805556
+BBD,Curtis Field,"Brady, TX",31.17916667,-99.32388889
+DE3,Delware Airpark,"Dover-Cheswold, DE",39.21833333,-75.59666667
+A1K,Point Thomson Airstrip,"Deadhorse1, AK",70.13611111,-146.29
+AL7,Walker County Bevill Field,"Jasper, AL",33.90194444,-87.31388889
+PA7,New Garden,"Toughkenamon, PA",39.83055556,-75.76972222
+GA6,Cherokee County,"Canton, GA",34.31222222,-84.42222222
+WHP,Whiteman,"Los Angeles, CA",34.25944444,-118.41333329999999
+MRF,Marfa Municipal,"Marfa, TX",30.37111111,-104.0175
+N1Y,Canandaigua Airport,"Canandaigua, NY",42.90888889,-77.32527778
+CT6,Goodspeed,"East Haddam, CT",41.44555556,-72.45555556
+GTY,Gettysburg Regional,"Gettysburg, PA",39.84138889,-77.27472222
+MI6,Dowagiac Municipal,"Dowagiac, MI",41.99305556,-86.12805556
+PA8,Perkiomen Valley,"Collegeville, PA",40.20416667,-75.43027778
+GA0,Heart of Georgia Regional,"Eastman, GA",32.21638889,-83.12861111
+PA9,Rock,"Tarentum, PA",40.64222222,-79.85611111
+MT2,Three Forks Airport,"Three Forks, MT",45.87805556,-111.56944440000001
+T2X,Hereford Municipal,"Hereford, TX",34.86083333,-102.3258333
+TN5,Lafayette Municipal,"Lafayette, TN",36.52,-86.05805556
+A3K,Smith Bay Airport,"Smith Bay, AK",70.76583333,-154.2308333
+VA6,Smith Mountain Lake,"Moneta, VA",37.10777778,-79.5925
+A4K,Dune Lake Airport,"Dune Lake, AK",64.42138889,-149.89444440000003
+JCT,Kimble County,"Junction, TX",30.51111111,-99.76277778
+C1A,Del Mar Farms,"Patterson, CA",37.54638889,-121.1586111
+T3X,El Coyote Ranch,"Encino, TX",26.85833333,-98.22166667
+NY3,Ledgedale Airpark,"Brockport, NY",43.18111111,-77.91555556
+T4X,Austin Executive Airpark,"Austin, TX",30.41361111,-97.665
+T5X,Castroville Municipal,"Castroville , TX",29.3425,-98.85111111
+MD2,Maryland,"Indian Head, MD",38.59694444,-77.0725
+NV4,Reno Stead,"Reno, NV",39.66805556,-119.8763889
+N2Y,Finger Lakes Regional,"Seneca Falls, NY",42.88361111,-76.78111111
+N2C,Charlotte Monroe Executive,"Monroe, NC",35.0175,-80.62194444
+A6K,Van Curlers Sandbar,"Fairbanks1, AK",65.04472222,-145.4230556
+VA7,Bridgewater Air Park,"Bridgewater, VA",38.36666667,-78.96027778
+O1H,Holmes County,"Millersburg, OH",40.53666667,-81.95583333
+A7K,Nakochna Airport,"Nakochna, AK",62.03611111,-151.4522222
+N3Y,Ticonderoga Municipal,"Ticonderoga, NY",43.87722222,-73.41305556
+NV5,Black Rock City,"Gerlach, NV",40.76222222,-119.21083329999999
+NJ7,Old Bridge,"New Jersey, NJ",40.33,-74.34666667
+N3C,Macon County,"Franklin, NC",35.22222222,-83.42
+O2H,Knox County,"Mount Vernon, OH",40.32888889,-82.52611111
+NH2,Gorham Airport,"Gorham, NH",44.39361111,-71.19805556
+NH3,Dean Memorial,"Haverhill, NH",44.08027778,-72.00777778
+ME7,Stonington Municipal,"Stonington, ME",44.17333333,-68.68027778
+AL8,Scottsboro Municipal Word Field,"Scottsboro, AL",34.68861111,-86.00583333
+AR3,Bentonville Municipal Louise M Thaden Field,"Bentonville, AR",36.34527778,-94.21944444
+O3H,Bolton Field,"Columbus, OH",39.90111111,-83.13694444
+O4H,Delaware Municipal Jim Moore Field,"Delaware, OH",40.27944444,-83.11333333
+T1N,Robert Sibley,"Selmer, TN",35.20305556,-88.49833333
+IN7,Indy South Greenwood,"Indianapolis, IN",39.6275,-86.08805556
+MS4,Panola County,"Batesville, MS",34.36361111,-89.89277778
+IL2,Effingham County Memorial,"Effingham, IL",39.07055556,-88.53361111
+T6X,Houston Executive,"Houston, TX",29.805,-95.89777778
+GNT,Grants Milan Municipal,"Grants, NM",35.16722222,-107.90194440000002
+DYL,Doylestown Airport,"Doylestown, PA",40.33305556,-75.12222222
+T7X,Wildcat Canyon,"China Spring, TX",31.67861111,-97.3625
+N4C,Raleigh Exec Jetport at Sanford Lee County,"Sanford, NC",35.5825,-79.10138889
+FL7,Coral Creek,"Placida, FL",26.85361111,-82.2525
+N5C,Columbus County Municipal,"Whiteville, NC",34.27277778,-78.715
+T8X,McKinney National,"Dallas, TX",33.17694444,-96.58888889
+BWC,Brawley Municipal,"Brawley, CA",32.99305556,-115.5172222
+BFG,Bullfrog Basin,"Glen Canyon, UT",37.54583333,-110.71333329999999
+O5H,Wood County,"Bowling Green, OH",41.39111111,-83.63027778
+LA3,Port of South Louisiana Executive,"Reserve, LA",30.0875,-90.58277778
+FME,Tipton,"Fort Meade, MD",39.08527778,-76.75944444
+LNR,Tri County Regional,"Lone Rock, WI",43.21194444,-90.17972222
+APH,A P Hill AAF,"Fort A P Hill, VA",38.06861111,-77.31888889
+N6C,Siler City Municipal,"Siler City, NC",35.70416667,-79.50416667
+CO1,Monte Vista Municipal,"Monte Vista, CO",37.52861111,-106.04583329999998
+RNH,New Richmond Regional,"New Richmond, WI",45.14777778,-92.53916667
+VA8,Richmond Executive Chesterfield County,"Richmond, VA",37.40638889,-77.52472222
+MO3,Richland Municipal,"Richland, MO",37.875,-92.40805556
+T2N,Cleveland Regional Jetport,"Clevland, TN",35.21138889,-84.79972222
+P1A,Nemacolin,"Farmington, PA",39.80555556,-79.54888889
+WI4,Middleton Municipal Morey Field,"Middleton, WI",43.11416667,-89.53166667
+O6H,Ashland County,"Ashland, OH",40.90305556,-82.25555556
+GA7,Greene County Regional,"Greensboro, GA",33.59805556,-83.13833333
+KY6,Mayfield Graves County,"Mayfield, KY",36.76972222,-88.58472222
+T9X,Dimmit County,"Carrizo Springs, TX",28.52222222,-99.82361111
+RNM,Ramona Airport,"Ramona, CA",33.03916667,-116.9152778
+OPN,Thomaston Upson County,"Thomaston, GA",32.955,-84.26416667
+VHN,Culberson County,"Van Horn, TX",31.05777778,-104.78388890000001
+AL9,Merkel Field Sylacauga Municipal,"Sylacauga, AL",33.17194444,-86.30555556
+TRL,Terrell Municipal,"Terrell, TX",32.70861111,-96.26722222
+NJ8,Greenwood Lake,"West Milford, NJ",41.12833333,-74.34666667
+WI5,Monroe Municipal,"Moroe, WI",42.615,-89.59027778
+MN7,Anoka County Blaine,"Minneapolis, MN",45.145,-93.21027778
+EST,Estherville Municipal,"Estherville, IA",43.4075,-94.74638889
+P2A,Penns Landing Heliport,"Philadelphia, PA",39.93722222,-75.14138889
+A5K,Paxson Airport,"Paxson, HI",63.02444444,-145.50055559999998
+A5K,Paxson Airport,"Paxson, AK",63.02444444,-145.50055559999998
+AA9,Napaimute Pioneer Airfield,"Napaimute, AK",61.53638889,-158.7388889
+NE4,Smith Field,"Champion, NE",40.48194444,-101.8130556
+MA6,Hopedale Industrial Park,"Hopedale, MA",42.10638889,-71.51
+ZZZ,Unknown Point in Alaska,Unknown Point in Alaska,,
